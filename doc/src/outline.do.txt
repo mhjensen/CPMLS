@@ -8,7 +8,7 @@ DATE: today
 
 
 !split
-===== Master program in Computational Physics, Mathematics and Life Science (CPMLS)  =====
+===== Master program in Computational Physics, Mathematics and Life Science =====
 !bblock
 We propose a new Master of Science program at the Faculty of Mathematics and Natural Sciences of the University of Oslo. This program is called  _Computational Physics, Mathematics and Life Science_, with acronym  _CS_ ('Computational ... Scienceææ).
 

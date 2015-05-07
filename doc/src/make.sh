@@ -11,11 +11,10 @@ function system {
 }
 
 if [ $# -eq 0 ]; then
-echo 'bash make.sh slides1|slides2'
-exit 1
-fi
-
+name=outline
+else
 name=$1
+fi
 rm -f *.tar.gz
 
 opt="--encoding=utf-8"
@@ -49,18 +48,14 @@ system doconce split_html $html.html --method=space8
 
 # LaTeX Beamer slides
 beamertheme=red_plain
-system doconce format pdflatex $name --latex_title_layout=beamer --latex_table_format=footnotesize $opt
-system doconce ptex2tex $name envir=minted
-# Add special packages
-doconce subst "% Add user's preamble" "\g<1>\n\\usepackage{simplewick}" $name.tex
+system doconce format pdflatex $name --latex_title_layout=beamer --latex_table_format=footnotesize --latex_code_style=pyg $opt
 system doconce slides_beamer $name --beamer_slide_theme=$beamertheme
 system pdflatex -shell-escape ${name}
 cp $name.pdf ${name}-beamer.pdf
 cp $name.tex ${name}-beamer.tex
 
 # Handouts
-system doconce format pdflatex $name --latex_title_layout=beamer --latex_table_format=footnotesize $opt
-system doconce ptex2tex $name envir=minted
+system doconce format pdflatex $name --latex_title_layout=beamer --latex_table_format=footnotesize  --latex_code_style=pyg $opt
 # Add special packages
 doconce subst "% Add user's preamble" "\g<1>\n\\usepackage{simplewick}" $name.tex
 system doconce slides_beamer $name --beamer_slide_theme=red_shadow --handout
@@ -71,10 +66,7 @@ rm -f ${name}.pdf
 
 # Ordinary plain LaTeX document
 rm -f *.aux  # important after beamer
-system doconce format pdflatex $name --minted_latex_style=trac --latex_admon=paragraph $opt
-system doconce ptex2tex $name envir=minted
-# Add special packages
-doconce subst "% Add user's preamble" "\g<1>\n\\usepackage{simplewick}" $name.tex
+system doconce format pdflatex $name --minted_latex_style=trac --latex_admon=paragraph --latex_code_style=pyg $opt
 doconce replace 'section{' 'section*{' $name.tex
 pdflatex -shell-escape $name
 mv -f $name.pdf ${name}-minted.pdf

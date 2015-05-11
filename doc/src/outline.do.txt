@@ -10,7 +10,8 @@ DATE: today
 !split
 ===== Master program in Computational Physics, Mathematics and Life Science =====
 !bblock
-We propose a new Master of Science program at the Faculty of Mathematics and Natural Sciences of the University of Oslo. This program is called  _Computational Physics, Mathematics and Life Science_, with acronym  _CS_ ('Computational ... Scienceææ).
+We propose a new Master of Science program at the Faculty of Mathematics and Natural Sciences of the University of Oslo. This program is called  _Computational Physics, Mathematics and Life Science_, with acronym  _CPMLS_ 
+#('Computational ... Scienceææ).
 
 The program is a collaboration between four departments and classical disciplines:
 
@@ -19,19 +20,22 @@ The program is a collaboration between four departments and classical discipline
  * Department of Mathematics
  * Department of Physics
 
-The Department of Physics will be the organizational unit where the program resides.
+The program will be administrated by the Department of Physics. 
 The program is based on the highly successful Computational Physics direction under the present Master program
 in physics at the University of Oslo.
 
-The program is multidisciplinary and all students who have completed undergraduate studies in science and enginereeing are eligible.  The language of instruction is English.
+The program is multidisciplinary and all students who have completed undergraduate studies in science and enginereeing, with a sufficient quantitative background, are eligible.  The language of instruction is English.
 !eblock
 
+!split
+===== Strategic importance =====
 
+The program will educate the next generation of cross-disciplinary science students with the knowledge, skills, and values needed to pose and solve current and new scientific, technological and societal challenges. The program will lay the foundation for cross-disciplinary educational, research and innovation activities at the Faculty. The program will contribute to building a common cross-disciplinary approach to the key strategic initiatives at the Faculty: Energy, Materials, Life Science, and Enabling Technologies. 
 
-
+A particular strength of physics students have traditionally been their ability to pose and solve problems that combine physical insights with mathematical tools and now also computational skills. This provides a unique combination of applied and theoretical knowledge and skills, which have allows the studies to be of use across field. In this program, we build on and refine this philosophy.  The main focus is not to educate computer specialists, but to educate students with specilized knowledge and skills in a field, but with an integrated knowledge of how computational methods are used as part of that field. This requires an education that covers both the subject field --- physics, biology, geoscience --- with a strong background in computational methods. 
 
 !split
-===== Simulations are key to our understanding =====
+===== Scientific and educational motivation =====
 
 !bblock Applications of simulation
 Numerical simulations of various systems in science are central to our
@@ -245,11 +249,9 @@ Students in this program have a number of interesting international
 exchange possibilities. The involved researchers have extensive
 collaborations with other researchers worldwide. These exchange
 possibility range from top universities in the USA, Asia and Europe as
-well as leading National Laboratories in the USA.  Students may select
-to take all or part of their degree abroad.
+well as leading National Laboratories in the USA.  
+#Students may select Ato take all or part of their degree abroad.
 !eblock
-
-
 
 !split
 ===== Career prospects =====

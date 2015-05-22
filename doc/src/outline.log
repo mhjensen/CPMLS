@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  22 MAY 2015 14:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  22 MAY 2015 14:40
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1261,11 +1261,11 @@ Package rerunfilecheck Info: File `outline.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 540.
  ) 
 Here is how much of TeX's memory you used:
- 22609 strings out of 493488
- 398650 string characters out of 3141326
+ 22611 strings out of 493488
+ 398672 string characters out of 3141326
  498495 words of memory out of 3000000
  25346 multiletter control sequences out of 15000+200000
- 53133 words of font info for 97 fonts, out of 3000000 for 9000
+ 53216 words of font info for 98 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  68i,7n,65p,922b,551s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/lo
@@ -1279,7 +1279,7 @@ al/texlive/2012/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2
 012/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2012/texmf-di
 st/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2012/texmf-dist/fonts/typ
 e1/public/lm/lmsy10.pfb>
-Output written on outline.pdf (6 pages, 171110 bytes).
+Output written on outline.pdf (6 pages, 171109 bytes).
 PDF statistics:
  137 PDF objects out of 1000 (max. 8388607)
  119 compressed objects within 2 object streams

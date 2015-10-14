@@ -90,19 +90,21 @@ div { text-align: justify; text-justify: inter-word; }
               ('Computing competence', 2, None, '___sec7'),
               ('Key elememts in computing competence', 2, None, '___sec8'),
               ('Learning outcomes', 2, None, '___sec9'),
-              ('Specific skills', 2, None, '___sec10'),
+              ('Specific skills and general competence', 2, None, '___sec10'),
               ('Structure and courses', 2, None, '___sec11'),
-              ('Structure', 2, None, '___sec12'),
-              ('Admission', 2, None, '___sec13'),
+              ('Structure and specialized modules', 2, None, '___sec12'),
+              ('Structure', 2, None, '___sec13'),
+              ('Thesis directions', 2, None, '___sec14'),
+              ('Admission', 2, None, '___sec15'),
               ('The program opens up for flexible backgrounds',
                2,
                None,
-               '___sec14'),
+               '___sec16'),
               ('Study abroad and international collaborators',
                2,
                None,
-               '___sec15'),
-              ('Career prospects', 2, None, '___sec16')]}
+               '___sec17'),
+              ('Career prospects', 2, None, '___sec18')]}
 end of tocinfo -->
 
 <body>

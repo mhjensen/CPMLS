@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.8)  14 OCT 2015 08:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 OCT 2015 14:25
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -907,128 +907,42 @@ Package zref Info: New property: mdf@pagevalue on input line 895.
 
 
 Writing index file Masterprogram.idx
-(/usr/local/texlive/2015/texmf-dist/tex/latex/idxlayout/idxlayout.sty
-Package: idxlayout 2012/03/30 v0.4d Configurable index layout
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
-\c@tracingmulticols=\count169
-\mult@box=\box59
-\multicol@leftmargin=\dimen198
-\c@unbalance=\count170
-\c@collectmore=\count171
-\doublecol@number=\count172
-\multicoltolerance=\count173
-\multicolpretolerance=\count174
-\full@width=\dimen199
-\page@free=\dimen200
-\premulticols=\dimen201
-\postmulticols=\dimen202
-\multicolsep=\skip124
-\multicolbaselineskip=\skip125
-\partial@page=\box60
-\last@line=\box61
-\maxbalancingoverflow=\dimen203
-\mult@rightbox=\box62
-\mult@grightbox=\box63
-\mult@gfirstbox=\box64
-\mult@firstbox=\box65
-\@tempa=\box66
-\@tempa=\box67
-\@tempa=\box68
-\@tempa=\box69
-\@tempa=\box70
-\@tempa=\box71
-\@tempa=\box72
-\@tempa=\box73
-\@tempa=\box74
-\@tempa=\box75
-\@tempa=\box76
-\@tempa=\box77
-\@tempa=\box78
-\@tempa=\box79
-\@tempa=\box80
-\@tempa=\box81
-\@tempa=\box82
-\c@columnbadness=\count175
-\c@finalcolumnbadness=\count176
-\last@try=\dimen204
-\multicolovershoot=\dimen205
-\multicolundershoot=\dimen206
-\mult@nat@firstbox=\box83
-\colbreak@box=\box84
-\mc@col@check@num=\count177
-)
-\c@idxcols=\count178
-\indexcolsep=\skip126
-\indexrule=\skip127
-\ila@indentunit=\skip128
-\ila@initsep=\skip129
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tocbibind/tocbibind.sty
-Package: tocbibind 2010/10/13 v1.5k extra ToC listings
-Package tocbibind Info: The document has section divisions on input line 50.
-
-
-Package tocbibind Note: Using section or other style headings.
-
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/ms/ragged2e.sty
-Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ms/everysel.sty
-Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
-)
-\CenteringLeftskip=\skip130
-\RaggedLeftLeftskip=\skip131
-\RaggedRightLeftskip=\skip132
-\CenteringRightskip=\skip133
-\RaggedLeftRightskip=\skip134
-\RaggedRightRightskip=\skip135
-\CenteringParfillskip=\skip136
-\RaggedLeftParfillskip=\skip137
-\RaggedRightParfillskip=\skip138
-\JustifyingParfillskip=\skip139
-\CenteringParindent=\skip140
-\RaggedLeftParindent=\skip141
-\RaggedRightParindent=\skip142
-\JustifyingParindent=\skip143
-)
 No file Masterprogram.aux.
 \openout1 = `Masterprogram.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 70.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count179
-\scratchdimen=\dimen207
-\scratchbox=\box85
-\nofMPsegments=\count180
-\nofMParguments=\count181
+\scratchcounter=\count169
+\scratchdimen=\dimen198
+\scratchbox=\box59
+\nofMPsegments=\count170
+\nofMParguments=\count171
 \everyMPshowfont=\toks40
-\MPscratchCnt=\count182
-\MPscratchDim=\dimen208
-\MPnumerator=\count183
-\makeMPintoPDFobject=\count184
+\MPscratchCnt=\count172
+\MPscratchDim=\dimen199
+\MPnumerator=\count173
+\makeMPintoPDFobject=\count174
 \everyMPtoPDFconversion=\toks41
 )
-LaTeX Info: Redefining \microtypecontext on input line 72.
+LaTeX Info: Redefining \microtypecontext on input line 70.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1060,8 +974,8 @@ e
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-\AtBeginShipoutBox=\box86
-Package hyperref Info: Link coloring ON on input line 72.
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring ON on input line 70.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1069,48 +983,47 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count185
+\c@section@level=\count175
 )
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
+LaTeX Info: Redefining \ref on input line 70.
+LaTeX Info: Redefining \pageref on input line 70.
+LaTeX Info: Redefining \nameref on input line 70.
 
 (./Masterprogram.out) (./Masterprogram.out)
 \@outlinefile=\write5
 \openout5 = `Masterprogram.out'.
 
 
-ABD: EveryShipout initializing macros ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 72.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 97.
+ABD: EveryShipout initializing macros
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 95.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 97.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 95.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 97.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 95.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 97.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 95.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 97.
+(Font)              <10> on input line 95.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 97.
+(Font)              <7> on input line 95.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 97.
-LaTeX Font Info:    Try loading font information for U+msa on input line 97.
+(Font)              <5> on input line 95.
+LaTeX Font Info:    Try loading font information for U+msa on input line 95.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1118,7 +1031,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 97.
+LaTeX Font Info:    Try loading font information for U+msb on input line 95.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1130,17 +1043,17 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 137.
+(Font)              <9> on input line 135.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 137.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 167.
+(Font)              <6> on input line 135.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 165.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 167.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 165.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
@@ -1148,16 +1061,22 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 ) [5]
-Overfull \hbox (4.64098pt too wide) in paragraph at lines 479--492
+Overfull \hbox (4.64098pt too wide) in paragraph at lines 478--491
 [][] 
  []
 
-[6] [7] [8]
+[6]
+Overfull \hbox (8.13751pt too wide) in paragraph at lines 515--528
+[][] 
+ []
+
+[7] [8]
 No file Masterprogram.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 662.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 662.
-(./Masterprogram.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 662.
+[9]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 736.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 736.
+ (./Masterprogram.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 736.
 
 
  *File List*
@@ -1260,11 +1179,6 @@ pgfcomp-version-1-18.sty    2007/07/23 v3.0.0 (rcs-revision 1.1)
   pgffor.code.tex
     tikz.code.tex
 md-frame-1.mdf    2013/07/01\ 1.9b: md-frame-1
-idxlayout.sty    2012/03/30 v0.4d Configurable index layout
-multicol.sty    2015/03/31 v1.8m multicolumn formatting (FMi)
-tocbibind.sty    2010/10/13 v1.5k extra ToC listings
-ragged2e.sty    2009/05/21 v2.1 ragged2e Package (MS)
-everysel.sty    2011/10/28 v1.2 EverySelectfont Package (MS)
    t1lmr.fd    2009/10/30 v1.6 Font defs for Latin Modern
 supp-pdf.mkii
   mt-cmr.cfg    2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
@@ -1290,17 +1204,17 @@ Masterprogram.out
   uni-32.def    2013/05/13 UCS: Unicode data U+2000..U+20FF
  ***********
 
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 662.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 736.
 Package rerunfilecheck Info: File `Masterprogram.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 662.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 736.
  ) 
 Here is how much of TeX's memory you used:
- 26030 strings out of 493089
- 490872 string characters out of 6134842
- 575037 words of memory out of 5000000
- 28941 multiletter control sequences out of 15000+600000
- 53714 words of font info for 104 fonts, out of 8000000 for 9000
+ 25676 strings out of 493089
+ 484963 string characters out of 6134842
+ 567645 words of memory out of 5000000
+ 28596 multiletter control sequences out of 15000+600000
+ 53797 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,7n,64p,10398b,551s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/lo
@@ -1314,10 +1228,10 @@ al/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2015/texmf-di
 st/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
 e1/public/lm/lmsy10.pfb>
-Output written on Masterprogram.pdf (8 pages, 183253 bytes).
+Output written on Masterprogram.pdf (9 pages, 186201 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 133 compressed objects within 2 object streams
- 52 named destinations out of 1000 (max. 500000)
+ 163 PDF objects out of 1000 (max. 8388607)
+ 142 compressed objects within 2 object streams
+ 58 named destinations out of 1000 (max. 500000)
  16397 words of extra memory for PDF output out of 17280 (max. 10000000)
 

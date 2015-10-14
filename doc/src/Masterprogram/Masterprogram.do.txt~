@@ -153,23 +153,68 @@ Biology connected with the CINPLA project.
 !bblock
 
 The new proposed program will also take a leading responsibility in further
-developments of the highly successful "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" initiative at UiO.
+developments of the highly successful "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" initiative at UiO.  Master of science thesis projects linked up to the CSE project will be offered.
 
 If the program becomes successful, it will naturally lead to
-new cross-disciplonary research and a need for a new department
+new cross-disciplinary research and a need for a new department
 in computational science.
+!eblock
+
+
+!split 
+===== Computing competence ===== 
+!bblock
+Computing means solving scientific problems using computers. It covers
+numerical as well as symbolic computing. Computing is also about
+developing an understanding of the scientific process by enhancing the
+algorithmic thinking when solving problems.  Computing competence has
+always been a central part of the science and engineering
+education. 
+
+Computing competence is about
+
+* derivation, verification, and implementation of algorithms
+* understanding what can go wrong with algorithms
+* overview of important, known algorithms
+* understanding how algorithms are used to solve mathematical problems
+* reproducible science and ethics
+* algorithmic thinking for gaining deeper insights about scientific problems
+!eblock
+
+!split 
+===== Key elememts in computing competence =====
+!bblock
+The power of the scientific method lies in identifying a given problem
+as a special case of an abstract class of problems, identifying
+general solution methods for this class of problems, and applying a
+general method to the specific problem (applying means, in the case of
+computing, calculations by pen and paper, symbolic computing, or
+numerical computing by ready-made and/or self-written software). This
+generic view on problems and methods is particularly important for
+understanding how to apply available, generic software to solve a
+particular problem.  
+
+
+Computing competence represents a central element
+in scientific problem solving, from basic education and research to
+essentially almost all advanced problems in modern
+societies. Computing competence is simply central to further
+progress. It enlarges the body of tools available to students and
+scientists beyond classical tools and allows for a more generic
+handling of problems. Focusing on algorithmic aspects results in
+deeper insights about scientific problems.
+
+Today's projects in science and industry tend to involve larger teams. Tools for reliable collaboration must therefore be mastered (e.g., version control systems, automated computer experiments for reproducibility, software and method documentation).
 !eblock
 
 
 !split
 ===== Learning outcomes =====
 !bblock
-Students of this program learn to use the computer as a laboratory for solving problems in science and engineering. The program offers exciting thesis projects from many disciplines: biology and life science, chemistry, mathematics, informatics, physics, geophysics, mechanics, geology, computational finance  – the students choose their  field according to their own interests.
+Students of this program learn to use the computer as a laboratory for solving problems in science and engineering. The program offers exciting thesis projects from many disciplines: biology and life science, chemistry, mathematics, informatics, physics, geophysics, mechanics, geology, computational finance, digital signal processing and image analysis  – the students choose their  field according to their own interests. 
 
-A Master’s degree from this program gives the student  a
-methodical training in planning, conducting, and reporting large research
-projects, often together with other students and university
-teachers. Projects usually emphasise finding practical solutions,
+A Master’s degree from this program gives the student   a methodical training in planning, conducting, and reporting large research projects, often together with other students and university teachers. 
+Projects usually emphasise finding practical solutions,
 developing an intuitive understanding of the science and the
 scientific methods needed to solve complicated problems, use of many
 tools, and not least developing your own creativity and independent
@@ -177,25 +222,24 @@ thinking. The thesis work is a scientific project where the students learn to
 tackle a scientific problem in a professional manner.
 !eblock
 
+!split
 ===== Specific skills =====
+!bblock
+The students learns to understand and develop insights in high-level scientific problems, involving a fundamental understanding of the methods and tools which are necessary and to present these results orally and in written form as scientific reports. In addition, students learn to get
 
-Forstå og ha innsikt i fysikk på et avansert nivå.
-Ha kunnskap om avanserte analytiske metoder (matematikk og statistikk).
-Ha grunnleggende innsikt i vitenskapelig arbeid.
-Ferdighetsmål
-Kunne arbeide med analytiske og numeriske metoder.
-Kunne bruke måleutstyr og utføre til dels svært avanserte eksperimenter.
-Kunne kritisk vurdere og analysere vitenskapelige måldata.
-Kunne kritisk vurdere måleutstyr og feilkilder.
-Kunne bruke profesjonelt dataverktøy.
-Kunne bruke kompliserte analytiske modeller og avanserte programpakker.
-Kunne lage nye dataprogrammer.
-Kunne lage en strukturert og kritisk skriftlig fremstilling.
-Kunne arbeide både selvstendig og i samarbeid med andre.
-Generelle kompetansemål
-Du skal ved endt program kunne reflektere over sentrale, etiske og vitenskapelige problemstillinger i forhold til eget og andres arbeid. Programmet skal bidra til å utvikle din faglige nysgjerrighet og gi deg forståelse og respekt for vitenskapelige verdier som åpenhet, presisjon, etterrettelighet og betydningen av å skille mellom kunnskap og meninger.
-
-
+* Deep knowledge of the most fundamental algorithms involved, how optimizatize these  and statistical uncertainty quantification.
+* Overview of advanced algorithms and how they can be accessed in available software.
+* Knowledge of high-performance computing elements: memory usage, vectorized and parallel algorithms.
+* Understanding of approximation errors.
+* Knowledge of at least one computer algebra system and how it is applied to perform classical mathematics (calculus, linear algebra, differential equations - with verification).
+* Extensive experience with programming in a high-level language (MATLAB, Python, R). Experience with programming in a compiled language (Fortran, C, C++).
+* Experience with implementing and applying numerical algorithms in reusable software that acknowledges the generic nature of the mathematical algorithms.
+* Experience with debugging software, e.g., as part of implementing comprehensive tests.
+* Experience with programming of testing procedures.
+* Experience with different visualization techniques for different types of computed data.
+* Experience with presenting computed results in scientific reports and oral presentations.
+* Critical evaluation of results and errors
+* Be able to develop software and algorithms for solving complicated scientific problems independently and/or in collaboration with other students.
 
 !eblock
 

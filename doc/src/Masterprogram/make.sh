@@ -73,10 +73,10 @@ mv -f $name.pdf ${name}-minted.pdf
 cp $name.tex ${name}-plain-minted.tex
 
 # IPython notebook
-system doconce format ipynb $name $opt
+#system doconce format ipynb $name $opt
 
 # Publish
-dest=../pub
+dest=../../pub
 if [ ! -d $dest/$name ]; then
 mkdir $dest/$name
 mkdir $dest/$name/pdf

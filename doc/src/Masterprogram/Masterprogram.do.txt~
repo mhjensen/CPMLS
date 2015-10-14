@@ -1,11 +1,13 @@
 TITLE: Master program in Computational Physics, Mathematics and Life Science
+AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
 AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
 AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
 AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo
 AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo
 AUTHOR: Knut Mørken at Department of Mathematics, University of Oslo
-DATE: today
+AUTHOR: Joakim Sundnes at Department of Informatics, University of Oslo & Simula Research Laboratory
+DATE: October 2015
 
 
 !split
@@ -30,6 +32,9 @@ The program is multidisciplinary and all students who have completed
 undergraduate studies in science and engineering, with a sufficient
 quantitative background, are eligible.  The language of instruction is
 English.  
+
+#add about UMB
+
 !eblock
 
 !split
@@ -159,10 +164,8 @@ in computational science.
 !split
 ===== Learning outcomes =====
 !bblock
-Students of this program learn to use the computer as a laboratory for solving problems in science and engineering. The program offers exciting thesis projects from many disciplines: biology and life science, chemistry, mathematics, informatics, physics, geophysics, mechanics, geology  – the students choose their  field according to their own interests.
-!eblock
+Students of this program learn to use the computer as a laboratory for solving problems in science and engineering. The program offers exciting thesis projects from many disciplines: biology and life science, chemistry, mathematics, informatics, physics, geophysics, mechanics, geology, computational finance  – the students choose their  field according to their own interests.
 
-!bblock
 A Master’s degree from this program gives the student  a
 methodical training in planning, conducting, and reporting large research
 projects, often together with other students and university
@@ -172,11 +175,10 @@ scientific methods needed to solve complicated problems, use of many
 tools, and not least developing your own creativity and independent
 thinking. The thesis work is a scientific project where the students learn to
 tackle a scientific problem in a professional manner.
+!eblock
 
+===== Specific skills =====
 
-Tar du en master i fysikk vil du delta i prosjekt i den internasjonale forskningsfronten. Gjennom å være en integrert del av en spesialisert forskningsgruppe vil du opparbeide deg både forskererfaring, -kunnskap og -ferdigheter, samt opparbeide deg et faglig nettverk.
-
-Kunnskapsmål
 Forstå og ha innsikt i fysikk på et avansert nivå.
 Ha kunnskap om avanserte analytiske metoder (matematikk og statistikk).
 Ha grunnleggende innsikt i vitenskapelig arbeid.

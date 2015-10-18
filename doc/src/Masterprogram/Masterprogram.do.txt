@@ -26,7 +26,7 @@ The program is a collaboration between five departments and classical discipline
 
 The program will be administrated by the Department of Physics.
 The program is based on the highly successful Computational Physics direction under the present Master program
-in physics at the University of Oslo.
+in Physics at the University of Oslo.
 
 The program is multidisciplinary and all students who have completed
 undergraduate studies in science and engineering, with a sufficient
@@ -49,13 +49,12 @@ program will contribute to building a common cross-disciplinary
 approach to the key strategic initiatives at the Faculty: Energy,
 Materials, Life Science, and Enabling Technologies.
 
-A particular strength of physics students is their ability to pose and
+A specific aim of this program is to develop the students' ability to pose and
 solve problems that combine physical insights with mathematical tools
-and now also computational skills. This provides a unique combination
+and computational skills. This provides a unique combination
 of applied and theoretical knowledge and skills. These features are invaluable
 for the development of multi-disciplinary educational and research programs.
-In this program we build on and
-refine this philosophy.  The main focus is not to educate computer
+The main focus is not to educate computer
 specialists, but to educate students with a solid understanding in basic science
 as well as an integrated knowledge on how  to use
 essential methods from computational science. This requires an
@@ -91,7 +90,7 @@ topics for coming thesis projects as well as research directions.
 !eblock
 
 !bblock Job market
-A large number of the candidates from the four involved departments
+A large number of the candidates from the five involved departments
 get jobs where numerical simulations are central and essential. The proposed
 program will raise the educational quality in this area, because
 our candidates need a broader understanding of the possibilities
@@ -113,7 +112,7 @@ a multi-disciplinary educational program.
 
 !bblock
 The proposed program will foster candidates with the right
-multi-disciplinary background and comutational thinking for
+multi-disciplinary background and computational thinking for
 understanding today's simulation technology and its challenges.
 !eblock
 
@@ -122,19 +121,17 @@ understanding today's simulation technology and its challenges.
 ===== The new program combines old and new initiatives =====
 !bblock
 
-This program builds on the strengths and successes of two existing master's
+This program builds on the strengths and successes of two existing Master of Science directions at the University of Oslo, namely the 
 programs in Computational Physics (at the Dept. of Physics) and
 Applied Mathematics and Mechanics (at the Dept. of Mathematics).
-
-A new master's program in Computational Life Science must anyway be developed to
-meet coming needs of the scientific community. If successful, it will
-position the University of Oslo as the leading institution
-nationally in computational life science. We believe this new program is
+These programs were established in 2003.
+Based on the experience from these programs, the hope is that the proposed program can enlarge the reach of disciplines where computations play and/or are expected to play  a large. In particular, new directions 
+in Computational Life Science need to  be developed to
+meet coming needs of the scientific community. We believe this new direction is
 best developed in close collaboration with already successful
-computational science programs.
+computational science programs.  In particular, we believe that there are strong synergy effects between the University of Oslo and the Norwegian 
+University of Life Sciences in the field of Computational Life Science.
 
-The program in Computational Life Sciences will have a strong
-link to the Norwegian University of Life Sciences.
 !eblock
 
 
@@ -188,7 +185,7 @@ Modern computing competence is about
 !eblock
 
 !split
-===== Key elememts in computing competence =====
+===== Key elements in computing competence =====
 !bblock
 The power of the scientific method lies in identifying a given problem
 as a special case of an abstract class of problems, identifying
@@ -220,7 +217,7 @@ Today's projects in science and industry tend to involve larger teams. Tools for
 Students of this program learn to use the computer as a laboratory for solving problems in science and engineering. The program offers exciting thesis projects from many disciplines: biology and life science, chemistry, mathematics, informatics, physics, geophysics, mechanics, geology, computational finance, digital signal processing and image analysis  – the students choose their  field according to their own interests.
 
 A Master’s degree from this program gives the student   a methodical training in planning, conducting, and reporting large research projects, often together with other students and university teachers.
-Projects usually emphasise finding practical solutions,
+Projects usually emphasize finding practical solutions,
 developing an intuitive understanding of the science and the
 scientific methods needed to solve complicated problems, use of many
 tools, and not least developing your own creativity and independent
@@ -231,7 +228,7 @@ tackle a scientific problem in a professional manner.
 !split
 ===== Specific skills and general competence =====
 !bblock
-The students learns to understand and develop insights in high-level scientific problems, involving a fundamental understanding of the methods and tools which are necessary and to present these results orally and in written form as scientific reports/articles. In addition, students learn to get
+The students learn to understand and develop insights in high-level scientific problems, involving a fundamental understanding of the methods and tools which are necessary and to present these results orally and in written form as scientific reports/articles. In addition, students learn to get
 
 * Deep knowledge of the most fundamental algorithms involved, how to optimize these  and understand statistical uncertainty quantifications.
 * Overview of advanced algorithms and how they can be accessed in available software.
@@ -303,7 +300,7 @@ The above set up shows how courses may be broken up in smaller modules.
 
 
 !split
-===== Structure =====
+===== Presently available courses at UiO and NMBU =====
 !bblock
 Here follows a list of suggested courses that students may include in their required course load.
 
@@ -368,7 +365,7 @@ The following higher education entrance qualifications are needed
 
 The above undergraduate degrees have some minimal requirements on specializations which need to be fulfilled.  The average mark
 for the specific specialization has at least to be C (letter marks).
-As an example, a bacherlor degrees in Chemistry has a minimal requirement on chemistry courses. The average mark on these chemistry courses should
+As an example, an undergraduate degree in Chemistry has a minimal requirement on chemistry courses. The average mark on these chemistry courses should
 at least be C.
 
 !eblock
@@ -390,7 +387,7 @@ unique feature of this program.
 
 !bblock
 
-Students at the University of Oslo may choose to take part of
+Students at the University of Oslo may choose to take parts of
 their degrees at a university abroad.
 
 Students in this program have a number of interesting international

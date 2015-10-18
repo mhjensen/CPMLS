@@ -11,7 +11,7 @@ function system {
 }
 
 if [ $# -eq 0 ]; then
-name=outline
+name=Masterprogram
 else
 name=$1
 fi

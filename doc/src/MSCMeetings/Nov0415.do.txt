@@ -1,0 +1,53 @@
+TITLE: First board meeting of Master program in Computational Physics, Mathematics and Life Science 
+AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
+AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
+AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
+AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo
+AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo & Simula Research Laboratory
+AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo
+AUTHOR: Knut Mørken at Department of Mathematics, University of Oslo
+AUTHOR: Grete Stavik-Døvle  at Department of Physics, University of Oslo
+AUTHOR: Joakim Sundnes at Department of Informatics, University of Oslo & Simula Research Laboratory
+AUTHOR: Marte Julie Sætra  at Department of Physics, University of Oslo
+DATE: November 4, 2015
+
+
+!split
+===== Master program in Computational Physics, Mathematics and Life Science =====
+!bblock
+
+The program is a collaboration between five departments and classical disciplines:
+
+ * Department of Biosciences
+ * Department of Chemistry
+ * Department of Informatics
+ * Department of Mathematics
+ * Department of Physics
+
+The program is multidisciplinary and all students who have completed
+undergraduate studies in science and engineering, with a sufficient
+quantitative background, are eligible.  The language of instruction is
+English.
+
+!eblock
+
+
+!split
+===== Agenda November 4, 2015, 10am-12pm =====
+!bblock
+Our main tasks are to discuss and agree on learning goals and competences as well as admission criteria. The deadline for the first _iteration_ to MN-fac is November 10. 
+
+o Welcome and presentation of board members and invited guests, 15 min
+o Overview of the material that has been developed and rationale for the program, 20 min
+o Discussion of learning outcomes and competences, see material on "github address":"http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html", 40 min
+o Discussions and topics to prepare for next meetings, 30 min
+  * Thesis and research directions, preparing documentation and pool of potential supervisors
+  * New members from Department of Mathematics
+  * Integrating the program with NMBU
+  * Exisiting Courses and courses/modules to be developed 
+o Additional topics
+!eblock
+
+
+
+

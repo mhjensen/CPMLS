@@ -1,0 +1,310 @@
+
+% LaTeX Beamer file automatically generated from DocOnce
+% https://github.com/hplgit/doconce
+
+%-------------------- begin beamer-specific preamble ----------------------
+
+\documentclass{beamer}
+
+\usetheme{red_plain}
+\usecolortheme{default}
+
+% turn off the almost invisible, yet disturbing, navigation symbols:
+\setbeamertemplate{navigation symbols}{}
+
+% Examples on customization:
+%\usecolortheme[named=RawSienna]{structure}
+%\usetheme[height=7mm]{Rochester}
+%\setbeamerfont{frametitle}{family=\rmfamily,shape=\itshape}
+%\setbeamertemplate{items}[ball]
+%\setbeamertemplate{blocks}[rounded][shadow=true]
+%\useoutertheme{infolines}
+%
+%\usefonttheme{}
+%\useinntertheme{}
+%
+%\setbeameroption{show notes}
+%\setbeameroption{show notes on second screen=right}
+
+% fine for B/W printing:
+%\usecolortheme{seahorse}
+
+\usepackage{pgf}
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage{relsize}
+
+\usepackage{fancybox}  % make sure fancybox is loaded before fancyvrb
+
+\usepackage{fancyvrb}
+%\usepackage{minted} % requires pygments and latex -shell-escape filename
+%\usepackage{anslistings}
+%\usepackage{listingsutf8}
+
+\usepackage{amsmath,amssymb,bm}
+%\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{colortbl}
+\usepackage[english]{babel}
+\usepackage{tikz}
+\usepackage{framed}
+% Use some nice templates
+\beamertemplatetransparentcovereddynamic
+
+% --- begin table of contents based on sections ---
+% Delete this, if you do not want the table of contents to pop up at
+% the beginning of each section:
+% (Only section headings can enter the table of contents in Beamer
+% slides generated from DocOnce source, while subsections are used
+% for the title in ordinary slides.)
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>[plain]
+  \frametitle{}
+  %\frametitle{Outline}
+  \tableofcontents[currentsection]
+  \end{frame}
+}
+% --- end table of contents based on sections ---
+
+% If you wish to uncover everything in a step-wise fashion, uncomment
+% the following command:
+
+%\beamerdefaultoverlayspecification{<+->}
+
+\newcommand{\shortinlinecomment}[3]{\note{\textbf{#1}: #2}}
+\newcommand{\longinlinecomment}[3]{\shortinlinecomment{#1}{#2}{#3}}
+
+\definecolor{linkcolor}{rgb}{0,0,0.4}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=linkcolor,
+    urlcolor=linkcolor,
+    pdfmenubar=true,
+    pdftoolbar=true,
+    bookmarksdepth=3
+    }
+\setlength{\parskip}{0pt}  % {1em}
+
+\newenvironment{doconceexercise}{}{}
+\newcounter{doconceexercisecounter}
+\newenvironment{doconce:movie}{}{}
+\newcounter{doconce:movie:counter}
+
+\newcommand{\subex}[1]{\noindent\textbf{#1}}  % for subexercises: a), b), etc
+
+%-------------------- end beamer-specific preamble ----------------------
+
+% Add user's preamble
+
+
+
+
+% insert custom LaTeX commands...
+
+\raggedbottom
+\makeindex
+
+%-------------------- end preamble ----------------------
+
+\begin{document}
+
+% matching end for #ifdef PREAMBLE
+% #endif
+
+
+
+% ------------------- main content ----------------------
+
+
+
+% ----------------- title -------------------------
+
+\title{First board meeting of Master program in Computational Physics, Mathematics and Life Science }
+
+% ----------------- author(s) -------------------------
+
+\author{Andreas Austeng\inst{1}
+\and
+Michele Cascella\inst{2}
+\and
+Marianne Fyhn\inst{3}
+\and
+Morten Hjorth-Jensen\inst{4}
+\and
+Hans Petter Langtangen\inst{1,5}
+\and
+Anders Malthe-Sørenssen\inst{4}
+\and
+Knut Mørken\inst{6}
+\and
+Grete Stavik-Døvle\inst{4}
+\and
+Joakim Sundnes\inst{1,5}
+\and
+Marte Julie Sætra\inst{4}}
+\institute{Department of Informatics, University of Oslo\inst{1}
+\and
+Department of Chemistry, University of Oslo\inst{2}
+\and
+Department of Biosciences, University of Oslo\inst{3}
+\and
+Department of Physics, University of Oslo\inst{4}
+\and
+Simula Research Laboratory\inst{5}
+\and
+Department of Mathematics, University of Oslo\inst{6}}
+% ----------------- end author(s) -------------------------
+
+\date{November 4, 2015
+% <optional titlepage figure>
+% <optional copyright>
+}
+
+\begin{frame}[plain,fragile]
+\titlepage
+\end{frame}
+
+\begin{frame}[plain,fragile]
+\frametitle{Master program in Computational Physics, Mathematics and Life Science}
+
+\begin{block}{}
+
+The program is a collaboration between five departments and classical disciplines:
+
+\begin{itemize}
+ \item Department of Biosciences
+
+ \item Department of Chemistry
+
+ \item Department of Informatics
+
+ \item Department of Mathematics
+
+ \item Department of Physics
+\end{itemize}
+
+\noindent
+The program is multidisciplinary and all students who have completed
+undergraduate studies in science and engineering, with a sufficient
+quantitative background, are eligible.  The language of instruction is
+English.
+
+\end{block}
+\end{frame}
+
+\begin{frame}[plain,fragile]
+\frametitle{Agenda November 4, 2015, 10am-12pm}
+
+\begin{block}{}
+Our main tasks are to discuss and agree on learning goals and competences as well as admission criteria. The deadline for the first \textbf{iteration} to MN-fac is November 10. 
+
+\begin{enumerate}
+\item Welcome and presentation of board members and invited guests, 15 min
+
+\item Overview of the material that has been developed and rationale for the program, 20 min
+
+\item Discussion of learning outcomes and competences, see material on \href{{http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html}}{github address}, 40 min
+
+\item Discussions and topics to prepare for next meetings, 30 min
+\begin{itemize}
+
+  \item Thesis and research directions, preparing documentation and pool of potential supervisors
+
+  \item New members from Department of Mathematics
+
+  \item Integrating the program with NMBU
+
+  \item Exisiting Courses and courses/modules to be developed 
+
+\end{itemize}
+
+\noindent
+\item Additional topics
+\end{enumerate}
+
+\noindent
+\end{block}
+\end{frame}
+
+\begin{frame}[plain,fragile]
+\frametitle{Some overarching topics}
+
+\begin{block}{}
+\begin{itemize}
+\item Numerical simulations of various systems in science are central to our basic understanding of nature and technlogy. UiO is very strong on computational science. A dedicated master program will send strong signals to new students.
+
+\item To build up an activity in computational life science
+
+\item Develop new research directions in computational science with a \textbf{focus on multiscale science and cross-disciplinary research}
+
+\item Strengthen the CSE initiative
+
+\item Some of us have a wider agenda, a new department in Computational Science, along the lines of that developed at \href{{http://msutoday.msu.edu/news/2015/new-department-advances-computational-science-research-education/}}{Michigan State University}
+\end{itemize}
+
+\noindent
+\end{block}
+\end{frame}
+
+\begin{frame}[plain,fragile]
+\frametitle{Integrating with NMBU}
+
+\begin{block}{Two paths: }
+
+\begin{itemize}
+\item A common program, owned by UiO and NMBU. Students apply locally and register their credits locally but can have supervisors and take courses from both universities. The degree is awarded locally. This is most likely the simplest path. 
+
+\item A cotutelle program, with the same modalities as above but common degrees. This is more difficult and UiO has not been very keen about cotutelle agreements at the MSc level or PhD level.  
+\end{itemize}
+
+\noindent
+\end{block}
+\end{frame}
+
+\begin{frame}[plain,fragile]
+\frametitle{Thesis directions (and need of new board members)}
+
+\begin{block}{}
+\begin{itemize}
+\item Computational mathematics
+
+\item Computational mechanics and fluid mechanics  (NEED people here)
+
+\item Computational chemistry
+
+\item Computational physics
+
+\item Computational materials science
+
+\item Computational life science
+
+\item Image analysis and signal processing
+
+\item Computational finance and statistics   (NEED people here)
+\end{itemize}
+
+\noindent
+\end{block}
+\end{frame}
+
+\begin{frame}[plain,fragile]
+\frametitle{Tasks}
+
+\begin{block}{}
+\begin{itemize}
+\item Identify courses and courses that can be modularized and integrated in the program
+
+\item Develop a pool of MSc thesis projects  
+
+\item Identify a pool of potential MSc supervisors
+
+\item Identify eventual new board members
+\end{itemize}
+
+\noindent
+\end{block}
+\end{frame}
+
+\end{document}

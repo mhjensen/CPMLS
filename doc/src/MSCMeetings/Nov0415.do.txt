@@ -48,6 +48,50 @@ o Discussions and topics to prepare for next meetings, 30 min
 o Additional topics
 !eblock
 
+!split
+===== Some overarching topics =====
+!bblock
+* Numerical simulations of various systems in science are central to our basic understanding of nature and technlogy. UiO is very strong on computational science. A dedicated master program will send strong signals to new students.
+* To build up an activity in computational life science
+* Develop new research directions in computational science with a _focus on multiscale science and cross-disciplinary research_
+* Strengthen the CSE initiative
+* Some of us have a wider agenda, a new department in Computational Science, along the lines of that developed at "Michigan State University":"http://msutoday.msu.edu/news/2015/new-department-advances-computational-science-research-education/"
+!eblock
+
+
+
+!split
+===== Integrating with NMBU =====
+!bblock Two paths:
+
+* A common program, owned by UiO and NMBU. Students apply locally and register their credits locally but can have supervisors and take courses from both universities. The degree is awarded locally. This is most likely the simplest path. 
+* A cotutelle program, with the same modalities as above but common degrees. This is more difficult and UiO has not been very keen about cotutelle agreements at the MSc level or PhD level.  
+!eblock
+
+
+!split
+===== Thesis directions (and need of new board members) =====
+!bblock
+* Computational mathematics
+* Computational mechanics and fluid mechanics  (NEED people here)
+* Computational chemistry
+* Computational physics
+* Computational materials science
+* Computational life science
+* Image analysis and signal processing
+* Computational finance and statistics   (NEED people here)
+!eblock
+
+!split
+===== Tasks =====
+!bblock
+* Identify courses and courses that can be modularized and integrated in the program
+* Develop a pool of MSc thesis projects  
+* Identify a pool of potential MSc supervisors
+* Identify eventual new board members
+!eblock
+
+
 
 
 

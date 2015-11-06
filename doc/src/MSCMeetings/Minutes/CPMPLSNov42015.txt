@@ -1,0 +1,137 @@
+===== Minutes from first CPMLS meeting, November 4 2015 =====
+
+=== Preliminarly appointed  board members: ===
+o Andreas Austeng, Department of Informatics, University of Oslo
+o Michele Cascella, Department of Chemistry, University of Oslo
+o Marianne Fyhn, Department of Biosciences, University of Oslo
+o Morten Hjorth-Jensen, Department of Physics, University of Oslo
+o Hans Petter Langtangen, Department of Informatics, University of Oslo & Simula Research Laboratory
+o Katrine Langvad (administration), Department of Physics, University of Oslo
+o Anders Malthe-Sørenssen, Department of Physics, University of Oslo
+o Knut Mørken, Department of Mathematics, University of Oslo
+o Grete Stavik-Døvle (administration), Department of Physics, University of Oslo
+o Joakim Sundnes, Department of Informatics, University of Oslo & Simula Research Laboratory
+o Marte Julie Sætra (student representative), Department of Physics, University of Oslo
+
+=== Present board members: ===
+Andreas A, Michele C, Marianne F, Morten HJ, Hans Petter L, Katrine L, Anders MS, Grete SD, Joakim S,  and Marte Julie S. 
+Excused: Knut M
+
+=== Invited ===
+Tom Andersen (IBV), Arne Bang Huseby (MI), Atle Jensen (MI), Kent-Andre Mardal (MI), Gaute Einevoll (NMBU), Hans Ekkerhard Plesser (NMBU), Ingunn Burud (NMBU)
+
+
+=== Agenda ===
+
+o Welcome and presentation of board members and invited guests, 15 min
+o Overview of the material that has been developed and rationale for the program, 20 min
+o Discussion of learning outcomes and competences, see material on "github address":"http://mhjensen.github.io/CPMLS/doc/pub/Masterprogram/html/Masterprogram.html", 40 min
+o Discussions and topics to prepare for next meetings, 30 min
+  * Thesis and research directions, preparing documentation and pool of potential supervisors
+  * New members from Department of Mathematics
+  * Integrating the program with NMBU
+  * Exisiting Courses and courses/modules to be developed 
+o Additional topics
+
+=== Minutes ===
+After welcoming words and introductions, 
+Morten HJ gave a brief orientation about the initiative, with a focus on 
+
+* Numerical simulations of various systems in science are central to our basic understanding of nature and technlogy. UiO is very strong on computational science. A dedicated master program will send strong signals to new students.
+* The needs and inputs from the community to  build up an activity in computational life science
+* Develop new research directions in computational science with a focus on multiscale science and cross-disciplinary research.
+* Strengthen the CSE initiative
+* Some of us have a wider agenda, a new department in Computational Science, along the lines of that developed at "Michigan State University":"http://msutoday.msu.edu/news/2015/new-department-advances-computational-science-research-education/"
+
+We wish to keep this process as fluid and open as possible, with the hope to arrive at
+an innovative  Master of Science program, with a good cross-disciplinary profile and with potential to shape new research directions. And obviously to attract top students.  
+
+Thereafter followed a good discussion on learning outcomes and admission criteria.
+With the input from the Master of Science program in Physics, it was decided to reformulate our learning goals. An important aspect which was mentioned is that the courses and modules to be developed should reflect the learning outcomes. 
+Other topics discussed were: 
+* General aspects on the understading of the scientific method
+* Software carpentry and version control
+* Specific computational skills
+* Science ethics and reproducible science at all levels
+
+Morten HJ promised a revised draft before the end of the week. See attachment below to these minutes. 
+
+Admission criteria were also discussed. There was a general consensus that the requirments in the original version needed to be sharpened by requiring a block of 30-40 ECTS in mathematics and programming in addition to the specific specialization.
+The mathematics courses could entail courses like MAT1100, MAT1110, Mat1120, MAT-INF1100. Programing skills should be at the level of INF1100 or similar courses. 
+The revised and suggested admission criteria are attached, see below
+
+Concerns about how many students, whom to accept, requirement on grades, whether we should organize admission exams, accept letters of recommendation, a posteriori evaluation of course performance and other topics were also discussed. The discussion was very constructive and several of these issues will most likely resurface  at later stages as well.  
+
+After these discussions, the following topics were discussed:
+
+=== Integrating with NMBU ===
+
+* A common program, owned by UiO and NMBU. Students apply locally and register their credits locally but can have supervisors and take courses from both universities. The degree is awarded locally. This is most likely the simplest path. 
+* A cotutelle program, with the same modalities as above but common degrees. This is more difficult and UiO has not been very keen about cotutelle agreements at the MSc level or PhD level.  
+
+
+The general consensus was that we should first establish this as a UiO program, consolidating thereby collaborations on courses/modules and final outline of the scientific profile of program. However, the attendees were all favorable to  keep open all possible links with NMBU. After our meeting, Morten HJ received the following mail from Hanne Sølna, study coordinator at the MN-fac of UiO (text in Norwegian, google translate does a decent job)
+//
+Hei Solveig og Morten
+Kopi: Jonny og Anne-Lise
+
+Nå har vi fått gode innspill fra Anne-Lise og Jonny (regelekspert på UiO sentralt) på hva som er mulige løsninger rundt CPML og involvering av NMBU. Nedenfor er et ekstrakt av innspillene fra disse to.
+
+En forutsetning for å få grad ved UiO er tilhørighetskravet som innebærer at minst 60 sp av graden må være avlagt ved UiO.
+
+UiO har vært borti forskjellige modeller når det gjelder samarbeid om grad: 
+
+(1) Fellesgrader (slik IFI -  HiOA-samarbeidet etter hvert skal bli)
+(2) Dobbelgrader (parallelle studieprogram, hver sine grader)
+(3) Studieprogramsamarbeid med én gradsutstedende institusjon (slik IFI-HiOA samarbeidet har vært)
+
+Det høres ut som om man er på (2) i dette tilfellet (?). UiO har erfaring med slike opplegg, for eksempel fra TF, JF og HF. I så fall er det viktigste poenget at studentene som skal ha grad fra UiO må avlegge minst 60 studiepoeng her, og de må helst ha avlagt masteroppgaven sin her (ev. under en eller annen form for samarbeidsavtale).  
+
+Uansett må det på plass en avtale angående ressurser både med hensyn på hva man investerer (studieplasser) og hvordan plasser på emner skal fordeles og hvordan påmelding til emner foregår.
+
+Det hadde kanskje vært en god ide å møtes for å ta prat om dette så vi ikke snubler i noen misforståelser innledningsvis. Jeg tror det er viktig at både dere to, Anne-Lise, Jonny og jeg deltar så vi får en felles foreståelse.
+ 
+Hilsen Hanne
+//
+
+
+=== New board members
+There was a clear consensus that the program should try to reflect
+the following research and study directions
+
+* Computational mathematics
+* Computational mechanics and fluid mechanics 
+* Computational chemistry
+* Computational physics
+* Computational materials science
+* Computational life science
+* Image analysis and signal processing
+* Computational finance and statistics 
+
+Everybody present agreed that one should try to have members of the board that reflect these research directions. Furthermore, Anders MS mentioned also the inclusion of
+* Computational geosciences
+A topic which was also raised was about big data. The latter would fit excellently 
+in this program and add something new. 
+
+Arne Bang Huseby volunteered to represent Computational finance and statistics. Everybody was very pleased with this. 
+Geir Dahl has expressed an interest in representing Comp Math. Atle Jensen and Kent-Andre Mardal will discuss this further with the mechanics group. The most likely course is that the dept of Math sends a final suggestion and that the new members get approved by MN-fak.
+
+There was also mention of having a representative for big data, and the names of Arnoldo
+Frigessi and Ingrid Glad were mentioned. 
+
+
+Finally, the following topics were listed as future assignments.
+
+===== Tasks =====
+* Identify courses and courses that can be modularized and integrated in the program and linked properly with learning outcomes.
+* Develop a pool of MSc thesis projects  
+* Identify a pool of potential MSc supervisors
+
+
+Thanks for a very constructive meeting.
+
+Morten HJ
+
+
+
+

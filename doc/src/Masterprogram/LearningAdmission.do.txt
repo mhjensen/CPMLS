@@ -1,12 +1,15 @@
 TITLE: Master program in Computational Physics, Mathematics and Life Science
+AUTHOR: Tom Andersen at Department of Biosciences, University of Oslo
 AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
+AUTHOR: Arne Bang Huseby at Department of Mathematics, University of Oslo
 AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
 AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
 AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo
 AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo
+AUTHOR: Kend-Andre Mardal at Department of Mathematics, University of Oslo
 AUTHOR: Knut Mørken at Department of Mathematics, University of Oslo
-AUTHOR: Grete Stavik-Døvle at Department of Physics, University of Oslo
+AUTHOR: Grete Stavik-Døvle (adminiat Department of Physics, University of Oslo
 AUTHOR: Joakim Sundnes at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Marte Julie Sætra at Department of Physics, University of Oslo
 DATE: October 2015
@@ -18,25 +21,27 @@ DATE: October 2015
 
 !split
 ===== Overarching description of the CPMLS program  =====
-!bblock
-Students of this program learn to use the computer as a laboratory for solving problems in science and engineering. The program offers exciting thesis projects from many disciplines: biology and life science, chemistry, mathematics, informatics, physics, geophysics, mechanics, geology, computational finance, digital signal processing and image analysis  – the students choose their  field according to their own interests.
 
-A Master’s degree from this program gives the student   a methodical training in planning, conducting, and reporting large research projects, often together with other students and university teachers.
-Projects usually emphasize finding practical solutions,
-developing an intuitive understanding of the science and the
-scientific methods needed to solve complicated problems, use of many
-tools, and not least developing your own creativity and independent
-thinking. The thesis work is a scientific project where the students learn to
-tackle a scientific problem in a professional manner.
-!eblock
+Students of this program learn to use the computer as a laboratory for
+solving problems in science and engineering. The program offers
+exciting thesis projects from many disciplines: biology and life
+science, chemistry, mathematics, informatics, physics, geophysics,
+mechanics, geology, computational finance, computational informatics, bid data analysis, digital signal processing
+and image analysis – the candidates select research field according to
+their interests.
 
-Students of this program gain a deep 
-Computing means solving scientific problems using computers. It covers
-numerical as well as symbolic computing. Computing is also about
-developing an understanding of the scientific process by enhancing
-algorithmic thinking when solving problems.  Computing competence has
-always been a central part of the science and engineering
-education.
+A Master’s degree from this program gives the candidate a methodical
+training in planning, conducting, and reporting large research
+projects, often together with other students and university teachers.
+THe projects emphasize finding practical solutions, developing an
+intuitive understanding of the science and the scientific methods
+needed to solve complicated problems, use of many tools, and not least
+developing own creativity and independent thinking. The thesis
+work is a scientific project where the candidates learn to tackle a
+scientific problem in a professional manner.   The program aims also at 
+developing a deep understanding of the role of computing in solving modern scientific
+problems. A candidate from this program gains  deep insights in the fundamnetal role 
+computations play  in our advancement of science and technology, as well as the role computations play  in society.
 
 
 
@@ -45,50 +50,61 @@ education.
 !bblock
 
 A candidate with a Master of Science degree from this program
+
+
 * has deep knowledge of the scientific method at an advanced level
   o This implies the ability to understand advanced scientific results in new fields
-* Can develop and apply advanced computational 
+  o To gain  a fundamental understanding of the methods and tools which are necessary
+  o Can develop and apply advanced computational methods to scientific problems
+  o Is capable of judging and analyzing all parts of the obtained scientific results
+  o Is able to improve upon exisiting algorithms and develop proper error estimates and critically assess the validity of the results
+  o To present these results orally and in written form as scientific reports/articles.
+  o Critically evaluate and analyze scientific data and error sources
+  o Can propose new hypotheses and and suggest solution paths
+  o Can generalize mathematical algorithms and apply them to new situations 
+  o For more applied directions, to be able to link the numerical results with specific applications and/or experimental data
+  o To be able to develop mathematical models and algorithms in order to describe experimental data
+  o To understand at a deeper level how to make science reproducible and how to link this to a sound ethical scienfitic conduct
 
 
-The students learn to understand and develop insights in high-level scientific problems, involving a fundamental understanding of the methods and tools which are necessary and to present these results orally and in written form as scientific reports/articles. In addition, students learn to get
+* has a deep understanding of what computing means entailing several of the topics listed here
+  o To develop  a deep understanding of how  computing is used to  solve  scientific problems
+ o Deep knowledge of the most fundamental algorithms involved, how to optimize these  and understand statistical uncertainty quantifications.
+ o  Overview of advanced algorithms and how they can be accessed in available software and how they are used to solve scientific problems.
+ o Knowledge of high-performance computing elements: memory usage, vectorization and parallel algorithms.
+ o Understanding of approximation errors and what can go wrong with algorithms
+ o Knowledge of at least one computer algebra system and how it is applied to perform classical mathematics (calculus, linear algebra, differential equations - with verification).
+ o Extensive experience with programming in a high-level language (MATLAB, Python, R). Experience with programming in a compiled language (Fortran, C, C++).
+ o Experience with implementing and applying numerical algorithms in reusable software that acknowledges the generic nature of the mathematical algorithms.
+ o Experience with debugging software, e.g., as part of implementing comprehensive tests.
+ o Experience with programming of testing procedures.
+ o Experience with different visualization techniques for different types of computed data.
+  o Critical evaluation of results and errors using various testing environments
+ o Be able to develop software and algorithms for solving complicated scientific problems independently and/or in collaboration with other students.
+ o  To be able to design a maintainable program in a systematic way, using tools such as version control and modern scripting languages, enhances thereby the understanding of software carpentry
+ o To understand how to increase the efficiency of numerical algorithms and pertinent software
+ o To be able to use effeciently high-performance computing resources, from compilers to hardware architecture
+ o To be able to develop stringent requirements to efficiency and precision of software.
+  o To understand and use proper tools to make science reproducible, as well as developing a sound ethical approach to scientific problems.
+ o Enhance algorithmic thinking for gaining deeper insights about scientific problems
 
-* Deep knowledge of the most fundamental algorithms involved, how to optimize these  and understand statistical uncertainty quantifications.
-* Overview of advanced algorithms and how they can be accessed in available software.
-* Knowledge of high-performance computing elements: memory usage, vectorized and parallel algorithms.
-* Understanding of approximation errors.
-* Knowledge of at least one computer algebra system and how it is applied to perform classical mathematics (calculus, linear algebra, differential equations - with verification).
-* Extensive experience with programming in a high-level language (MATLAB, Python, R). Experience with programming in a compiled language (Fortran, C, C++).
-* Experience with implementing and applying numerical algorithms in reusable software that acknowledges the generic nature of the mathematical algorithms.
-* Experience with debugging software, e.g., as part of implementing comprehensive tests.
-* Experience with programming of testing procedures.
-* Experience with different visualization techniques for different types of computed data.
-* Experience with presenting computed results in scientific reports and oral presentations.
-* Critical evaluation of results and errors
-* Be able to develop software and algorithms for solving complicated scientific problems independently and/or in collaboration with other students.
 
-By completing a Master of Science thesis you will have developed a critical understanding of the scientific methods you have studied, a better understanding of the scientific process per se as well as having developed perspectives for future work and how to verify and validate your work. A better understanding of ethical aspects of the the scientific method is a central aspect.
+* 
+
+By completing a Master of Science thesis you will have developed a critical understanding of the scientific methods you have studied, a better understanding of the scientific process per se as well as having developed perspectives for future work and how to verify and validate your work. 
+
+* A better understanding of ethical aspects of the the scientific method is a central aspect.
 !eblock
 
 
 
-!split
-===== Computing competence =====
-!bblock
 
 
-Modern computing competence is about
+* Modern computing competence is about
 
-* derivation, verification, and implementation of algorithms
-* understanding what can go wrong with algorithms
-* overview of important, known algorithms
-* understanding how algorithms are used to solve mathematical problems
-* reproducible science and ethics
-* algorithmic thinking for gaining deeper insights about scientific problems
-!eblock
+ 
 
 
-===== Key elements in computing competence =====
-!bblock
 The power of the scientific method lies in identifying a given problem
 as a special case of an abstract class of problems, identifying
 general solution methods for this class of problems, and applying a
@@ -110,9 +126,6 @@ handling of problems. Focusing on algorithmic aspects results in
 deeper insights about scientific problems.
 
 Today's projects in science and industry tend to involve larger teams. Tools for reliable collaboration must therefore be mastered (e.g., version control systems, automated computer experiments for reproducibility, software and method documentation).
-!eblock
-
-
 
 
 !split
@@ -130,7 +143,7 @@ The following higher education entrance qualifications are needed
   o Any undergraduate degree in engineering
   o Mathematical finance and economy
   o Economy
-* The language of instruction is English. An internationally recognised English language proficiency test is required.
+* For international students, an internationally recognised English language proficiency test is required.
 
 The above undergraduate degrees have some minimal requirements on specializations which need to be fulfilled.  In addition to the above required undergraduate degrees, students need to have 40 ECTS in basic mathematics and programming courses (calculus, linear algebra and/or mathematical modeling and programming). A course in programming is compulsory. 
 The average mark for the mathematics and programming courses, as well as 40 ECTS in  senior undergraduate courses (2000 and 3000 level in Norway) for the specific specialization  has at least to be C (letter marks). 

@@ -245,7 +245,7 @@ computations play  in our advancement of science and technology, as well as the 
 
 !eblock
 
-split
+!split
 ===== Description of learning outcomes =====
 
 The power of the scientific method lies in identifying a given problem
@@ -443,13 +443,15 @@ The program aims at offering thesis projects in a variety of fields. The scienti
 topics that cover several disciplines. These are
 
 * Computational mathematics
-* Computational mechanics and fluid mechanics  (NEED people here)
+* Computational mechanics and fluid mechanics 
 * Computational chemistry
 * Computational physics
 * Computational materials science
 * Computational life science
+* Computational informatics
 * Image analysis and signal processing
-* Computational finance and statistics   (NEED people here)
+* Computational finance and statistics 
+* Computational geoscience
 
 The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
 !eblock

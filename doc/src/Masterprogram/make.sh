@@ -46,23 +46,6 @@ system doconce format html $name --html_style=bloodish --html_links_in_new_windo
 # Add space between splits
 system doconce split_html $html.html --method=space8
 
-# LaTeX Beamer slides
-beamertheme=red_plain
-system doconce format pdflatex $name --latex_title_layout=beamer --latex_table_format=footnotesize --latex_code_style=pyg $opt
-system doconce slides_beamer $name --beamer_slide_theme=$beamertheme
-system pdflatex -shell-escape ${name}
-cp $name.pdf ${name}-beamer.pdf
-cp $name.tex ${name}-beamer.tex
-
-# Handouts
-system doconce format pdflatex $name --latex_title_layout=beamer --latex_table_format=footnotesize  --latex_code_style=pyg $opt
-# Add special packages
-doconce subst "% Add user's preamble" "\g<1>\n\\usepackage{simplewick}" $name.tex
-system doconce slides_beamer $name --beamer_slide_theme=red_shadow --handout
-system pdflatex -shell-escape $name
-pdflatex -shell-escape $name
-pdfnup --nup 2x3 --frame true --delta "1cm 1cm" --scale 0.9 --outfile ${name}-beamer-handouts2x3.pdf ${name}.pdf
-rm -f ${name}.pdf
 
 # Ordinary plain LaTeX document
 rm -f *.aux  # important after beamer

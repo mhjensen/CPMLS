@@ -3,6 +3,7 @@ AUTHOR: Tom Andersen at Department of Biosciences, University of Oslo
 AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
 AUTHOR: Arne Bang Huseby at Department of Mathematics, University of Oslo
 AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
+AUTHOR: Geir Dahl Huseby at Department of Mathematics, University of Oslo
 AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
 AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo
 AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo & Simula Research Laboratory
@@ -27,7 +28,7 @@ Students of this program learn to use the computer as a laboratory for
 solving problems in science and engineering. The program offers
 exciting thesis projects from many disciplines: biology and life
 science, chemistry, mathematics, informatics, physics, geophysics,
-mechanics, geology, computational finance, computational informatics, bid data analysis, digital signal processing
+mechanics, geology, computational finance, computational informatics, big data analysis, digital signal processing
 and image analysis – the candidates select research field according to
 their interests.
 
@@ -70,9 +71,6 @@ scientists beyond classical tools and allows for a more generic
 handling of problems. Focusing on algorithmic aspects results in
 deeper insights about scientific problems.
 
-## Removed these because of overlap with other points
-##  o is able to improve upon exisiting algorithms and develop proper error estimates and critically assess the validity of the results
-##  o Critically evaluate and analyze scientific data and error sources
 
 A candidate with a Master of Science degree from this program
 
@@ -113,22 +111,22 @@ A candidate with a Master of Science degree from this program
   o understands tools to make science reproducible and has a sound ethical approach to scientific problems
 
 
-* Develops professional competence through the thesis work, entailing
-  o Mature professionally and be able to work independently
-  o Can communicate in a professional way scientific results, orally and in written form
-  o Can plan and complete a research project.
-  o Develop one's algorithmic thinking for gaining deeper insights about scientific problems.
+* is able to develop professional competence through the thesis work, entailing:
+  o mature professionally and be able to work independently
+  o can communicate in a professional way scientific results, orally and in written form
+  o can plan and complete a research project
+  o can develop a scientific intuition and understanding that maakes it possible to present and discuss scientific problems, results and uncertainties
+  o 
+* is able to develop virtues, values and attitudes that lead to  a better understanding of ethical aspects of the scientific method, as well as promoting central aspects of the scientific method to society. This means for example
+  o can reflect on and develop strategies for making science reproducible and to promote the need for a proper ethical conduct
+  o has a deep understanding of the role basic and applied  research and computing play for progress in society
+  o is able to promote, use and develop version control tools in order to make science reproducible
+  o is able to critically evaluate the consequences of own research and how this impacts society
+  o matures an understanding of the links between basic and applied research and how these shape, in a fundamental way,  progress in science and technology
+  o can develop an understading of the role research and science can play together with industry and society in general
+  o can reflect over and develop learning strategies for life-long learning.
 
-* Develope virtues, values and attitudes that lead to  a better understanding of ethical aspects of the scientific method, as well as promoting central aspects of the scientific method to society. This means for example
-  o The candidate can reflect on and develop strategies for making science reproducible and to promote the need for a proper ethical conduct.
-  o Has a deep understanding of the role basic and applied  research and computing play for progress in society.
-  o To be able to promote, use and develop version control tools in order to make science reproducible.
-  o To be able to critically evaluate the consequences of own research and how this impacts society.
-  o To mature an understanding of the links between basic and applied research and how these shape, in a fundamental way,  progress in science and technology.
-  o To develop an understading of the role research and science can play together with industry and society in general.
-
-By completing a Master of Science thesis you will have developed a critical understanding of the scientific methods you have studied, a better understanding of the scientific process per se as well as having developed perspectives for future work and how to verify and validate your work.
-
+By completing a Master of Science thesis, the candidate will have developed a critical understanding of the scientific methods which have beenstudied, has a better understanding of the scientific process per se as well as having developed perspectives for future work and how to verify and validate scientific results.
 
 !eblock
 

@@ -75,7 +75,7 @@ deeper insights about scientific problems.
 A candidate with a Master of Science degree from this program
 
 
-* has deep knowledge of the scientific method at an advanced level
+* has deep knowledge of the scientific method and computational science at an advanced level, meaning that the candidate 
 
   o has the ability to understand advanced scientific results in new fields
   o has fundamental understanding of methods and tools
@@ -88,6 +88,12 @@ A candidate with a Master of Science degree from this program
   o can develop models and algorithms to describe experimental data
   o masters methods for reproducibility and how to link this to a sound ethical scienfitic conduct
 
+* has a fundamental understanding of scientific work, meaning that
+  o the candidate can develop hypotheses and suggest ways to test these
+  o can use relevant analytical, experimental and numerical tools and results to test the scientific problems and hypotheses
+  o can generalize from numerical and experimental data to mathematical models and underlying laws of motion 
+  o can analyze the results and evaluate their relevance with respect to the actual problems and/or hypotheses
+  o can present the results according to good scientific practices
 
 * has a deep understanding of what computing means, entailing several or all of the topics listed below
   o has a thorough understanding of how computing is used to  solve  scientific problems
@@ -116,7 +122,8 @@ A candidate with a Master of Science degree from this program
   o can communicate in a professional way scientific results, orally and in written form
   o can plan and complete a research project
   o can develop a scientific intuition and understanding that maakes it possible to present and discuss scientific problems, results and uncertainties
-  o 
+
+
 * is able to develop virtues, values and attitudes that lead to  a better understanding of ethical aspects of the scientific method, as well as promoting central aspects of the scientific method to society. This means for example
   o can reflect on and develop strategies for making science reproducible and to promote the need for a proper ethical conduct
   o has a deep understanding of the role basic and applied  research and computing play for progress in society

@@ -46,7 +46,7 @@ This program builds on the strengths and successes of two existing Master of Sci
  * Applied Mathematics and Mechanics (at the Dept. of Mathematics).
 
 These programs/study directions  were established in 2003.
-Based on the experience from these programs, the hope is that the proposed program can enlarge the reach of disciplines where computations play and/or are expected to play  a large. In particular, new directions 
+Based on the experience from these programs, the hope is that the proposed program can enlarge the reach of disciplines where computations play and/or are expected to play  a large role. In particular, new directions 
 in Computational Life Science need to  be developed to
 meet coming needs of the scientific community. We believe this new direction is
 best developed in close collaboration with already successful
@@ -107,8 +107,8 @@ The following higher education background qualifies for this program:
 ===== Strategic importance =====
 !bblock
 A specific aim of this program is to develop the students' ability to pose and
-solve problems that combine physical insights with mathematical tools
-and computational skills. This provides a unique combination
+solve problems that combine physical insights with mathematical tools, 
+experiment (where appropriate) and computational skills. This provides a unique combination
 of applied and theoretical knowledge and skills. These features are invaluable
 for the development of multi-disciplinary educational and research programs.
 !eblock
@@ -117,8 +117,9 @@ for the development of multi-disciplinary educational and research programs.
 ===== Scientific and educational motivation =====
 
 !bblock 
-* Numerical simulations of various systems in science are central to our basic understanding of nature and technlogy.
-* The increase in computational power, improved algorithms for solving problems in science as well as access to high-performance facilities, allow researchers nowadays to study complicated systems across many length and energy scales. 
+_Numerical simulations of various systems in science are central to our basic understanding of nature and technlogy_.
+
+_The increase in computational power, improved algorithms for solving problems in science as well as access to high-performance facilities, allow researchers nowadays to study complicated systems across many length and energy scales_. 
 
 Applications span from studying 
  * quantum physical systems in nanotechnology and the characteristics of new materials or subamotic physics at its smallest length scale, to simulating galaxies and the evolution of the universe.
@@ -151,7 +152,9 @@ topics for coming thesis projects as well as research directions.
 !split
 ===== Computing competence =====
 !bblock
-Computing means solving scientific problems using computers. It covers
+_Computing means solving scientific problems using computers and all other possible tools_. 
+
+It covers
 numerical as well as symbolic computing. Computing is also about
 developing an understanding of the scientific process by enhancing
 algorithmic thinking when solving problems.  Computing competence has
@@ -167,22 +170,6 @@ Modern computing competence is about
 * reproducible science and ethics
 * algorithmic thinking for gaining deeper insights about scientific problems
 !eblock
-
-
-!split
-===== Overarching description of the CPMLS program  =====
-!bblock
-Students of this program learn to use the computer as a laboratory for
-solving problems in science and engineering. The program offers
-exciting thesis projects from many disciplines: biology and life
-science, chemistry, mathematics, informatics, physics, geophysics,
-mechanics, geology, computational finance, computational informatics, b
-ig data analysis, digital signal processing
-and image analysis – the candidates select research field according to
-their interests.
-!eblock
-
-
 
 
 

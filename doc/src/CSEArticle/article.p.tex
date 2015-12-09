@@ -1,0 +1,961 @@
+%%
+%% Automatically generated file from DocOnce source
+%% (https://github.com/hplgit/doconce/)
+%%
+%%
+% #ifdef PTEX2TEX_EXPLANATION
+%%
+%% The file follows the ptex2tex extended LaTeX format, see
+%% ptex2tex: http://code.google.com/p/ptex2tex/
+%%
+%% Run
+%%      ptex2tex myfile
+%% or
+%%      doconce ptex2tex myfile
+%%
+%% to turn myfile.p.tex into an ordinary LaTeX file myfile.tex.
+%% (The ptex2tex program: http://code.google.com/p/ptex2tex)
+%% Many preprocess options can be added to ptex2tex or doconce ptex2tex
+%%
+%%      ptex2tex -DMINTED myfile
+%%      doconce ptex2tex myfile envir=minted
+%%
+%% ptex2tex will typeset code environments according to a global or local
+%% .ptex2tex.cfg configure file. doconce ptex2tex will typeset code
+%% according to options on the command line (just type doconce ptex2tex to
+%% see examples). If doconce ptex2tex has envir=minted, it enables the
+%% minted style without needing -DMINTED.
+% #endif
+
+% #define PREAMBLE
+
+% #ifdef PREAMBLE
+%-------------------- begin preamble ----------------------
+
+\documentclass[%
+oneside,                 % oneside: electronic viewing, twoside: printing
+final,                   % draft: marks overfull hboxes, figures with paths
+10pt]{article}
+
+\listfiles               % print all files needed to compile this document
+
+\usepackage{relsize,makeidx,color,setspace,amsmath,amsfonts,amssymb}
+\usepackage[table]{xcolor}
+\usepackage{bm,ltablex,microtype}
+
+\usepackage[pdftex]{graphicx}
+
+\usepackage[T1]{fontenc}
+%\usepackage[latin1]{inputenc}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+
+\usepackage{lmodern}         % Latin Modern fonts derived from Computer Modern
+
+% Hyperlinks in PDF:
+\definecolor{linkcolor}{rgb}{0,0,0.4}
+\usepackage{hyperref}
+\hypersetup{
+    breaklinks=true,
+    colorlinks=true,
+    linkcolor=linkcolor,
+    urlcolor=linkcolor,
+    citecolor=black,
+    filecolor=black,
+    %filecolor=blue,
+    pdfmenubar=true,
+    pdftoolbar=true,
+    bookmarksdepth=3   % Uncomment (and tweak) for PDF bookmarks with more levels than the TOC
+    }
+%\hyperbaseurl{}   % hyperlinks are relative to this root
+
+\setcounter{tocdepth}{2}  % number chapter, section, subsection
+
+\usepackage[framemethod=TikZ]{mdframed}
+
+% --- begin definitions of admonition environments ---
+
+% Admonition style "mdfbox" is an oval colored box based on mdframed
+% "notice" admon
+\colorlet{mdfbox_notice_background}{gray!5}
+\newmdenv[
+  skipabove=15pt,
+  skipbelow=15pt,
+  outerlinewidth=0,
+  backgroundcolor=mdfbox_notice_background,
+  linecolor=black,
+  linewidth=2pt,       % frame thickness
+  frametitlebackgroundcolor=mdfbox_notice_background,
+  frametitlerule=true,
+  frametitlefont=\normalfont\bfseries,
+  shadow=false,        % frame shadow?
+  shadowsize=11pt,
+  leftmargin=0,
+  rightmargin=0,
+  roundcorner=5,
+  needspace=0pt,
+]{notice_mdfboxmdframed}
+
+\newenvironment{notice_mdfboxadmon}[1][]{
+\begin{notice_mdfboxmdframed}[frametitle=#1]
+}
+{
+\end{notice_mdfboxmdframed}
+}
+
+% Admonition style "mdfbox" is an oval colored box based on mdframed
+% "summary" admon
+\colorlet{mdfbox_summary_background}{gray!5}
+\newmdenv[
+  skipabove=15pt,
+  skipbelow=15pt,
+  outerlinewidth=0,
+  backgroundcolor=mdfbox_summary_background,
+  linecolor=black,
+  linewidth=2pt,       % frame thickness
+  frametitlebackgroundcolor=mdfbox_summary_background,
+  frametitlerule=true,
+  frametitlefont=\normalfont\bfseries,
+  shadow=false,        % frame shadow?
+  shadowsize=11pt,
+  leftmargin=0,
+  rightmargin=0,
+  roundcorner=5,
+  needspace=0pt,
+]{summary_mdfboxmdframed}
+
+\newenvironment{summary_mdfboxadmon}[1][]{
+\begin{summary_mdfboxmdframed}[frametitle=#1]
+}
+{
+\end{summary_mdfboxmdframed}
+}
+
+% Admonition style "mdfbox" is an oval colored box based on mdframed
+% "warning" admon
+\colorlet{mdfbox_warning_background}{gray!5}
+\newmdenv[
+  skipabove=15pt,
+  skipbelow=15pt,
+  outerlinewidth=0,
+  backgroundcolor=mdfbox_warning_background,
+  linecolor=black,
+  linewidth=2pt,       % frame thickness
+  frametitlebackgroundcolor=mdfbox_warning_background,
+  frametitlerule=true,
+  frametitlefont=\normalfont\bfseries,
+  shadow=false,        % frame shadow?
+  shadowsize=11pt,
+  leftmargin=0,
+  rightmargin=0,
+  roundcorner=5,
+  needspace=0pt,
+]{warning_mdfboxmdframed}
+
+\newenvironment{warning_mdfboxadmon}[1][]{
+\begin{warning_mdfboxmdframed}[frametitle=#1]
+}
+{
+\end{warning_mdfboxmdframed}
+}
+
+% Admonition style "mdfbox" is an oval colored box based on mdframed
+% "question" admon
+\colorlet{mdfbox_question_background}{gray!5}
+\newmdenv[
+  skipabove=15pt,
+  skipbelow=15pt,
+  outerlinewidth=0,
+  backgroundcolor=mdfbox_question_background,
+  linecolor=black,
+  linewidth=2pt,       % frame thickness
+  frametitlebackgroundcolor=mdfbox_question_background,
+  frametitlerule=true,
+  frametitlefont=\normalfont\bfseries,
+  shadow=false,        % frame shadow?
+  shadowsize=11pt,
+  leftmargin=0,
+  rightmargin=0,
+  roundcorner=5,
+  needspace=0pt,
+]{question_mdfboxmdframed}
+
+\newenvironment{question_mdfboxadmon}[1][]{
+\begin{question_mdfboxmdframed}[frametitle=#1]
+}
+{
+\end{question_mdfboxmdframed}
+}
+
+% Admonition style "mdfbox" is an oval colored box based on mdframed
+% "block" admon
+\colorlet{mdfbox_block_background}{gray!5}
+\newmdenv[
+  skipabove=15pt,
+  skipbelow=15pt,
+  outerlinewidth=0,
+  backgroundcolor=mdfbox_block_background,
+  linecolor=black,
+  linewidth=2pt,       % frame thickness
+  frametitlebackgroundcolor=mdfbox_block_background,
+  frametitlerule=true,
+  frametitlefont=\normalfont\bfseries,
+  shadow=false,        % frame shadow?
+  shadowsize=11pt,
+  leftmargin=0,
+  rightmargin=0,
+  roundcorner=5,
+  needspace=0pt,
+]{block_mdfboxmdframed}
+
+\newenvironment{block_mdfboxadmon}[1][]{
+\begin{block_mdfboxmdframed}[frametitle=#1]
+}
+{
+\end{block_mdfboxmdframed}
+}
+
+% --- end of definitions of admonition environments ---
+
+% prevent orhpans and widows
+\clubpenalty = 10000
+\widowpenalty = 10000
+
+% --- end of standard preamble for documents ---
+
+
+% insert custom LaTeX commands...
+
+\raggedbottom
+\makeindex
+\usepackage[totoc]{idxlayout}   % for index in the toc
+\usepackage[nottoc]{tocbibind}  % for references/bibliography in the toc
+
+%-------------------- end preamble ----------------------
+
+\begin{document}
+
+% matching end for #ifdef PREAMBLE
+% #endif
+
+
+% ------------------- main content ----------------------
+
+
+
+% ----------------- title -------------------------
+
+\thispagestyle{empty}
+
+\begin{center}
+{\LARGE\bf
+\begin{spacing}{1.25}
+Computing in Science Education
+\end{spacing}
+}
+\end{center}
+
+% ----------------- author(s) -------------------------
+
+\begin{center}
+{\bf Morten Hjorth-Jensen${}^{1}$} \\ [0mm]
+\end{center}
+
+
+\begin{center}
+{\bf Hans Petter Langtangen${}^{2, 3}$} \\ [0mm]
+\end{center}
+
+
+\begin{center}
+{\bf Anders Malthe-Sørenssen${}^{1}$} \\ [0mm]
+\end{center}
+
+
+\begin{center}
+{\bf Knut Mørken${}^{4}$} \\ [0mm]
+\end{center}
+
+\begin{center}
+% List of all institutions:
+\centerline{{\small ${}^1$Department of Physics, University of Oslo}}
+\centerline{{\small ${}^2$Department of Informatics, University of Oslo}}
+\centerline{{\small ${}^3$Simula Research Laboratory}}
+\centerline{{\small ${}^4$Department of Mathematics, University of Oslo}}
+\end{center}
+    
+% ----------------- end author(s) -------------------------
+
+
+% --- begin date ---
+\begin{center}
+November 2015
+\end{center}
+% --- end date ---
+
+\vspace{1cm}
+
+
+% !split
+\subsection{Strategic importance}
+
+The program will educate the next generation of cross-disciplinary
+science students with the knowledge, skills, and values needed to pose
+and solve current and new scientific, technological and societal
+challenges. The program will lay the foundation for cross-disciplinary
+educational, research and innovation activities at the Faculty. The
+program will contribute to building a common cross-disciplinary
+approach to the key strategic initiatives at the Faculty: Energy,
+Materials, Life Science, and Enabling Technologies.
+
+A specific aim of this program is to develop the students' ability to pose and
+solve problems that combine physical insights with mathematical tools
+and computational skills. This provides a unique combination
+of applied and theoretical knowledge and skills. These features are invaluable
+for the development of multi-disciplinary educational and research programs.
+The main focus is not to educate computer
+specialists, but to educate students with a solid understanding in basic science
+as well as an integrated knowledge on how  to use
+essential methods from computational science. This requires an
+education that covers both the specific disciplines like physics, biology,
+geoscience, mathematics etc with a strong background in computational science.
+
+To build up an activity in computational life science would naturally bring in colleagues from the Norwegian University of Life Sciences,
+adding to this axis their year long experiences.
+The program could thus be a dual collaboration between the University of Oslo and the Norwegian University of Life Sciences, with eventual
+double Master of Science degree agreements.
+
+% !split
+\subsection{Scientific and educational motivation}
+
+
+\begin{block_mdfboxadmon}[Applications of simulation.]
+Numerical simulations of various systems in science are central to our
+basic understanding of nature and technlogy.
+The increase in computational power,
+improved algorithms for solving problems in science as well as access
+to high-performance facilities, allow researchers nowadays to study
+complicated systems across many length and energy scales. Applications
+span from studying quantum physical systems in nanotechnology and the
+characteristics of new materials or subamotic physics at its smallest
+length scale, to simulating galaxies and the evolution of the universe.
+In between, simulations are key to understanding
+cancer treatment and how the brain works,
+predicting climate changes and this week's weather,
+simulating natural disasters, semi-conductor devices,
+quantum computers, as well as assessing risk in the insurance and
+financial industry. These are just a few topics
+already well covered at the University of Oslo and that can be
+topics for coming thesis projects as well as research directions.
+\end{block_mdfboxadmon}
+
+
+
+
+\begin{block_mdfboxadmon}[Job market.]
+A large number of the candidates from the five involved departments
+get jobs where numerical simulations are central and essential. The proposed
+program will raise the educational quality in this area, because
+our candidates need a broader understanding of the possibilities
+and limitations of computation-based problem solving.
+\end{block_mdfboxadmon}
+
+
+
+% !split
+\subsection{Multiscale modeling is a big open research question}
+
+
+\begin{block_mdfboxadmon}[]
+Today's problems, unlike traditional
+science and engineering, involve complex systems with many distinct
+physical processes. The wide open research topic of this century, both
+in industry and at universities, is how to effectively couple
+processes across different length and energy scales. Progress will
+rely on a multi-disciplinary approach and therefore a need for
+a multi-disciplinary educational program.
+\end{block_mdfboxadmon}
+
+
+
+
+\begin{block_mdfboxadmon}[]
+The proposed program will foster candidates with the right
+multi-disciplinary background and computational thinking for
+understanding today's simulation technology and its challenges.
+\end{block_mdfboxadmon}
+
+
+
+
+% !split
+\subsection{The new program combines old and new initiatives}
+
+\begin{block_mdfboxadmon}[]
+
+This program builds on the strengths and successes of two existing Master of Science directions at the University of Oslo, namely the 
+programs in Computational Physics (at the Dept.~of Physics) and
+Applied Mathematics and Mechanics (at the Dept.~of Mathematics).
+These programs were established in 2003.
+Based on the experience from these programs, the hope is that the proposed program can enlarge the reach of disciplines where computations play and/or are expected to play  a large. In particular, new directions 
+in Computational Life Science need to  be developed to
+meet coming needs of the scientific community. We believe this new direction is
+best developed in close collaboration with already successful
+computational science programs.  In particular, we believe that there are strong synergy effects between the University of Oslo and the Norwegian 
+University of Life Sciences in the field of Computational Life Science.
+\end{block_mdfboxadmon}
+
+
+
+
+% !split
+\subsection{Computational Physics at UiO has been a great success}
+
+\begin{block_mdfboxadmon}[]
+
+This initiative has its roots in the highly successful direction called \href{{http://www.uio.no/english/studies/programmes/physics-master/programme-options/computational/index.html}}{Computational Physics}
+under the Master program in Physics at the University of Oslo.
+
+This program has educated almost 60 Master of Science students during
+the last ten years.  Over 50\% of these students have continued with
+PhD studies in Physics, Chemistry, Mathematics and now recently
+Biology connected with the CINPLA project.
+
+The Computational Physics Master program recieved in 2015 the University of Oslo Educational Award.
+\end{block_mdfboxadmon}
+
+
+
+% !split
+\subsection{The new program will also host the CSE project}
+
+\begin{block_mdfboxadmon}[]
+
+The new proposed program will also take a leading responsibility in further
+developments of the highly successful \href{{http://www.mn.uio.no/english/about/collaboration/cse/}}{Computing in Science Education} initiative at UiO.  Master of science thesis projects linked up to the CSE project will be offered.
+
+If the program becomes successful, it will naturally lead to
+new cross-disciplinary research and a need for a new department
+in computational science.
+\end{block_mdfboxadmon}
+
+
+
+
+% !split
+\subsection{Computing competence}
+
+\begin{block_mdfboxadmon}[]
+Computing means solving scientific problems using computers. It covers
+numerical as well as symbolic computing. Computing is also about
+developing an understanding of the scientific process by enhancing
+algorithmic thinking when solving problems.  Computing competence has
+always been a central part of the science and engineering
+education.
+
+Modern computing competence is about
+
+\begin{itemize}
+\item derivation, verification, and implementation of algorithms
+
+\item understanding what can go wrong with algorithms
+
+\item overview of important, known algorithms
+
+\item understanding how algorithms are used to solve mathematical problems
+
+\item reproducible science and ethics
+
+\item algorithmic thinking for gaining deeper insights about scientific problems
+\end{itemize}
+
+\noindent
+\end{block_mdfboxadmon}
+
+
+
+% !split
+\subsection{Key elements in computing competence}
+
+\begin{block_mdfboxadmon}[]
+The power of the scientific method lies in identifying a given problem
+as a special case of an abstract class of problems, identifying
+general solution methods for this class of problems, and applying a
+general method to the specific problem (applying means, in the case of
+computing, calculations by pen and paper, symbolic computing, or
+numerical computing by ready-made and/or self-written software). This
+generic view on problems and methods is particularly important for
+understanding how to apply available, generic software to solve a
+particular problem.
+
+
+Computing competence represents a central element
+in scientific problem solving, from basic education and research to
+essentially almost all advanced problems in modern
+societies. Computing competence is simply central to further
+progress. It enlarges the body of tools available to students and
+scientists beyond classical tools and allows for a more generic
+handling of problems. Focusing on algorithmic aspects results in
+deeper insights about scientific problems.
+
+Today's projects in science and industry tend to involve larger teams. Tools for reliable collaboration must therefore be mastered (e.g., version control systems, automated computer experiments for reproducibility, software and method documentation).
+\end{block_mdfboxadmon}
+
+
+
+% !split
+\subsection{Overarching description of the CPMLS program}
+
+\begin{block_mdfboxadmon}[]
+Students of this program learn to use the computer as a laboratory for
+solving problems in science and engineering. The program offers
+exciting thesis projects from many disciplines: biology and life
+science, chemistry, mathematics, informatics, physics, geophysics,
+mechanics, geology, computational finance, computational informatics, b
+ig data analysis, digital signal processing
+and image analysis – the candidates select research field according to
+their interests.
+
+A Master’s degree from this program gives the candidate a methodical
+training in planning, conducting, and reporting large research
+projects, often together with other students and university teachers.
+THe projects emphasize finding practical solutions, developing an
+intuitive understanding of the science and the scientific methods
+needed to solve complicated problems, use of many tools, and not least
+developing own creativity and independent thinking. The thesis
+work is a scientific project where the candidates learn to tackle a
+scientific problem in a professional manner.   The program aims also at
+developing a deep understanding of the role of computing in solving modern scientific
+problems. A candidate from this program gains  deep insights in the fundamnetal role
+computations play  in our advancement of science and technology, as well as the role computations play  in society.
+\end{block_mdfboxadmon}
+
+
+
+% !split
+\subsection{Description of learning outcomes}
+
+The power of the scientific method lies in identifying a given problem
+as a special case of an abstract class of problems, identifying
+general solution methods for this class of problems, and applying a
+general method to the specific problem (applying means, in the case of
+computing, calculations by pen and paper, symbolic computing, or
+numerical computing by ready-made and/or self-written software). This
+generic view on problems and methods is particularly important for
+understanding how to apply available, generic software to solve a
+particular problem.
+
+
+Computing competence represents a central element
+in scientific problem solving, from basic education and research to
+essentially almost all advanced problems in modern
+societies. Computing competence is simply central to further
+progress. It enlarges the body of tools available to students and
+scientists beyond classical tools and allows for a more generic
+handling of problems. Focusing on algorithmic aspects results in
+deeper insights about scientific problems.
+
+
+A candidate with a Master of Science degree from this program
+
+
+\begin{itemize}
+\item has deep knowledge of the scientific method and computational science at an advanced level, meaning that the candidate
+\begin{enumerate}
+
+ \item has the ability to understand advanced scientific results in new fields
+
+ \item has fundamental understanding of methods and tools
+
+ \item can develop and apply advanced computational methods to scientific problems
+
+ \item is capable of judging and analyzing all parts of the obtained scientific results
+
+ \item can present results orally and in written form as scientific reports/articles
+
+ \item can propose new hypotheses and suggest solution paths
+
+ \item can generalize mathematical algorithms and apply them to new situations
+
+ \item can link computational models to specific applications and/or experimental data
+
+ \item can develop models and algorithms to describe experimental data
+
+\item masters methods for reproducibility and how to link this to a sound ethical scienfitic conduct
+
+\end{enumerate}
+
+\noindent
+\item has a fundamental understanding of scientific work, meaning that
+\begin{enumerate}
+
+ \item the candidate can develop hypotheses and suggest ways to test these
+
+ \item can use relevant analytical, experimental and numerical tools and results to test the scientific hypotheses
+
+ \item can generalize from numerical and experimental data to mathematical models and underlying principles
+
+ \item can analyze the results and evaluate their relevance with respect to the actual problems and/or hypotheses
+
+ \item can present the results according to good scientific practices
+
+\end{enumerate}
+
+\noindent
+\item has a deep understanding of what computing means, entailing several or all of the topics listed below
+\begin{enumerate}
+
+ \item has a thorough understanding of how computing is used to  solve  scientific problems
+
+ \item knows the most fundamental algorithms involved, how to optimize these and perform statistical uncertainty quantification
+
+ \item has overview of advanced algorithms and how they can be accessed in available software and how they are used to solve scientific problems
+
+ \item has knowledge of high-performance computing elements: memory usage, vectorization and parallel algorithms
+
+ \item can use effeciently high-performance computing resources, from compilers to hardware architectures
+
+ \item understands approximation errors and what can go wrong with algorithms
+
+ \item has knowledge of at least one computer algebra system and how it is applied to perform classical mathematics
+
+ \item has extensive experience with programming in a high-level language (MATLAB, Python, R)
+
+ \item has experience with programming in a compiled language (Fortran, C, C++)
+
+\item has experience with implementing and applying numerical algorithms in reusable software that acknowledges the generic nature of the mathematical algorithms
+
+\item has experience with debugging software
+
+\item has experience with test frameworks and procedures
+
+\item has experience with different visualization techniques for different types of data
+
+\item can critically evaluate results and errors
+
+\item can develop algorithms and software for complicated scientific problems independently and in collaboration with other students
+
+\item masters software carpentry: can design a maintainable program in a systematic way, use version control systems, and write scripts to automate manual work
+
+\item understands how to increase the efficiency of numerical algorithms and pertinent software
+
+\item has knowledge of stringent requirements to efficiency and precision of software
+
+\item understands tools to make science reproducible and has a sound ethical approach to scientific problems
+
+\end{enumerate}
+
+\noindent
+\item is able to develop professional competence through the thesis work, entailing:
+\begin{enumerate}
+
+ \item mature professionally and be able to work independently
+
+ \item can communicate in a professional way scientific results, orally and in written form
+
+ \item can plan and complete a research project
+
+ \item can develop a scientific intuition and understanding that maakes it possible to present and discuss scientific problems, results and uncertainties
+
+\end{enumerate}
+
+\noindent
+\item is able to develop virtues, values and attitudes that lead to  a better understanding of ethical aspects of the scientific method, as well as promoting central aspects of the scientific method to society. This means for example that the candidate
+\begin{enumerate}
+
+ \item can reflect on and develop strategies for making science reproducible and to promote the need for a proper ethical conduct
+
+ \item has a deep understanding of the role basic and applied  research and computing play for progress in society
+
+ \item is able to promote, use and develop version control tools in order to make science reproducible
+
+ \item is able to critically evaluate the consequences of own research and how this impacts society
+
+ \item matures an understanding of the links between basic and applied research and how these shape, in a fundamental way,  progress in science and technology
+
+ \item can develop an understading of the role research and science can play together with industry and society in general
+
+ \item can reflect over and develop learning strategies for life-long learning.
+\end{enumerate}
+
+\noindent
+\end{itemize}
+
+\noindent
+By completing a Master of Science thesis, the candidate will have developed a critical understanding of the scientific methods which have been studied, has a better understanding of the scientific process per se as well as having developed perspectives for future work and how to verify and validate scientific results.
+
+
+% !split
+\subsection{Admission critera}
+
+\begin{block_mdfboxadmon}[]
+The following higher education entrance qualifications are needed
+
+\begin{itemize}
+\item A completed bachelor's degree (undergraduate) comparable to a Norwegian bachelor's degree in one of the following disciplines
+\begin{enumerate}
+
+ \item Biology, molecular biology, biochemistry  or any life science degree
+
+ \item Physics, astrophysics, astronomy, geophysics and meteorology
+
+ \item Mathematics, mechanics, statistics and computational mathematics
+
+ \item Computer science and electronics
+
+ \item Chemistry
+
+ \item Materials Science and nanotechnology
+
+ \item Any undergraduate degree in engineering
+
+ \item Mathematical finance and economy
+
+ \item Economy
+
+\end{enumerate}
+
+\noindent
+\item For international students, an internationally recognised English language proficiency test is required.
+\end{itemize}
+
+\noindent
+The above undergraduate degrees have some minimal requirements on specializations which need to be fulfilled.  In addition to the above required undergraduate degrees, students need to have 40 ECTS in basic undergraduate mathematics and programming courses (calculus, linear algebra and/or mathematical modeling and programming). A course in programming is compulsory.
+The average mark for the mathematics and programming courses, as well as 40 ECTS in  senior undergraduate courses (2000 and 3000 level in Norway) for the specific specialization  has at least to be C (letter marks).
+As an example, an undergraduate degree in Chemistry has a minimal requirement on chemistry courses, typically amounting to at least 60 ECTS out of 180 ECTS for a bachelor's degree. The average mark on the 40 ECTS  of selected senior undergraduate credits in chemistry and the 40 ECTS in mathematics and programming should
+at least be C.
+\end{block_mdfboxadmon}
+
+
+
+
+
+% !split
+\subsection{Structure and courses}
+
+\begin{block_mdfboxadmon}[]
+The table here is an example of a suggested path for a Master of Science project,
+with course work the first year and thesis work the last year.
+
+
+\begin{quote}
+\begin{tabular}{llll}
+\hline
+\multicolumn{1}{l}{  } & \multicolumn{1}{l}{ 10 ECTS } & \multicolumn{1}{l}{ 10 ECTS } & \multicolumn{1}{l}{ 10 ECTS } \\
+\hline
+4th semester & Master thesis  & Master Thesis  & Master Thesis  \\
+\hline
+3rd semester & Master thesis  & Master Thesis  & Master Thesis  \\
+\hline
+2nd semester & Master courses & Master courses & Master courses \\
+\hline
+1st semester & Master courses & Master courses & Master courses \\
+\hline
+\end{tabular}
+\end{quote}
+
+\noindent
+The program is very flexible in its structure and students may opt for starting with their thesis
+work from the first semester and scatter the respective course load across all four semesters.
+Depending on interests and specializations, there are many courses on computational science which can make
+up the required curriculum of course work. Furthermore, courses may be broken up in smaller modules,
+avoding thereby the limitation of 10 ECTS per course only. Some of these courses are listed below.
+\end{block_mdfboxadmon}
+
+
+
+% !split
+\subsection{Structure and specialized modules}
+
+\begin{block_mdfboxadmon}[]
+The program allows also for replacing regular courses with specialized modules of shorter duration.
+These modules will be developed by the program committee but can also be developed in an ad hoc basis
+and tailored to the individual projects. Specialized modules can amount to up to the full course requirement of 60 ECTS.
+
+
+
+\begin{quote}
+\begin{tabular}{llll}
+\hline
+\multicolumn{1}{l}{  } & \multicolumn{1}{l}{ 10 ECTS } & \multicolumn{1}{l}{ 10 ECTS } & \multicolumn{1}{l}{ 10 ECTS } \\
+\hline
+4th semester & Master thesis  & Master Thesis  & Master Thesis  \\
+\hline
+3rd semester & Master thesis  & Master Thesis  & Master Thesis  \\
+\hline
+2nd semester & Special module & Special module & Special module \\
+\hline
+1st semester & Special module & Special module & Special module \\
+\hline
+\end{tabular}
+\end{quote}
+
+\noindent
+The above set up shows how courses may be broken up in smaller modules.
+\end{block_mdfboxadmon}
+
+
+
+
+
+
+% !split
+\subsection{Presently available courses at UiO and NMBU}
+
+\begin{block_mdfboxadmon}[]
+Here follows a list of suggested courses that students may include in their required course load.
+
+\begin{itemize}
+\item \href{{http://www.uio.no/studier/emner/matnat/fys/FYS4150/index-eng.html}}{FYS4150 Computational Physics I}
+
+\item \href{{http://www.uio.no/studier/emner/matnat/fys/FYS4411/}}{FYS4411 Computational Physics II}
+
+\item \href{{http://www.uio.no/studier/emner/matnat/fys/FYS4460/}}{FYS4460 Computational Physics III}
+
+\item \href{{http://www.uio.no/studier/emner/matnat/ifi/INF5620/index-eng.html}}{INF5620 Numerical Methods for Partial Differential Equations}
+
+\item \href{{http://www.uio.no/studier/emner/matnat/ifi/INF5631/index-eng.html}}{INF5631 Project on Numerical Methods for Partial Differential Equations}
+
+\item \href{{http://www.nmbu.no/course/FYS388}}{FYS388 Computational Neuroscience}
+
+\item \href{{http://www.uio.no/studier/emner/matnat/math/STK4520/index-eng.html}}{STK4520 Laboratory for Finance and Insurance Mathematics}
+
+\item \href{{http://www.uio.no/studier/emner/matnat/math/STK4021/index-eng.html}}{STK4021 Applied Bayesian Analysis and Numerical Methods}
+
+\item \href{{http://www.uio.no/studier/emner/matnat/math/MAT-INF4130/index-eng.html}}{MAT-INF4130  Numerical Linear Algebra}
+
+\item \href{{http://www.uio.no/studier/emner/matnat/math/MAT-INF4110/index.html}}{MAT-INF4110 Mathematical Optimization}
+
+\item \href{{http://www.uio.no/studier/emner/sv/oekonomi/ECON4240/index.html}}{ECON4240 Equilibrium, welfare and information}
+
+\item \href{{http://www.uio.no/studier/emner/matnat/math/MEK4470/index-eng.html}}{MEK4470  Computational Fluid Mechanics}
+
+\item \href{{http://www.uio.no/studier/emner/matnat/math/MEK4250/index-eng.html}}{MEK4250 Finite Element Methods in Computational Mechanics}
+\end{itemize}
+
+\noindent
+The program plans to develop other courses in computational science and its applications, ranging from life science to materials science.
+Courses on project planning and project administration are also possible to include.
+\end{block_mdfboxadmon}
+
+
+
+
+
+% !split
+\subsection{Thesis directions}
+
+\begin{block_mdfboxadmon}[]
+The program aims at offering thesis projects in a variety of fields. The scientists involved in this program can offer thesis
+topics that cover several disciplines. These are
+
+\begin{itemize}
+\item Computational mathematics
+
+\item Computational mechanics and fluid mechanics 
+
+\item Computational chemistry
+
+\item Computational physics
+
+\item Computational materials science
+
+\item Computational life science
+
+\item Computational informatics
+
+\item Image analysis and signal processing
+
+\item Computational finance and statistics 
+
+\item Computational geoscience
+\end{itemize}
+
+\noindent
+The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
+\end{block_mdfboxadmon}
+
+
+
+
+
+
+
+
+% !split
+\subsection{The program opens up for flexible backgrounds}
+
+
+\begin{block_mdfboxadmon}[]
+While discipline-based master's programs tend to introduce very strict
+requirements to courses, we believe in adapting a computational thesis
+topic to the student's background, thereby opening up for
+students with a wide range of bachelor's degrees.
+A very heterogeneous student community is thought to be a strength and
+unique feature of this program.
+\end{block_mdfboxadmon}
+
+
+
+% !split
+\subsection{Study abroad and international collaborators}
+
+
+\begin{block_mdfboxadmon}[]
+
+Students at the University of Oslo may choose to take parts of
+their degrees at a university abroad.
+
+Students in this program have a number of interesting international
+exchange possibilities. The involved researchers have extensive
+collaborations with other researchers worldwide. These exchange
+possibility range from top universities in the USA, Asia and Europe as
+well as leading National Laboratories in the USA.
+\end{block_mdfboxadmon}
+
+
+
+% !split
+\subsection{Career prospects}
+
+
+\begin{block_mdfboxadmon}[]
+Candidates who are capable of modeling and understanding complicated
+systems in natural science, are in short supply in society.  The
+computational methods and approaches to scientific problems students learn
+when working on their thesis projects are very similar to the methods
+they will use in later stages of their careers.  To handle large
+numerical projects demands structured thinking and good analytical
+skills and a thorough understanding of the problems to be solved. This
+knowledge makes the students unique on the labor market.
+
+Career opportunities are many, from research institutes, universities
+and university colleges and a multitude of companies. Examples
+include IBM, Hydro, Statoil, and Telenor.  The program gives an
+excellent background for further studies, with a PhD as one possible
+goal.
+
+The program has also a strong international element which allows students to
+gain important experience from international collaborations in
+science, with the opportunity to spend parts of the time spent on
+thesis work at research institutions abroad.
+\end{block_mdfboxadmon}
+
+
+
+
+
+
+
+
+
+
+
+
+
+% ------------------- end of main content ---------------
+
+% #ifdef PREAMBLE
+\end{document}
+% #endif
+

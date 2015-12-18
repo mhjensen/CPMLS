@@ -1,0 +1,135 @@
+===== Minutes from second CPMLS meeting, December 15, 2015 =====
+
+
+=== Present board members: ===
+Andreas A, Michele C, Morten HJ, Grete SD, Katrine L, Joakim S,  Kent-Andre M, Arne BH, Geir D, Knut M, and Marte Julie S, Tom A
+Excused: Anders MS, Hans Petter L and Marianne F
+
+=== Invited ===
+Simon Funke (IFI)
+
+
+=== Agenda ===
+ o Welcome, coffee and light refreshments
+ o Approval of agenda and minutes from previous meeting
+ o Discussion of additional learning outcomes and admission criteria with an eye on specific study directions
+ o Cost analysis: Andreas will present how the sharing of expenses and teaching and other issues have been resolved by the ElDat program 
+ o Start discussion of courses and/or modules to be developed: 
+ o Start defining potential teachers and supervisors as well as external partners
+ o Additional topics
+
+
+=== Minutes ===
+After welcoming words and introductions, 
+the present members approved the agenda and the minutes from the previous meeting.
+
+After the introductory words, a more general discussion of the
+learning outcomes followed.  It was stated that we need to to develop
+an identity for the program.  It is meant to be a multidisciplinary
+program. It is not a math, or chemistry or physics program. In
+recruiting there will be obvious and less obvious sociological
+barriers which may influence the way students (and our colleagues)
+perceive this MSc program.
+
+It was agreed that the various subgroups, representing the different
+departments, will carefully review the learning outcomes and define
+additional ones which pertain to the specific discipline. It was
+already agreed that we should as soon as possible define our specific
+study directions (studieretninger).  The study direction will appear
+on the final Master diploma. See below for possible study directions
+and examples of naming on final diploma.  Study directions will also
+be visible on the webiste of the Master program and different study
+directions are also allowed to have different admission criteria.  
+
+We settled for February 15 as our internal deadline.  The different study
+directions are then expected to have revised the learning outcomes.
+
+The internal deadline for the MN-fac is March 1, and the all university deadline is
+April 1. 
+
+For the discussion of courses, modules and cross-departamental
+collaborations on MSc thesis projects, Andreas A presented the way
+this has been implemented in the Eldat program. This program is a
+collaboration between Physics and Informatics. Andreas pointed to
+several points we need to keep in mind for our further discussions and
+plans.  
+* For a course which is labeled as for example Mat-Infxxxx,
+the means which follow the number of credits being produced are
+allocated at the department which has the first abbreviation. For this
+case, the department of Mathematics gets all means that follow the
+produced credits.  
+* Co-supervision of a master thesis: the means
+which follow the produced credits are shared between departments if
+there are supervisors from different department.
+* Internal examiners (internsensor): The internal examiner is chosen from the field
+of the student and preferentially from the department responsible for the study direction.
+
+
+It was agreed that every study direction should discuss the courses
+(and possible modules to propose) after we are done with the learning
+outcomes. The deadline for the work on courses/modules as well as
+potential teachers was set to June 30.
+
+
+As stated above, each study direction can define additional learning
+outcomes and even admission criteria. The website of the program will also reflect
+the different study direction. 
+
+It was agreed that from the original list of proposed directions
+* Computational mathematics
+* Computational mechanics and fluid mechanics 
+* Computational chemistry
+* Computational physics
+* Computational materials science
+* Computational life science
+* Computational informatics
+* Image analysis and signal processing
+* Computational finance and statistics 
+* Computational geoscience
+
+that these can be reduced to fewer ones. For IBV, Physics and Chemistry, the study directions are simple, 
+Computational Chemistry
+Computational Physics
+Computational Life Science
+
+The department of Mathematics and the department of Informatics will
+discuss internally which study directions will be offered. It was also proposed that 
+computational materials science can be absorbed in the computational physics and chemistry
+directions. 
+
+An important issue we need to decide upon by the end of year is the name of the program.
+There was a consensus during the meeting that the name should be
+
+COMPUTATIONAL SCIENCE (CS).
+
+It means that a physics student who enlists for this program gets an MSc degree
+with title 
+
+MSc in  Computational Science: Computational Physics
+
+From which department students enlist is something we should also keep in mind. 
+
+
+Additional topics: 
+
+* Simon Funke from IFI was proposed as an additional member, and Krister Stræte as an additional student representative. Krister has expressed a clear interest in contributing as student representative. If there are objections please voice these.
+
+* Morten HJ expressed also the possibility to start searching for external partners. 
+Morten HJ visited the Bank of Norway on Thursday the 17th of December and met with the head (Sigvald Øen Hansen) of the Risk Analytics group, as well as with a former computational physics student who works in the same group (Maxim Kartamyshev).   There was a clear interest in our program, and an expressed wish to participate if possible.
+
+If there is a general interest, we should start contacting partners in both the public and the private sector, in order to show potential students a large spectrum of potential employers and Master thesis projects/supervisors. Many of these partners could even end up as possible sponsors of this program. 
+
+
+Best wishes to you all for a happy holiday season and all the best for 2016.
+
+Morten HJ
+
+
+
+
+
+
+
+
+
+

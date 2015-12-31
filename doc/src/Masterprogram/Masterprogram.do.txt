@@ -1,4 +1,4 @@
-TITLE: Master program in Computational Physics, Mathematics and Life Science
+TITLE: Master program in Computational Science  at the University of Oslo
 AUTHOR: Tom Andersen at Department of Biosciences, University of Oslo
 AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
 AUTHOR: Arne Bang Huseby at Department of Mathematics, University of Oslo
@@ -19,9 +19,9 @@ DATE: Fall 2015
 
 
 !split
-===== Master program in Computational Physics, Mathematics and Life Science =====
+===== Master program in Computational Science =====
 !bblock
-We propose a new Master of Science program at the Faculty of Mathematics and Natural Sciences of the University of Oslo. This program is called  _Computational Physics, Mathematics and Life Science_, with acronym  _CS_
+We propose a new Master of Science program at the Faculty of Mathematics and Natural Sciences of the University of Oslo. This program is called  _Computational Science_, with acronym  _CS_
 
 
 The program is a collaboration between five departments and classical disciplines:
@@ -33,8 +33,6 @@ The program is a collaboration between five departments and classical discipline
  * Department of Physics
 
 The program will be administrated by the Department of Physics.
-The program is based on the highly successful Computational Physics direction under the present Master program
-in Physics at the University of Oslo.
 
 The program is multidisciplinary and all students who have completed
 undergraduate studies in science and engineering, with a sufficient
@@ -443,15 +441,13 @@ The program aims at offering thesis projects in a variety of fields. The scienti
 topics that cover several disciplines. These are
 
 * Computational mathematics
-* Computational mechanics and fluid mechanics 
-* Computational chemistry
+* Computational mechanics
+* Computational chemistry and materials science
 * Computational physics
-* Computational materials science
 * Computational life science
 * Computational informatics
 * Image analysis and signal processing
 * Computational finance and statistics 
-* Computational geoscience
 
 The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
 !eblock

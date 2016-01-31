@@ -5,7 +5,7 @@ AUTHOR: Arne Bang Huseby at Department of Mathematics, University of Oslo
 AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
 AUTHOR: Geir Dahl at Department of Mathematics, University of Oslo
 AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
-AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo
+AUTHOR: Morten Hjorth-Jensen (chair) at Department of Physics, University of Oslo
 AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Katrine Langvad (admin) at Department of Physics, University of Oslo
 AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo

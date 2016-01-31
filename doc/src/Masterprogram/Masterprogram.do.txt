@@ -4,6 +4,7 @@ AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
 AUTHOR: Arne Bang Huseby at Department of Mathematics, University of Oslo
 AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
 AUTHOR: Geir Dahl at Department of Mathematics, University of Oslo
+AUTHOR: Simon Wolfgang Funke at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
 AUTHOR: Morten Hjorth-Jensen (chair) at Department of Physics, University of Oslo
 AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo & Simula Research Laboratory
@@ -15,7 +16,7 @@ AUTHOR: Grete Stavik-Døvle (admin) at Department of Physics, University of Oslo
 AUTHOR: Joakim Sundnes at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Marte Julie Sætra (student representative) at Department of Physics, University of Oslo
 
-DATE: Fall 2015
+DATE: Planned start: Fall 2018
 
 
 !split
@@ -442,11 +443,11 @@ topics that cover several disciplines. These are
 
 * Computational mathematics
 * Computational mechanics
-* Computational chemistry and materials science
+* Computational chemistry
+* Computational materials science
 * Computational physics
 * Computational life science
-* Computational informatics
-* Image analysis and signal processing
+* Computational informatics, image analysis and signal processing
 * Computational finance and statistics 
 
 The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.

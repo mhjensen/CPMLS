@@ -441,16 +441,13 @@ Courses on project planning and project administration are also possible to incl
 The program aims at offering thesis projects in a variety of fields. The scientists involved in this program can offer thesis
 topics that cover several disciplines. These are
 
-* Computational astrophysics
-* Computational chemistry
-* Computational finance
-* Computational informatics, image analysis and signal processing
-* Computational life science
-* Computational materials science
-* Computational mathematics
-* Computational mechanics
-* Computational physics
-* Computational statistics 
+* Computational Science: Bioscience
+* Computational Science: Chemistry
+* Computational Science: Finance and Risk Analysis
+* Computational Science: Imaging and Biomedical Computing
+* Computational Science: Materials science
+* Computational Science: Mathematics
+* Computational Science: Physics
 
 The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
 !eblock

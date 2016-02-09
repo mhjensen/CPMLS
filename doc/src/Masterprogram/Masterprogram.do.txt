@@ -6,6 +6,7 @@ AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
 AUTHOR: Geir Dahl at Department of Mathematics, University of Oslo
 AUTHOR: Simon Wolfgang Funke at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
+AUTHOR: Viggo Hansteen  at Institute for Theoretical Astrophysics, University of Oslo
 AUTHOR: Morten Hjorth-Jensen (chair) at Department of Physics, University of Oslo
 AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Katrine Langvad (admin) at Department of Physics, University of Oslo
@@ -429,6 +430,9 @@ Here follows a list of suggested courses that students may include in their requ
 * "ECON4240 Equilibrium, welfare and information":"http://www.uio.no/studier/emner/sv/oekonomi/ECON4240/index.html"
 * "MEK4470  Computational Fluid Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4470/index-eng.html"
 * "MEK4250 Finite Element Methods in Computational Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4250/index-eng.html"
+* "AST5210 Stellar Atmospheres I":"http://www.uio.no/studier/emner/matnat/astro/AST5210/index-eng.html"
+* "AST9110 Numerical Modeling":"http://www.uio.no/studier/emner/matnat/astro/AST9110/index-eng.html"
+
 
 The program plans to develop other courses in computational science and its applications, ranging from life science to materials science.
 Courses on project planning and project administration are also possible to include.

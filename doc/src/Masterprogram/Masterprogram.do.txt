@@ -4,8 +4,10 @@ AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
 AUTHOR: Arne Bang Huseby at Department of Mathematics, University of Oslo
 AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
 AUTHOR: Geir Dahl at Department of Mathematics, University of Oslo
+AUTHOR: Simon Wolfgang Funke at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
-AUTHOR: Morten Hjorth-Jensen at Department of Physics, University of Oslo
+AUTHOR: Viggo Hansteen  at Institute for Theoretical Astrophysics, University of Oslo
+AUTHOR: Morten Hjorth-Jensen (chair) at Department of Physics, University of Oslo
 AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Katrine Langvad (admin) at Department of Physics, University of Oslo
 AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo
@@ -15,7 +17,7 @@ AUTHOR: Grete Stavik-Døvle (admin) at Department of Physics, University of Oslo
 AUTHOR: Joakim Sundnes at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Marte Julie Sætra (student representative) at Department of Physics, University of Oslo
 
-DATE: Fall 2015
+DATE: Planned start: Fall 2018
 
 
 !split
@@ -24,8 +26,9 @@ DATE: Fall 2015
 We propose a new Master of Science program at the Faculty of Mathematics and Natural Sciences of the University of Oslo. This program is called  _Computational Science_, with acronym  _CS_
 
 
-The program is a collaboration between five departments and classical disciplines:
-
+The program is a collaboration between six departments and classical disciplines:
+ 
+ * Institute of Theoretical Astrophysics
  * Department of Biosciences
  * Department of Chemistry
  * Department of Informatics
@@ -427,6 +430,9 @@ Here follows a list of suggested courses that students may include in their requ
 * "ECON4240 Equilibrium, welfare and information":"http://www.uio.no/studier/emner/sv/oekonomi/ECON4240/index.html"
 * "MEK4470  Computational Fluid Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4470/index-eng.html"
 * "MEK4250 Finite Element Methods in Computational Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4250/index-eng.html"
+* "AST5210 Stellar Atmospheres I":"http://www.uio.no/studier/emner/matnat/astro/AST5210/index-eng.html"
+* "AST9110 Numerical Modeling":"http://www.uio.no/studier/emner/matnat/astro/AST9110/index-eng.html"
+
 
 The program plans to develop other courses in computational science and its applications, ranging from life science to materials science.
 Courses on project planning and project administration are also possible to include.
@@ -440,14 +446,14 @@ Courses on project planning and project administration are also possible to incl
 The program aims at offering thesis projects in a variety of fields. The scientists involved in this program can offer thesis
 topics that cover several disciplines. These are
 
-* Computational mathematics
-* Computational mechanics
-* Computational chemistry and materials science
-* Computational physics
-* Computational life science
-* Computational informatics
-* Image analysis and signal processing
-* Computational finance and statistics 
+* Computational Science: Astrophysics
+* Computational Science: Bioscience
+* Computational Science: Chemistry
+* Computational Science: Finance and Risk Analysis
+* Computational Science: Imaging and Biomedical Computing
+* Computational Science: Materials science
+* Computational Science: Mathematics
+* Computational Science: Physics
 
 The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
 !eblock

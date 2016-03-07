@@ -1,4 +1,4 @@
-TITLE: Master program in Computational Physics, Mathematics and Life Science
+TITLE: Master program in Computational Science
 AUTHOR: Tom Andersen at Department of Biosciences, University of Oslo
 AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
 AUTHOR: Arne Bang Huseby at Department of Mathematics, University of Oslo

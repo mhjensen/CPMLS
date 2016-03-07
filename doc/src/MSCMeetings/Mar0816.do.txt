@@ -1,0 +1,185 @@
+TITLE: Master program in Computational Physics, Mathematics and Life Science
+AUTHOR: Tom Andersen at Department of Biosciences, University of Oslo
+AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
+AUTHOR: Arne Bang Huseby at Department of Mathematics, University of Oslo
+AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
+AUTHOR: Geir Dahl at Department of Mathematics, University of Oslo
+AUTHOR: Simon Wolfgang Funke at Department of Informatics, University of Oslo & Simula Research Laboratory
+AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
+AUTHOR: Viggo Hansteen  at Institute for Theoretical Astrophysics, University of Oslo
+AUTHOR: Morten Hjorth-Jensen (chair) at Department of Physics, University of Oslo
+AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo & Simula Research Laboratory
+AUTHOR: Katrine Langvad (admin) at Department of Physics, University of Oslo
+AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo
+AUTHOR: Kend-Andre Mardal at Department of Mathematics, University of Oslo
+AUTHOR: Knut Mørken at Department of Mathematics, University of Oslo
+AUTHOR: Grete Stavik-Døvle (admin) at Department of Physics, University of Oslo
+AUTHOR: Joakim Sundnes at Department of Informatics, University of Oslo & Simula Research Laboratory
+AUTHOR: Marte Julie Sætra (student representative) at Department of Physics, University of Oslo
+
+
+DATE: March 8, 2016
+
+
+
+!split
+===== Agenda March 8, 2016, 12pm-3pm =====
+!bblock
+
+Here is a tentative schedule, please feel free to come with suggestions/additions etc etc
+ o _Welcome, coffee and light refreshments_
+ o _Approval of agenda and minutes_ from previous "meeting":"https://github.com/mhjensen/CPMLS/tree/gh-pages/doc/src/MSCMeetings/Minutes"
+ o  Summary and short discussion of overarching aims of the program (15 min)
+ o Study directions and revision of learning outcomes and admission criteria. This point can also include practical issues on routines, rules etc which may be needed to implement our overarching     aims  and visions.  (90 min)
+   * We will start with Mathematics and Informatics
+   * Then Biosciences
+   * Physics, Astrophysics and Chemistry
+ o Discussion of courses (60 min)  
+ o Wrap up and eventual additional topics (15 min)
+
+!eblock
+
+
+!split
+===== Master program in Computational Science =====
+!bblock
+
+The program is a collaboration between
+
+ * Department of Biosciences
+ * Department of Chemistry
+ * Department of Informatics
+ * Department of Mathematics
+ * Department of Physics
+ * Institute of Theoretical Astrophysics
+ * Simula research Lab
+
+The program is multidisciplinary and all students who have completed
+undergraduate studies in science and engineering, with a sufficient
+quantitative background, are eligible.  
+!eblock
+
+
+!split
+===== Adopted thesis directions, as of February 2016 =====
+!bblock
+The program aims at offering thesis projects in a variety of fields. The scientists involved in this program can offer thesis
+topics that cover several disciplines. These are
+
+* Computational Science: Astrophysics
+* Computational Science: Bioscience
+* Computational Science: Chemistry
+* Computational Science: Finance and Risk Analysis
+* Computational Science: Imaging and Biomedical Computing
+* Computational Science: Materials science
+* Computational Science: Mathematics
+* Computational Science: Physics
+
+The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
+!eblock
+
+
+
+
+!split
+===== Discussion of courses, aims and questions =====
+!bblock
+
+Important aims and questions:
+
+o We need to develop an identity as a graduate student in computational science
+  * This means having common courses and activities
+o We need also to cater for the wishes and needs to specialize in a specific field
+  * The students are admitted at the department which reflects their main disciplines (credits stay at the department level), but one department is the main  organizational unit (physics)
+  * Students have their main activities located  at a given department
+o We need to look at existing courses in order to identify synergies, overlaps and possible new courses
+
+!eblock
+
+!split
+===== Dual MSc  degree =====
+!bblock
+
+o Most students identify themselves with one discipline. This can hinder students applying to a broader program like this one. 
+o We need to develop an identity as a graduate student in computational science.
+
+The first point and problems linked with it can be solved by offering the students the possibility of obtaining two MSc degrees with say some additional credits. As an example, a students who enlists in Computational Science: Physics can obtain a dual MSc degree in Computational Science and Physics by taking some additional credits, for example 20 ECTS. This may give this program an additional attractiveness. 
+
+!eblock
+
+!split
+===== Dual MSc  degree =====
+!bblock
+
+o UiO allows dual bachelor degrees. With 60 additional ECTS, FAM students can for example obtain a Bachelor degree in Materials Science (MENA).
+o We have to explore the possibility to allow for dual MSc degrees at UiO
+ *  A student who opts for Computational Science: Physics can, with additional credits obtain a MSc in Physics. The students would enlist at the Department of Physics. If the same department is involved this should be easy from an administrative and scientific point of view.
+ * If two departments or more departments are involved, one must be the student's primary affiliation and home of their principal thesis advisor, and the other is their secondary affiliation and home of their secondary advisor.  A student may opt for Computational Science: Mathematics as primary direction and Physics as a secondary direction. 
+ * In order to qualify for such a program, the student's thesis should include significant research contributions in both disciplines. 
+ * Students must satisfy a given set of course requirements. 
+o If agreed upon, we should develop a request for approval to the deans of MN-fac. 
+
+!eblock
+
+!split
+===== Possible courses and topics to be offered all CS students =====
+!bblock
+To develop an identity as a graduate student in computational science we should/need to opt for say 30 ECTS which are compulsory with a CS profile. Possible examples are (and some of these can be skipped by students with appropriate background)
+  * CS 4100, Mathematical Foundations of Data Science, 5 ECTS  
+  * CS 4200, Numerical Methods for Differential Equations, 5 ECTS  
+  * CS 4300, High-Performance computing and  Parallel Programming, 10 ECTS
+  * CS 4400, Numerical Linear Algebra, 5 ECTS
+  * CS 4500, Project management and structuring of numerical projects, 5 ECTS
+
+_Purpose of the core courses is to give students a broad and deep understanding of the fundamentals of computational and data science._
+It will also allow us to develop a program identity.  How many core courses do we need?  30 ECTS or only 20 ECTS?
+!eblock
+
+!split
+===== Cognate course requirement, 30 ECTS or 40 ECTS? =====
+!bblock
+* The purpose of the cognate requirement is to give students in-depth expertise in one or more application areas that pertain to their research interests, to provide in-depth exposure to one or more methodological areas, to develop expertise in an additional area of computational or data science, and/or to fill gaps in a student's undergraduate education.  This is meant to complement the purely algorithmic/methodological courses that they are taking as part of their core courses.
+* Do we want to have some sort of coherency and/or subject requirement for the cognate courses?  
+* Do we want to let cognate and additional courses double-count with requirements in other disciplines, for the sake of a dual MSc?
+
+!eblock
+
+
+
+
+
+!split
+===== Presently available courses at UiO and NMBU =====
+!bblock
+
+* "FYS3150/FYS4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS4150/index-eng.html"
+* "FYS4411/9411 Computational Physics II":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/"
+* "FYS4460/9460 Computational Physics III":"http://www.uio.no/studier/emner/matnat/fys/FYS4460/"
+* "INF5620 Numerical Methods for Partial Differential Equations":"http://www.uio.no/studier/emner/matnat/ifi/INF5620/index-eng.html"
+* "INF5631 Project on Numerical Methods for Partial Differential Equations": "http://www.uio.no/studier/emner/matnat/ifi/INF5631/index-eng.html"
+* "FYS388 Computational Neuroscience":"http://www.nmbu.no/course/FYS388"
+* "STK4520 Laboratory for Finance and Insurance Mathematics":"http://www.uio.no/studier/emner/matnat/math/STK4520/index-eng.html"
+* "STK4021 Applied Bayesian Analysis and Numerical Methods":"http://www.uio.no/studier/emner/matnat/math/STK4021/index-eng.html"
+* "MAT-INF4130  Numerical Linear Algebra":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4130/index-eng.html"
+* "MAT-INF4110 Mathematical Optimization":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4110/index.html"
+* "ECON4240 Equilibrium, welfare and information":"http://www.uio.no/studier/emner/sv/oekonomi/ECON4240/index.html"
+* "MEK4470  Computational Fluid Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4470/index-eng.html"
+* "MEK4250 Finite Element Methods in Computational Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4250/index-eng.html"
+
+
+!eblock
+
+
+
+!split
+===== How to proceed?   =====
+!bblock
+
+Establish a working group with the aim of delivering a proposal for courses by end of September 2016. 
+Possible tasks: 
+* Identify computational and mathematical needs
+* Identity topics/courses which can be modularized
+* Identify courses/modules of common interest
+* Identify new courses/modules of common interest
+!eblock
+

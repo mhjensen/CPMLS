@@ -453,6 +453,7 @@ topics that cover several disciplines. These are
 * Computational Science: Imaging and Biomedical Computing
 * Computational Science: Materials science
 * Computational Science: Mathematics
+* Computational Science: Mechanics
 * Computational Science: Physics
 
 The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.

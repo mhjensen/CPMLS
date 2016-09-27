@@ -24,6 +24,15 @@ Automatically generated HTML file from DocOnce source
    max-height: 400px;
    overflow-x: hidden;
 }
+
+/* Adds an invisible element before each target to offset for the navigation
+   bar */
+.anchor::before {
+  content:"";
+  display:block;
+  height:50px;      /* fixed header height for style bootstrap */
+  margin:-50px 0 0; /* negative fixed header height */
+}
 </style>
 
 
@@ -103,7 +112,7 @@ end of tocinfo -->
 <center>[5] <b>Department of Mathematics, University of Oslo</b></center>
 <br>
 <p>
-<center><h4>May 31, 2016</h4></center> <!-- date -->
+<center><h4>Sep 27, 2016</h4></center> <!-- date -->
 <br>
 <ul>
  <li> <a href="http://mhjensen.github.io/CPMLS/doc/pub/outline/html/outline.html" target="_blank">HTML slides</a></li>

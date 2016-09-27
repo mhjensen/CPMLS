@@ -53,10 +53,50 @@ The program will educate the next generation of cross-disciplinary
 science students with the knowledge, skills, and values needed to pose
 and solve current and new scientific, technological and societal
 challenges. The program will lay the foundation for cross-disciplinary
-educational, research and innovation activities at the Faculty. The
-program will contribute to building a common cross-disciplinary
-approach to the key strategic initiatives at the Faculty: Energy,
-Materials, Life Science, and Enabling Technologies.
+educational, research and innovation activities.
+
+It is the first educational program to
+comprehensively treat computation as the *triple junction* of
+algorithm development and analysis, high performance computing, and
+applications to scientific and engineering modeling and data
+science. This approach recognizes computation as a new discipline
+rather than being decentralized into isolated sub-disciplines. The CS program
+will  will enable application-driven computational modeling
+while also exposing disciplinary computational scientists to
+advanced tools and techniques, which will ignite new
+transformational connections in research and education.
+
+
+FIGURE: [figslides/cs.jpg, width=500 frac=0.6] 
+
+
+!split
+===== Vision for the future: Scientific Computing and Data Science =====
+
+Scientific computing focuses on the development of predictive computer
+models of the world around us. As study of physical phenomena through
+experimentation has become impossible, impractical and/or expensive,
+computational modeling has become the primary tool for
+understanding—equal in stature to analysis and experiment. 
+The discipline of scientific computing
+is the development of new methods that make challenging problems
+tractable on modern computing platforms, providing scientists and
+engineers with key windows into the world around us.
+
+Data science focuses on the development of tools designed to find
+trends within datasets that help scientists who are challenged with
+massive amounts of data to assess key relations within those
+datasets. These key relations provide hooks that allow scientists to
+identify models which, in turn, facilitate making accurate predictions
+in complex systems. For example, a key data science goal on the
+biological side would be better care for patients (e.g., personalized
+medicine). Given a patient’s genetic makeup, the proper data-driven
+model would identify the most effective treatment for that patient.
+
+
+!split
+===== Aims of the program =====
+
 
 A specific aim of this program is to develop the students' ability to pose and
 solve problems that combine physical insights with mathematical tools
@@ -70,10 +110,20 @@ essential methods from computational science. This requires an
 education that covers both the specific disciplines like physics, biology,
 geoscience, mathematics etc with a strong background in computational science.
 
-To build up an activity in computational life science would naturally bring in colleagues from the Norwegian University of Life Sciences,
-adding to this axis their year long experiences.
-The program could thus be a dual collaboration between the University of Oslo and the Norwegian University of Life Sciences, with eventual
-double Master of Science degree agreements.
+
+A significant aspect of this program is the ability to offer new educational
+opportunities that are aligned with the needs of a 21st century
+workforce. Many companies are seeking
+individuals who have knowledge of both a specific discipline and
+computational modeling.
+
+We plan to offer first Master of Science degrees in Computational Science
+and  our students will be expressly educated in the use of
+computing to model and study the world around them. Students in the CS
+program will achieve a high degree of proficiency in model
+development, critical thinking and analysis.
+
+
 
 !split
 ===== Scientific and educational motivation =====
@@ -138,8 +188,7 @@ Based on the experience from these programs, the hope is that the proposed progr
 in Computational Life Science need to  be developed to
 meet coming needs of the scientific community. We believe this new direction is
 best developed in close collaboration with already successful
-computational science programs.  In particular, we believe that there are strong synergy effects between the University of Oslo and the Norwegian 
-University of Life Sciences in the field of Computational Life Science.
+computational science programs.  
 
 !eblock
 
@@ -156,7 +205,7 @@ the last ten years.  Over 50% of these students have continued with
 PhD studies in Physics, Chemistry, Mathematics and now recently
 Biology connected with the CINPLA project.
 
-The Computational Physics Master program recieved in 2015 the University of Oslo Educational Award.
+The Computational Physics Master program received in 2015 the University of Oslo Educational Award.
 
 !eblock
 
@@ -220,7 +269,7 @@ Today's projects in science and industry tend to involve larger teams. Tools for
 !eblock
 
 !split
-===== Overarching description of the CPMLS program  =====
+===== Overarching description of the CS program  =====
 !bblock
 Students of this program learn to use the computer as a laboratory for
 solving problems in science and engineering. The program offers

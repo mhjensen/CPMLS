@@ -401,12 +401,34 @@ The following higher education entrance qualifications are needed
   o Economy
 * For international students, an internationally recognised English language proficiency test is required.
 
-The above undergraduate degrees have some minimal requirements on specializations which need to be fulfilled.  In addition to the above required undergraduate degrees, students need to have 40 ECTS in basic undergraduate mathematics and programming courses (calculus, linear algebra and/or mathematical modeling and programming). A course in programming is compulsory.
+The above undergraduate degrees have some minimal requirements on specializations which need to be fulfilled.  In addition to the above required undergraduate degrees, students need to have 40 ECTS in basic undergraduate mathematics and programming courses (calculus, linear algebra and/or mathematical modeling and programming). A course in programming is compulsory and shuld correspond at least to 10 ECTS of wor load.
 The average mark for the mathematics and programming courses, as well as 40 ECTS in  senior undergraduate courses (2000 and 3000 level in Norway) for the specific specialization  has at least to be C (letter marks).
 As an example, an undergraduate degree in Chemistry has a minimal requirement on chemistry courses, typically amounting to at least 60 ECTS out of 180 ECTS for a bachelor's degree. The average mark on the 40 ECTS  of selected senior undergraduate credits in chemistry and the 40 ECTS in mathematics and programming should
-at least be C.
+at least be C. A letter of motivation and two letters of recommendation are required when applying. 
 
 !eblock
+
+
+!split
+===== Thesis directions =====
+!bblock
+The program aims at offering thesis projects in a variety of fields. The scientists involved in this program can offer thesis
+topics that cover several disciplines. These are
+
+* Computational Science: Astrophysics
+* Computational Science: Bioscience
+* Computational Science: Chemistry
+* Computational Science: Finance and Risk Analysis
+* Computational Science: Imaging and Biomedical Computing
+* Computational Science: Materials science
+* Computational Science: Mathematics
+* Computational Science: Mechanics
+* Computational Science: Physics
+
+The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
+!eblock
+
+
 
 
 
@@ -436,34 +458,28 @@ avoding thereby the limitation of 10 ECTS per course only. Some of these courses
 !eblock
 
 !split
-===== Structure and specialized modules  =====
+===== Required courses  =====
 !bblock
-The program allows also for replacing regular courses with specialized modules of shorter duration.
-These modules will be developed by the program committee but can also be developed in an ad hoc basis
-and tailored to the individual projects. Specialized modules can amount to up to the full course requirement of 60 ECTS.
+In order to build a common study program and identity as a Computational Science student, there will be two compulsory courses that aim at providing topics of common and broad interest.
+Both courses have a workload of 10 ECTS each. The courses are
 
-
-|--------l------------------l----------------------l---------------l-------------|
-|                   |  10 ECTS           |  10 ECTS     |       10 ECTS          |
-|--------l------------------l----------------------l----------------l------------|
-| 4th semester      | Master thesis      |   Master Thesis  | Master Thesis      |
-|--------------------------------------------------------------------------------|
-| 3rd semester      | Master thesis      |   Master Thesis  | Master Thesis      |
-|--------------------------------------------------------------------------------|
-| 2nd semester      | Special module      |   Special module  | Special module   |
-|--------------------------------------------------------------------------------|
-| 1st semester      | Special module      |   Special module  | Special module   |
-|--------------------------------------------------------------------------------|
-
-The above set up shows how courses may be broken up in smaller modules.
+* _CS1_: High-Performance Computing and Numerical projects, 10 ECTS
+  -This course teaches you to develop and structure large numerical projects, from code writing to  finalizing a report
+  -Topics which are included are parallelization and vectorization (based on INF3380)
+  -Machine architecture and GPU-CPU programming
+  -Optimization of code and benchmarking
+  -Numerical methods from linear algebra will be discussed as well as examples from life science.
+* _CS2_: Data analysis and machine learning, 10 ECTS
+  -Monte Carlo methods and statistical data analysis
+  -Optimization of data and handling of large data sets
+  -Machine learning and neural networks
 !eblock
-
-
 
 
 !split
 ===== Presently available courses at UiO and NMBU =====
 !bblock
+The program aims at reorganizing many of the existing courses. 
 Here follows a list of suggested courses that students may include in their required course load.
 
 * "FYS4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS4150/index-eng.html"
@@ -488,25 +504,31 @@ Courses on project planning and project administration are also possible to incl
 !eblock
 
 
+!split
+===== Possible new courses =====
+Some of these courses could incorporate (or base themselves upon) existing ones
+* _CS3_: Basic methods in computational modeling
+* _CS4_: Mathematical Foundations of data science (based on MAT-INF4110 and STK4021)
+* _CS5_: Computational Linear Algebra (based on MAT-INF4130)
+* _CS6_: Computational differential equations (Based on INF5620)
+* _CS7_: Computational Bioinformatics (Based on INF5380)
+* _CS8_: Molecular dynamics in life science and materials science
+* _CS9_: Advanced optimization of numerical code (follows up CS1)
+* _CS10_: Computational Astrophysics (based on AST9110)
+* _CS11_: Computational quantum mechanics (based on fys4411 and FYS-MENA4110)
+* _CS12_: Computational statistical mechanics (based on fys4460)
+* _CS13_: Computational finance (based on STK4520)
+* _CS14_: Advanced data science
+* _CS15_: Computational Mechanics (based on MEK4470 and MEK4250?) 
+
+
 
 !split
-===== Thesis directions =====
-!bblock
-The program aims at offering thesis projects in a variety of fields. The scientists involved in this program can offer thesis
-topics that cover several disciplines. These are
+===== Graduate Certificates  =====
+The program plans to offer raduate certificates in
+* Computational Modeling for those studens who take 30 ECTS in modeling courses
+* High-performance computing for those studens who take 30 ECTS in high-performance computing
 
-* Computational Science: Astrophysics
-* Computational Science: Bioscience
-* Computational Science: Chemistry
-* Computational Science: Finance and Risk Analysis
-* Computational Science: Imaging and Biomedical Computing
-* Computational Science: Materials science
-* Computational Science: Mathematics
-* Computational Science: Mechanics
-* Computational Science: Physics
-
-The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
-!eblock
 
 
 
@@ -567,6 +589,10 @@ thesis work at research institutions abroad.
 !eblock
 
 
+
+!split
+===== Dual master degrees =====
+More material to come. "Several places offer this path.":"https://cmse.msu.edu/academics/graduate-program/dual-phd-in-computational-mathematics-science-and-engineering/".
 
 
 

@@ -334,8 +334,10 @@ The learning outcomes are subdivided in three general categories, knowledge, ski
   o can link computational models to specific applications and/or experimental data
   o can develop models and algorithms to describe experimental data
   o masters methods for reproducibility and how to link this to a sound ethical scienfitic conduct
-
- * has a fundamental understanding of scientific work, meaning that
+  o has a thorough understanding of how computing is used to  solve  scientific problems
+  o knows fundamental algorithms in computational science
+  
+ * has a fundamental understanding and knowledge of scientific work, meaning that
   o the candidate can develop hypotheses and suggest ways to test these
   o can use relevant analytical, experimental and numerical tools and results to test the scientific hypotheses
   o can generalize from numerical and experimental data to mathematical models and underlying principles
@@ -344,10 +346,9 @@ The learning outcomes are subdivided in three general categories, knowledge, ski
 
 * _Skills_: A candidate from this program
  * has a deep understanding of what computing means, entailing several or all of the topics listed below
-  o has a thorough understanding of how computing is used to  solve  scientific problems
   o knows the most fundamental algorithms involved, how to optimize these and perform statistical uncertainty quantification
   o has overview of advanced algorithms and how they can be accessed in available software and how they are used to solve scientific problems
-  o has knowledge of high-performance computing elements: memory usage, vectorization and parallel algorithms
+  o has knowledge and understands high-performance computing elements: memory usage, vectorization and parallel algorithms
   o can use effeciently high-performance computing resources, from compilers to hardware architectures
   o understands approximation errors and what can go wrong with algorithms
   o has knowledge of at least one computer algebra system and how it is applied to perform classical mathematics

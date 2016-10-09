@@ -1,11 +1,13 @@
 # CS
 Master program in Computational Science. The content here outlines the overarching aims 
-behind this new master program at the University of Oslo. This master program has several study directions
+behind this new master program at the University of Oslo. This master program has several study directions. These are
  
- * Computational  Life Science
- * Computational Chemistry
- * Computational Physics
- * Computational informatics
- * Computational Mathematics
- * Computational Finance and Statistics
- * Computational Mechanics
+* Computational Science: Astrophysics
+* Computational Science: Bioscience
+* Computational Science: Chemistry
+* Computational Science: Finance and Risk Analysis
+* Computational Science: Imaging and Biomedical Computing
+* Computational Science: Materials Science
+* Computational Science: Mathematics
+* Computational Science: Mechanics
+* Computational Science: Physics

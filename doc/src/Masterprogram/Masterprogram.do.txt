@@ -480,16 +480,16 @@ avoding thereby the limitation of 10 ECTS per course only. Some of these courses
 In order to build a common study program and identity as a Computational Science student, there will be two compulsory courses that aim at providing topics of common and broad interest.
 Both courses have a workload of 10 ECTS each. The courses are
 
-* _CS1_: *High-Performance Computing and Numerical projects*, 10 ECTS
+* _CS-MATH1_: *Data analysis and machine learning*, 10 ECTS
+  o Monte Carlo methods and statistical data analysis
+  o Optimization of data and handling of large data sets
+  o Machine learning and neural networks
+* _CS-INF1_: *High-Performance Computing and Numerical projects*, 10 ECTS
   o This course teaches you to develop and structure large numerical projects, from code writing to  finalizing a report
   o Topics which are included are parallelization and vectorization (based on INF3380)
   o Machine architecture and GPU-CPU programming
   o Optimization of code and benchmarking
   o Numerical methods from linear algebra will be discussed as well as examples from life science.
-* _CS2_: *Data analysis and machine learning*, 10 ECTS
-  o Monte Carlo methods and statistical data analysis
-  o Optimization of data and handling of large data sets
-  o Machine learning and neural networks
 !eblock
 
 
@@ -525,28 +525,30 @@ Courses on project planning and project administration are also possible to incl
 ===== Possible new courses =====
 Some of these courses could incorporate (or base themselves upon) existing ones. The courses here are organized according to their corresponding disciplines.
 * Mathematics
- o _CS-MATH1_: Basic methods in computational modeling   (new)
- o _CS-MATH2_: Mathematical Foundations of data science (based on MAT-INF4110 and STK4021)
- o _CS-MATH3_: Computational Linear Algebra (based on MAT-INF4130)
- o _CS-MATH4_: Computational differential equations (Based on INF5620)
- o _CS-MATH5_: Computational finance (based on STK4520)
- o _CS-MATH6_: Advanced data science
+ o _CS-MATH1_: Data analysis and machine learning (new)
+ o _CS-MATH2_: Basic methods in computational modeling   (new? do we need it?)
+ o _CS-MATH3_: Mathematical Foundations of data science (based on MAT-INF4110 and STK4021)
+ o _CS-MATH4_: Computational Linear Algebra (based on MAT-INF4130)
+ o _CS-MATH5_: Computational differential equations (Based on INF5620)
+ o _CS-MATH6_: Computational finance (based on STK4520)
+ o _CS-MATH7_: Advanced data science (new)
 * Physical sciences (Astrophysics, geoscience, physics, chemistry and materials science)
  o _CS-PHYS1_: Computational Physics (based on FYS3150/4150)
- o _CS-PHYS2_: Molecular dynamics in life science and materials science
+ o _CS-PHYS2_: Molecular dynamics in life science and materials science (new)
  o _CS-PHYS3_: Computational Astrophysics (based on AST9110)
  o _CS-PHYS4_: Computational quantum mechanics (based on fys4411 and FYS-MENA4110)
  o _CS-PHYS5_: Computational statistical mechanics (based on fys4460)
  o _CS-PHYS6_: Computational Materials Science (based on FYS-MENA4111)
 * Bioscience
- o _CS-PHYS2_: Molecular dynamics in life science and materials science
  o _CS-BIO1_: Computational Bioinformatics (Based on INF5380)
- o _CS-BIO2_: Advanced bioinformatics
+ o _CS-BIO2_: Advanced bioinformatics (new)
+ o _CS-PHYS2_: Molecular dynamics in life science and materials science (new)
 * Computer science
- o _CS-INF1_: Advanced optimization of numerical code (follows up CS1)
+ o _CS-INF1_: High-Performance Computing and Numerical projects (parts of inf3380, else new)
+ o _CS-INF2_: Advanced optimization of numerical code (new)
 * Mechanics
  o _CS-MECH1_: Computational Mechanics (based on MEK4470 and MEK4250?)
- o _CS-MECH2_: Advanced Computational Mechanics
+ o _CS-MECH2_: Advanced Computational Mechanics (new?)
 
 
 
@@ -554,9 +556,11 @@ Some of these courses could incorporate (or base themselves upon) existing ones.
 
 !split
 ===== Graduate Certificates  =====
-The program plans to offer raduate certificates in
-* Computational Modeling for those studens who take 30 ECTS in modeling courses
-* High-performance computing for those studens who take 30 ECTS in high-performance computing
+The program plans to offer graduate certificates in
+* Three of the courses with label CS-MATH  gives a certificate in Computational Mathematics
+* Three of the courses with label CS-PHYS gives a certificate in Computational Physics, Astrophysics, Chemistry, Materials Science  and Geoscience
+* Three of the courses with label CS-BIO gives a certificate in Computational life science. 
+* Three of the courses with label CS-INF gives a certificate in High-performance computing. 
 
 
 

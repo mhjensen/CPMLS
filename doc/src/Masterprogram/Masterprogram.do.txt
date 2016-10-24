@@ -26,11 +26,12 @@ DATE: Planned start: Fall 2018
 We propose a new Master of Science program at the Faculty of Mathematics and Natural Sciences of the University of Oslo. This program is called  _Computational Science_, with acronym  _CS_
 
 
-The program is a collaboration between six departments and classical disciplines:
+The program is a collaboration between seven departments and classical disciplines:
  
  * Institute of Theoretical Astrophysics
  * Department of Biosciences
  * Department of Chemistry
+ * Department of Geoscience
  * Department of Informatics
  * Department of Mathematics
  * Department of Physics
@@ -431,9 +432,10 @@ The program aims at offering thesis projects in a variety of fields. The scienti
 topics that cover several disciplines. These are
 
 * Computational Science: Astrophysics
-* Computational Science: Bioscience
+* Computational Science: Biology and Bioinformatics
 * Computational Science: Chemistry
 * Computational Science: Finance and Risk Analysis
+* Computational Science: Geoscience
 * Computational Science: Imaging and Biomedical Computing
 * Computational Science: Materials science
 * Computational Science: Mathematics
@@ -521,20 +523,32 @@ Courses on project planning and project administration are also possible to incl
 
 !split
 ===== Possible new courses =====
-Some of these courses could incorporate (or base themselves upon) existing ones
-* _CS3_: Basic methods in computational modeling
-* _CS4_: Mathematical Foundations of data science (based on MAT-INF4110 and STK4021)
-* _CS5_: Computational Linear Algebra (based on MAT-INF4130)
-* _CS6_: Computational differential equations (Based on INF5620)
-* _CS7_: Computational Bioinformatics (Based on INF5380)
-* _CS8_: Molecular dynamics in life science and materials science
-* _CS9_: Advanced optimization of numerical code (follows up CS1)
-* _CS10_: Computational Astrophysics (based on AST9110)
-* _CS11_: Computational quantum mechanics (based on fys4411 and FYS-MENA4110)
-* _CS12_: Computational statistical mechanics (based on fys4460)
-* _CS13_: Computational finance (based on STK4520)
-* _CS14_: Advanced data science
-* _CS15_: Computational Mechanics (based on MEK4470 and MEK4250?) 
+Some of these courses could incorporate (or base themselves upon) existing ones. The courses here are organized according to their corresponding disciplines.
+* Mathematics
+ o _CS-MATH1_: Basic methods in computational modeling   (new)
+ o _CS-MATH2_: Mathematical Foundations of data science (based on MAT-INF4110 and STK4021)
+ o _CS-MATH3_: Computational Linear Algebra (based on MAT-INF4130)
+ o _CS-MATH4_: Computational differential equations (Based on INF5620)
+ o _CS-MATH5_: Computational finance (based on STK4520)
+ o _CS-MATH6_: Advanced data science
+* Physical sciences (Astrophysics, geoscience, physics, chemistry and materials science)
+ o _CS-PHYS1_: Computational Physics (based on FYS3150/4150)
+ o _CS-PHYS2_: Molecular dynamics in life science and materials science
+ o _CS-PHYS3_: Computational Astrophysics (based on AST9110)
+ o _CS-PHYS4_: Computational quantum mechanics (based on fys4411 and FYS-MENA4110)
+ o _CS-PHYS5_: Computational statistical mechanics (based on fys4460)
+ o _CS-PHYS6_: Computational Materials Science (based on FYS-MENA4111)
+* Bioscience
+ o _CS-PHYS2_: Molecular dynamics in life science and materials science
+ o _CS-BIO1_: Computational Bioinformatics (Based on INF5380)
+ o _CS-BIO2_: Advanced bioinformatics
+* Computer science
+ o _CS-INF1_: Advanced optimization of numerical code (follows up CS1)
+* Mechanics
+ o _CS-MECH1_: Computational Mechanics (based on MEK4470 and MEK4250?)
+ o _CS-MECH2_: Advanced Computational Mechanics
+
+
 
 
 

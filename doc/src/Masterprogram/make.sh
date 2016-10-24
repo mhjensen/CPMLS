@@ -88,6 +88,3 @@ tar czf ${ipynb_tarfile} README.txt
 fi
 cp ${ipynb_tarfile} $dest/$name/ipynb
 
-
-doconce format html index --html_style=bootstrap --html_links_in_new_window --html_bootstrap_jumbotron=off
-cp index.html $dest

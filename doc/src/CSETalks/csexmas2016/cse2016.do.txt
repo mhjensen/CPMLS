@@ -1,0 +1,227 @@
+TITLE: Master program in Computational Science  at the University of Oslo
+AUTHOR: Tom Andersen at Department of Biosciences, University of Oslo
+AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
+AUTHOR: Arne Bang Huseby at Department of Mathematics, University of Oslo
+AUTHOR: John Burkart at Department of Geoscience, University of Oslo
+AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
+AUTHOR: Mats Carlsson  at Institute for Theoretical Astrophysics, University of Oslo
+AUTHOR: Geir Dahl at Department of Mathematics, University of Oslo
+AUTHOR: Simon Wolfgang Funke at Department of Informatics, University of Oslo & Simula Research Laboratory
+AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
+AUTHOR: Viggo Hansteen  at Institute for Theoretical Astrophysics, University of Oslo
+AUTHOR: Morten Hjorth-Jensen (chair) at Department of Physics, University of Oslo
+AUTHOR: Joseph  Lacasce at Department of Geoscience, University of Oslo
+AUTHOR: Katrine Langvad (admin) at Department of Physics, University of Oslo
+AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo
+AUTHOR: Kend-Andre Mardal at Department of Mathematics, University of Oslo
+AUTHOR: Martin Reimers at Department of Mathematics, University of Oslo
+AUTHOR: Knut Mørken at Department of Mathematics, University of Oslo
+AUTHOR: Torbjørn Rognes at Department of Informatics, University of Oslo
+AUTHOR: Thomas Schuler at Department of Geoscience, University of Oslo
+AUTHOR: Grete Stavik-Døvle (admin) at Department of Physics, University of Oslo
+AUTHOR: Joakim Sundnes at Department of Informatics, University of Oslo & Simula Research Laboratory
+
+
+DATE: Planned start: Fall 2018
+
+
+!split
+===== Master program in Computational Science =====
+!bblock
+
+The program is a collaboration between seven departments and classical disciplines:
+ 
+ * Institute of Theoretical Astrophysics
+ * Department of Biosciences
+ * Department of Chemistry
+ * Department of Geoscience
+ * Department of Informatics
+ * Department of Mathematics
+ * Department of Physics
+
+The program is multidisciplinary and all students who have completed
+undergraduate studies in science and engineering, with a sufficient
+quantitative background, are eligible. 
+
+
+!eblock
+
+!split
+===== Strategic importance =====
+
+The program will educate the next generation of cross-disciplinary
+science students with the knowledge, skills, and values needed to pose
+and solve current and new scientific, technological and societal
+challenges. The program will lay the foundation for cross-disciplinary
+educational, research and innovation activities.
+
+It is the first educational program to
+comprehensively treat computation as the *triple junction* of
+algorithm development and analysis, high performance computing, and
+applications to scientific and engineering modeling and data
+science. This approach recognizes computation as a new discipline
+rather than being decentralized into isolated sub-disciplines. The CS program
+enable application-driven computational modeling
+while also exposing disciplinary computational scientists to
+advanced tools and techniques, which will ignite new
+transformational connections in research and education.
+
+
+FIGURE: [figslides/cs.jpg, width=500 frac=0.6] 
+
+!split
+===== The new program and the  CSE project  =====
+!bblock
+
+The new proposed program will also take a leading responsibility in further
+developments of the highly successful "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" initiative at UiO.  Master of science thesis projects linked up to the CSE project will be offered. For future discussions: how to link with CCSE. 
+
+If the program becomes successful, it will naturally lead to
+new cross-disciplinary research. And perhaps for a new department
+in computational science!!  Back to Hans Petter slides from 2005.
+!eblock
+
+
+!split
+===== Thesis directions =====
+!bblock
+The program aims at offering thesis projects in a variety of fields. The scientists involved in this program can offer thesis
+topics that cover several disciplines. These are
+
+* Computational Science: Astrophysics
+* Computational Science: Biology and Bioinformatics
+* Computational Science: Chemistry
+* Computational Science: Finance and Risk Analysis
+* Computational Science: Geoscience
+* Computational Science: Imaging and Biomedical Computing
+* Computational Science: Materials science
+* Computational Science: Mathematics
+* Computational Science: Mechanics
+* Computational Science: Physics
+
+The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline. 
+!eblock
+
+
+!split
+===== Required courses  =====
+!bblock
+In order to build a common study program and identity as a Computational Science student, we plan be two compulsory courses that aim at providing topics of common and broad interest.
+
+* _CS-MATH1_: *Data analysis and machine learning*, 10 ECTS (Existing "ST2100":"http://www.uio.no/studier/emner/matnat/math/STK2100/", "GEO4330":"http://www.uio.no/studier/emner/matnat/geofag/GEO4330/")
+  o Monte Carlo methods and statistical data analysis
+  o Optimization of data and handling of large data sets
+  o Machine learning and neural networks
+* _CS-INF1_: *High-Performance Computing and Numerical projects*, 10 ECTS (Existing INF3380)
+  o This course teaches you to develop and structure large numerical projects, from code writing to  finalizing a report
+  o Topics which are included are parallelization and vectorization 
+  o Machine architecture and GPU-CPU programming
+  o Optimization of code and benchmarking
+  o Numerical methods from linear algebra will be discussed as well as examples from life science.
+!eblock
+
+
+!split
+===== Presently available courses at UiO and NMBU (not exhaustive) =====
+!bblock
+The program aims at reorganizing many of the existing courses. 
+Here follows a list of suggested courses that students may include in their required course load.
+
+* "FYS4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS4150/index-eng.html"
+* "FYS4411 Computational Physics II":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/"
+* "FYS4460 Computational Physics III":"http://www.uio.no/studier/emner/matnat/fys/FYS4460/"
+* "INF5620 Numerical Methods for Partial Differential Equations":"http://www.uio.no/studier/emner/matnat/ifi/INF5620/index-eng.html"
+* "INF5631 Project on Numerical Methods for Partial Differential Equations": "http://www.uio.no/studier/emner/matnat/ifi/INF5631/index-eng.html"
+* "FYS388 Computational Neuroscience":"http://www.nmbu.no/course/FYS388"
+* "STK4520 Laboratory for Finance and Insurance Mathematics":"http://www.uio.no/studier/emner/matnat/math/STK4520/index-eng.html"
+* "STK4021 Applied Bayesian Analysis and Numerical Methods":"http://www.uio.no/studier/emner/matnat/math/STK4021/index-eng.html"
+* "MAT-INF4130  Numerical Linear Algebra":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4130/index-eng.html"
+* "MAT-INF4110 Mathematical Optimization":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4110/index.html"
+* "ECON4240 Equilibrium, welfare and information":"http://www.uio.no/studier/emner/sv/oekonomi/ECON4240/index.html"
+* "MEK4470  Computational Fluid Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4470/index-eng.html"
+* "MEK4250 Finite Element Methods in Computational Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4250/index-eng.html"
+* "GEO4330 Advanced hydrological modelling":"http://www.uio.no/studier/emner/matnat/geofag/GEO4330/"
+* "AST5210 Stellar Atmospheres I":"http://www.uio.no/studier/emner/matnat/astro/AST5210/index-eng.html"
+* "AST9110 Numerical Modeling":"http://www.uio.no/studier/emner/matnat/astro/AST9110/index-eng.html"
+
+
+
+!eblock
+
+
+!split
+===== Possible new courses =====
+Some of these courses could incorporate (or base themselves upon) existing ones. The courses here are organized according to their corresponding disciplines.
+* Mathematics
+ o _CS-MATH1_: Data analysis and machine learning (Existing "GEO4330":"http://www.uio.no/studier/emner/matnat/geofag/GEO4330/", STK2100)
+ o _CS-MATH2_: Basic methods in computational modeling   (new? do we need it?)
+ o _CS-MATH3_: Mathematical Foundations of data science (based on MAT-INF4110 and STK4021)
+ o _CS-MATH4_: Computational Linear Algebra (based on MAT-INF4130)
+ o _CS-MATH5_: Computational differential equations (Based on INF5620)
+ o _CS-MATH6_: Computational finance (based on STK4520)
+ o _CS-MATH7_: Advanced data science (new)
+* Physical sciences (Astrophysics, geoscience, physics, chemistry and materials science)
+ o _CS-PHYS1_: Computational Physics (based on FYS3150/4150)
+ o _CS-PHYS2_: Molecular dynamics in life science and materials science (new)
+ o _CS-PHYS3_: Computational Astrophysics (based on AST9110)
+ o _CS-PHYS4_: Computational quantum mechanics (based on fys4411 and FYS-MENA4110)
+ o _CS-PHYS5_: Computational statistical mechanics (based on fys4460)
+ o _CS-PHYS6_: Computational Materials Science (based on FYS-MENA4111)
+* Bioscience
+ o _CS-BIO1_: Computational Bioinformatics (Based on INF5380)
+ o _CS-BIO2_: Advanced bioinformatics (new)
+ o _CS-PHYS2_: Molecular dynamics in life science and materials science (new)
+* Computer science
+ o _CS-INF1_: High-Performance Computing and Numerical projects (parts of inf3380, else new)
+ o _CS-INF2_: Advanced optimization of numerical code (new)
+* Mechanics
+ o _CS-MECH1_: Computational Mechanics (based on MEK4470 and MEK4250?)
+ o _CS-MECH2_: Advanced Computational Mechanics (new?)
+
+
+!split 
+===== Double degrees: Some observations =====
+!bblock From Brian O'Shea, Department of Computational Mathematics, Science and Engineering, Michigan State University
+
+...Hi folks,
+
+A substantial number of current nuclear theory grad students are thinking about pursuing a dual PhD in CMSE, and it seems that it’s becoming a useful recruiting tool elsewhere in the physics department.  I suspect it will be useful for nuclear theory as well.  To that end, a description of the CMSE PhD program, which is useful for explaining the value of a dual PhD, can be found "here":"https://cmse.msu.edu/academics/graduate-program/phd-in-computational-mathematics-science-and-engineering/"
+
+And a description of the dual PhD can be found "here":"https://cmse.msu.edu/academics/graduate-program/dual-phd-in-computational-mathematics-science-and-engineering/".....
+!eblock
+
+!split
+===== Double Master degree =====
+
+* A typical Computational Physics student (now) writes a Masster thesis with a mix of theoretical physics (also with analysis of experimental data) and Computational science topics.
+ * This is probably the case in all other fields and makes our education and candidates  attractive in the labor market.
+* Set up detailed rules for double degrees, adding for example additional courses.
+
+
+!split
+===== Graduate Certificates, several possibilities  =====
+Offer graduate certificates in
+* Three of the courses with label CS-MATH  gives a certificate in Computational Modeling
+* Three of the courses with label CS-PHYS gives a certificate in Computational Physics, Astrophysics, Chemistry, Materials Science  and Geoscience
+* Three of the courses with label CS-BIO gives a certificate in Computational life science. 
+* Three of the courses with label CS-INF gives a certificate in High-performance computing. 
+
+!split
+===== Further plans when established =====
+
+
+* "Erasmus+":"https://ec.europa.eu/programmes/erasmus-plus/node_en", excellent opportunity to build up an international Master of Science program in Compuational Science, with stipends to studens from non-European countries 
+* Doctoral school (national) and Marie Curie graduate training program in Computational Science
+* Close ties with CCSE in the beginning, but long term plan is a new Department of Computational Science
+ * An excellent example is the new  "Department of Computational Mathematics, Science and Engineering at Michigan State University":"https://cmse.msu.edu/"
+   * 30 new positions, many of these shared with other departments
+   * Undergraduate programs, from minor to major degrees
+   * Graduate programs, MSc and PhD, dual degrees
+   * new educational programs, but our new CS program is broader
+ * Many similar departments in Northern America but few in Europe. 
+
+
+
+
+
+

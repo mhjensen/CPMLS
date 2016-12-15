@@ -98,6 +98,7 @@ topics that cover several disciplines. These are
 * Computational Science: Mathematics
 * Computational Science: Mechanics
 * Computational Science: Physics
+* Wish: Computational Science: Economy and finance
 
 The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline. 
 !eblock

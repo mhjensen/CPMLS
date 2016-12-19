@@ -1,0 +1,38 @@
+===== Minutes from CPMLS meeting, October 2016 =====
+
+
+=== Present board members: ===
+Andreas A, Michele C, Morten HJ, Grete SD, Katrine L, Joakim S,  Kent-Andre M, Arne BH, Geir D, Knut M, Tom A, Lex N, Mats C, Torbjørn R
+Excused: Viggo H, Simon F, and Marianne F
+
+
+Agenda
+1) Summary from last meeting and present status (5 min) 
+2) Discussion of courses, see list and discussion items below (we will start with this topic since Lex Nederbragt has to leave earlier)  1h
+3) Revision of admission criteria and study directions. See items below and discussion points. 40 min
+4) Additional topics, see list below, 15 min
+
+
+//  Details about the agenda
+
+Item 2) The program, with its many study directions needs to develop a common identity. One way to achieve this is to have compulsory courses taken by all students. As a follow-up from our previous meeting, two possible courses were mentioned: Both courses have a workload of 10 ECTS each. The courses are (names are tentative and meant for the discussion only)
+
+    CS1: High-Performance Computing and Numerical projects, 10 ECTS
+        This course teaches you to develop and structure large numerical projects, from code writing to finalizing a report
+        Topics which are included are parallelization and vectorization (see for example  INF3380)
+        Machine architecture and GPU-CPU programming
+        Optimization of code and benchmarking
+        Numerical methods from linear algebra will be discussed. Students can however bring in their own problems.  Would it be interesting to add topics from say bioinformatics? 
+    CS2: Data analysis and machine learning, 10 ECTS
+        Monte Carlo methods and statistical data analysis (potential overlap with STK2100)
+        Optimization of data and handling of large data sets  (potential overlap with STK2100)
+        Machine learning and neural networks (Existing courses such as INF3490/INF4490 )
+
+Both courses can have a project-based approach,  allowing us thereby to include many of our learning outcomes. 
+These courses should contain enough new material so that students who have a strong mathematical background feel they learn something new. Some (several) of the topics are partly included in existing courses and we need to make sure that we can establish god collaborations with the involved departments and teachers. We need to ensure that students who have followed courses with related topics don’t feel that the overlap is too large. 
+These two courses offer also material which is of large interest to many different disciplines, spanning from life science to particle physics. The discussion was started and will continue at the next meeting. 
+During the discussions several raised the possibility of having discipline specific topics in these two courses. Geir D mentioned the possibility of focusing more on applications from the Physical sciences and life science. The participants found this a very interesting idea. 
+
+Item 3) The learning outcomes were revised and have been submitted to our mn-fak administration. It will
+most likely be approved (with possible changes) before the holiday season begins.
+What follows here is what we sent to the MN-admin on October 15. 

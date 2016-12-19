@@ -353,9 +353,12 @@ avoding thereby the limitation of 10 ECTS per course only. Some of these courses
 * "ECON4240 Equilibrium, welfare and information":"http://www.uio.no/studier/emner/sv/oekonomi/ECON4240/index.html"
 * "MEK4470  Computational Fluid Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4470/index-eng.html"
 * "MEK4250 Finite Element Methods in Computational Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4250/index-eng.html"
-* "GEO4330 Advanced hydrological modelling":"http://www.uio.no/studier/emner/matnat/geofag/GEO4330/"
+* "GEO4310 - Stochastic methods in hydrology":"http://www.uio.no/studier/emner/matnat/geofag/GEO4310/"
 * "AST5210 Stellar Atmospheres I":"http://www.uio.no/studier/emner/matnat/astro/AST5210/index-eng.html"
 * "AST9110 Numerical Modeling":"http://www.uio.no/studier/emner/matnat/astro/AST9110/index-eng.html"
+
+
+
 
 
 
@@ -367,7 +370,7 @@ avoding thereby the limitation of 10 ECTS per course only. Some of these courses
 In order to build a common study program and identity as a Computational Science student, there will be two compulsory courses that aim at providing topics of common and broad interest.
 Both courses have a workload of 10 ECTS each. The courses are
 
-* _CS-MATH1_: *Data analysis and machine learning*, 10 ECTS (Existing "ST2100":"http://www.uio.no/studier/emner/matnat/math/STK2100/", "GEO4330":"http://www.uio.no/studier/emner/matnat/geofag/GEO4330/")
+* _CS-MATH1_: *Data analysis and machine learning*, 10 ECTS (Existing "STK2100":"http://www.uio.no/studier/emner/matnat/math/STK2100/", "GEO4310":"http://www.uio.no/studier/emner/matnat/geofag/GEO4310/")
 
   o Monte Carlo methods and statistical data analysis
   o Optimization of data and handling of large data sets

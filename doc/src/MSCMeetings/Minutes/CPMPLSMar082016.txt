@@ -1,0 +1,105 @@
+===== Minutes from CPMLS meeting, March 8, 2016 =====
+
+
+=== Present  members: ===
+Andreas A, Michele C, Morten HJ, Grete SD, Katrine L, Joakim S,  Kent-Andre M, Arne BH, Geir D, Knut M, and Marte Julie S, Tom A, Anders MS, Simon F
+Excused: Hans Petter L and Marianne F
+
+
+Agenda March 8, 2016, 12pm-3pm 
+
+Here is a tentative schedule, please feel free to come with suggestions/additions etc etc
+ o _Welcome, coffee and light refreshments_
+ o _Approval of agenda and minutes_ from previous "meeting":"https://github.com/mhjensen/CPMLS/tree/gh-pages/doc/src/MSCMeetings/Minutes"
+ o  Summary and short discussion of overarching aims of the program (15 min)
+ o Study directions and revision of learning outcomes and admission criteria. This point can also include practical issues on routines, rules etc which may be needed to implement our overarching     aims  and visions.  (90 min)
+   * We will start with Mathematics and Informatics
+   * Then Biosciences
+   * Physics, Astrophysics and Chemistry
+ o Discussion of courses (60 min)  
+ o Wrap up and eventual additional topics (15 min)
+
+
+The program is a collaboration between
+
+ * Department of Biosciences
+ * Department of Chemistry
+ * Department of Informatics
+ * Department of Mathematics
+ * Department of Physics
+ * Institute of Theoretical Astrophysics
+ * Simula research Lab
+
+The program is multidisciplinary and all students who have completed
+undergraduate studies in science and engineering, with a sufficient
+quantitative background, are eligible.  
+
+The program aims at offering thesis projects in a variety of fields. The scientists involved in this program can offer thesis
+topics that cover several disciplines. These are
+
+* Computational Science: Astrophysics
+* Computational Science: Bioscience
+* Computational Science: Chemistry
+* Computational Science: Finance and Risk Analysis
+* Computational Science: Imaging and Biomedical Computing
+* Computational Science: Materials science
+* Computational Science: Mathematics
+* Computational Science: Physics
+
+The various study directions were discussed, in addition to defining the admission criteria.
+
+
+
+===== Important aims and questions: =====
+
+How to develop a common student identity was also discussed, with an emphasis on
+
+o We need to develop an identity as a graduate student in computational science
+  * This means having common courses and activities
+o We need also to cater for the wishes and needs to specialize in a specific field
+  * The students are admitted at the department which reflects their main disciplines (credits stay at the department level), but one department is the main  organizational unit (physics)
+  * Students have their main activities located  at a given department
+o We need to look at existing courses in order to identify synergies, overlaps and possible new courses
+
+
+===== Possible courses and topics to be offered all CS students =====
+The meeting agreed that one should opt for up tp 20 ECTS that are compulsory for all students. 
+The following possible courses/topics were discussed
+
+  * CS 4100, Mathematical Foundations of Data Science, 5 ECTS  
+  * CS 4200, Numerical Methods for Differential Equations, 5 ECTS  
+  * CS 4300, High-Performance computing and  Parallel Programming, 10 ECTS
+  * CS 4400, Numerical Linear Algebra, 5 ECTS
+  * CS 4500, Project management and structuring of numerical projects, 5 ECTS
+
+_Purpose of the core courses is to give students a broad and deep understanding of the fundamentals of computational and data science._
+It will also allow us to develop a program identity. The meeting decided that the fall of 2016 and the spring semester of 2017 will be devoted to finalize the different courses and their contents. 
+
+===== Cognate course requirement, 30 ECTS or 40 ECTS? =====
+
+* The purpose of the cognate requirement is to give students in-depth expertise in one or more application areas that pertain to their research interests, to provide in-depth exposure to one or more methodological areas, to develop expertise in an additional area of computational or data science, and/or to fill gaps in a student's undergraduate education.  This is meant to complement the purely algorithmic/methodological courses that they are taking as part of their core courses.
+* Do we want to have some sort of coherency and/or subject requirement for the cognate courses?  
+* Do we want to let cognate and additional courses double-count with requirements in other disciplines, for the sake of a dual MSc?
+
+These topics were discussed during the meeting but without a conclusion. 
+
+===== How to proceed?   =====
+It was agreed that we should establish working groups with the aim of delivering a proposal for courses by end of September 2016. 
+Possible tasks: 
+* Identify computational and mathematical needs
+* Identity topics/courses which can be modularized
+* Identify courses/modules of common interest
+* Identify new courses/modules of common interest
+
+These discussions, together with revised admission criteria will be discussed during the fall of 2016.
+
+
+
+
+
+
+
+
+
+
+

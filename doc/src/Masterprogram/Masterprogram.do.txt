@@ -2,20 +2,24 @@ TITLE: Master program in Computational Science  at the University of Oslo
 AUTHOR: Tom Andersen at Department of Biosciences, University of Oslo
 AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
 AUTHOR: Arne Bang Huseby at Department of Mathematics, University of Oslo
+AUTHOR: John Burkart at Department of Geoscience, University of Oslo
 AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
+AUTHOR: Mats Carlsson  at Institute for Theoretical Astrophysics, University of Oslo
 AUTHOR: Geir Dahl at Department of Mathematics, University of Oslo
 AUTHOR: Simon Wolfgang Funke at Department of Informatics, University of Oslo & Simula Research Laboratory
 AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
 AUTHOR: Viggo Hansteen  at Institute for Theoretical Astrophysics, University of Oslo
 AUTHOR: Morten Hjorth-Jensen (chair) at Department of Physics, University of Oslo
-AUTHOR: Hans Petter Langtangen at Department of Informatics, University of Oslo & Simula Research Laboratory
+AUTHOR: Joseph  Lacasce at Department of Geoscience, University of Oslo
 AUTHOR: Katrine Langvad (admin) at Department of Physics, University of Oslo
 AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo
 AUTHOR: Kend-Andre Mardal at Department of Mathematics, University of Oslo
+AUTHOR: Martin Reimers at Department of Mathematics, University of Oslo
 AUTHOR: Knut Mørken at Department of Mathematics, University of Oslo
+AUTHOR: Torbjørn Rognes at Department of Informatics, University of Oslo
+AUTHOR: Thomas Schuler at Department of Geoscience, University of Oslo
 AUTHOR: Grete Stavik-Døvle (admin) at Department of Physics, University of Oslo
 AUTHOR: Joakim Sundnes at Department of Informatics, University of Oslo & Simula Research Laboratory
-AUTHOR: Marte Julie Sætra (student representative) at Department of Physics, University of Oslo
 
 DATE: Planned start: Fall 2018
 
@@ -194,33 +198,6 @@ computational science programs.
 !eblock
 
 
-!split
-===== Computational Physics at UiO has been a great success =====
-!bblock
-
-This initiative has its roots in the highly successful direction called "Computational Physics":"http://www.uio.no/english/studies/programmes/physics-master/programme-options/computational/index.html"
-under the Master program in Physics at the University of Oslo.
-
-This program has educated almost 60 Master of Science students during
-the last ten years.  Over 50% of these students have continued with
-PhD studies in Physics, Chemistry, Mathematics and now recently
-Biology connected with the CINPLA project.
-
-The Computational Physics Master program received in 2015 the University of Oslo Educational Award.
-
-!eblock
-
-!split
-===== The new program will also host the CSE project =====
-!bblock
-
-The new proposed program will also take a leading responsibility in further
-developments of the highly successful "Computing in Science Education":"http://www.mn.uio.no/english/about/collaboration/cse/" initiative at UiO.  Master of science thesis projects linked up to the CSE project will be offered.
-
-If the program becomes successful, it will naturally lead to
-new cross-disciplinary research and a need for a new department
-in computational science.
-!eblock
 
 
 !split
@@ -295,6 +272,250 @@ problems. A candidate from this program gains  deep insights in the fundamnetal 
 computations play  in our advancement of science and technology, as well as the role computations play  in society.
 
 !eblock
+
+!split
+===== The program opens up for flexible backgrounds  =====
+
+!bblock
+While discipline-based master's programs tend to introduce very strict
+requirements to courses, we believe in adapting a computational thesis
+topic to the student's background, thereby opening up for
+students with a wide range of bachelor's degrees.
+A very heterogeneous student community is thought to be a strength and
+unique feature of this program.
+!eblock
+
+
+
+!split
+===== Thesis directions =====
+!bblock
+
+* Computational Science: Applied Mathematics and Risk Analysis
+* Computational Science: Astrophysics
+* Computational Science: Bioinformatics
+* Computational Science: Biology
+* Computational Science: Chemistry
+* Computational Science: Geoscience
+* Computational Science: Imaging and Biomedical Computing
+* Computational Science: Materials science
+* Computational Science: Mechanics
+* Computational Science: Physics
+
+The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
+!eblock
+
+
+
+
+
+!split
+===== Structure and courses =====
+!bblock
+The table here is an example of a suggested path for a Master of Science project,
+with course work the first year and thesis work the last year.
+
+|--------l------------------l----------------------l---------------l-------------|
+|                   |  10 ECTS           |  10 ECTS     |       10 ECTS          |
+|--------l------------------l----------------------l----------------l------------|
+| 4th semester      | Master thesis      |   Master Thesis  | Master Thesis      |
+|--------------------------------------------------------------------------------|
+| 3rd semester      | Master thesis      |   Master Thesis  | Master Thesis      |
+|--------------------------------------------------------------------------------|
+| 2nd semester      | Master courses      |   Master courses  | Master courses   |
+|--------------------------------------------------------------------------------|
+| 1st semester      | Master courses      |   Master courses  | Master courses   |
+|--------------------------------------------------------------------------------|
+
+The program is very flexible in its structure and students may opt for starting with their thesis
+work from the first semester and scatter the respective course load across all four semesters.
+Depending on interests and specializations, there are many courses on computational science which can make
+up the required curriculum of course work. Furthermore, courses may be broken up in smaller modules,
+avoding thereby the limitation of 10 ECTS per course only. Some of these courses are listed below.
+!eblock
+
+
+
+!split
+===== Presently available courses at UiO and NMBU =====
+!bblock
+
+* "FYS4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS4150/index-eng.html"
+* "FYS4411 Computational Physics II":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/"
+* "FYS4460 Computational Physics III":"http://www.uio.no/studier/emner/matnat/fys/FYS4460/"
+* "INF5620 Numerical Methods for Partial Differential Equations":"http://www.uio.no/studier/emner/matnat/ifi/INF5620/index-eng.html"
+* "INF5631 Project on Numerical Methods for Partial Differential Equations": "http://www.uio.no/studier/emner/matnat/ifi/INF5631/index-eng.html"
+* "FYS388 Computational Neuroscience":"http://www.nmbu.no/course/FYS388"
+* "STK4520 Laboratory for Finance and Insurance Mathematics":"http://www.uio.no/studier/emner/matnat/math/STK4520/index-eng.html"
+* "STK4021 Applied Bayesian Analysis and Numerical Methods":"http://www.uio.no/studier/emner/matnat/math/STK4021/index-eng.html"
+* "MAT-INF4130  Numerical Linear Algebra":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4130/index-eng.html"
+* "MAT-INF4110 Mathematical Optimization":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4110/index.html"
+* "ECON4240 Equilibrium, welfare and information":"http://www.uio.no/studier/emner/sv/oekonomi/ECON4240/index.html"
+* "MEK4470  Computational Fluid Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4470/index-eng.html"
+* "MEK4250 Finite Element Methods in Computational Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4250/index-eng.html"
+* "GEO4330 Advanced hydrological modelling":"http://www.uio.no/studier/emner/matnat/geofag/GEO4330/"
+* "AST5210 Stellar Atmospheres I":"http://www.uio.no/studier/emner/matnat/astro/AST5210/index-eng.html"
+* "AST9110 Numerical Modeling":"http://www.uio.no/studier/emner/matnat/astro/AST9110/index-eng.html"
+
+
+
+!eblock
+
+!split
+===== New courses  =====
+!bblock
+In order to build a common study program and identity as a Computational Science student, there will be two compulsory courses that aim at providing topics of common and broad interest.
+Both courses have a workload of 10 ECTS each. The courses are
+
+* _CS-MATH1_: *Data analysis and machine learning*, 10 ECTS (Existing "ST2100":"http://www.uio.no/studier/emner/matnat/math/STK2100/", "GEO4330":"http://www.uio.no/studier/emner/matnat/geofag/GEO4330/")
+
+  o Monte Carlo methods and statistical data analysis
+  o Optimization of data and handling of large data sets
+  o Machine learning and neural networks
+* _CS-INF1_: *High-Performance Computing and Numerical projects*, 10 ECTS (Existing INF3380)
+  o This course teaches you to develop and structure large numerical projects, from code writing to  finalizing a report
+  o Topics which are included are parallelization and vectorization
+  o Machine architecture and GPU-CPU programming
+  o Optimization of code and benchmarking
+  o Numerical methods from linear algebra will be discussed as well as examples from life science.
+!eblock
+
+
+
+!split
+===== Possible new courses =====
+Some of these courses could incorporate (or base themselves upon) existing ones. The courses here are organized according to their corresponding disciplines. They should, for search ease, contain the word _Computational_ 
+* Mathematics
+ o _CS-MATH1_: Data analysis and machine learning (Existing "GEO4330":"http://www.uio.no/studier/emner/matnat/geofag/GEO4330/", STK2100)
+ o _CS-MATH2_: Basic methods in computational modeling   (new? do we need it?)
+ o _CS-MATH3_: Mathematical Foundations of data science (based on MAT-INF4110 and STK4021)
+ o _CS-MATH4_: Computational Linear Algebra (based on MAT-INF4130)
+ o _CS-MATH5_: Computational differential equations (Based on INF5620)
+ o _CS-MATH6_: Computational finance (based on STK4520)
+ o _CS-MATH7_: Advanced data science (new)
+* Physical sciences (Astrophysics, geoscience, physics, chemistry and materials science)
+ o _CS-PHYS1_: Computational Physics (based on FYS3150/4150)
+ o _CS-PHYS2_: Computational Molecular dynamics in life science and materials science (new)
+ o _CS-PHYS3_: Computational Astrophysics (based on AST9110)
+ o _CS-PHYS4_: Computational quantum mechanics (based on fys4411 and FYS-MENA4110)
+ o _CS-PHYS5_: Computational statistical mechanics (based on fys4460)
+ o _CS-PHYS6_: Computational Materials Science (based on FYS-MENA4111)
+* Bioscience
+ o _CS-BIO1_: Computational Bioinformatics (Based on INF5380)
+ o _CS-BIO2_: Advanced Computational bioinformatics (new)
+ o _CS-PHYS2_: Computational Molecular dynamics in life science and materials science (new)
+* Computer science
+ o _CS-INF1_: High-Performance Computing and Numerical projects (parts of inf3380, else new)
+ o _CS-INF2_: Advanced optimization of numerical code (new)
+* Mechanics
+ o _CS-MECH1_: Computational Mechanics (based on MEK4470 and MEK4250?)
+ o _CS-MECH2_: Advanced Computational Mechanics (new?)
+
+
+
+
+
+!split
+===== Graduate Certificates  =====
+The program plans to offer graduate certificates in
+* Three of the courses with label CS-MATH  gives a certificate in Computational Mathematics
+* Three of the courses with label CS-PHYS gives a certificate in Computational Physics, Astrophysics, Chemistry, Materials Science  and Geoscience
+* Three of the courses with label CS-BIO gives a certificate in Computational life science. 
+* Three of the courses with label CS-INF gives a certificate in High-performance computing. 
+
+
+
+!split 
+=====  Description of Study directions =====
+
+The basic structure of the study directions could be
+
+* Description of study directions with potential projects
+* Admission criteria
+* Learning outcomes
+* Programme structure
+* Semester abroad
+* Career prospects
+* Teaching and examinations
+
+What follows are text proposals for these items.
+
+
+!split
+===== Admission criteria: Applied Mathematics and Risk Analysis  =====
+
+This study direction requires 90 ECTS in mathematics and informatics courses. 70 ECTS have to be from the following courses, equivalent or similar to the University of Oslo mathematics and programming courses MATMAT1110, MAT1120, MAT2100/MAT2400, STK1100, MAT-INF1100, INF1000/INF1110 and IN2900 (new code). In addition, 20 ECTS have to come from at least  two of the advanced courses MAT-INF3100, MAT-INF3360, STK2130, STK3405, INF3311, MAT-INF3xxx (Numerical analysis, new code) and/or MAT-INF3yyy (Dynamical systems, new code).An average mark C (European grading scale) is required for the above courses.
+
+
+!split
+===== Admission criteria: Astrophysics  =====
+The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. Of these 120 ECTS, 40 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
+    The remaining 80 ECTS have to be within at most two of the fields of astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 40 of these 80 ECTS have to be advanced undergraduate courses at the 2000 and 3000 level and a minimum of 20 ECTS must be at the 3000 level within physics/material science/astrophysics/informatics/mathematics/mechanics. 
+An average mark C (European grading scale) is required for the 40 ECTS in mathematics and programming (corresponding  to the University of Oslo courses  MAT1100, MAT1110, MAT1120  and the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx or similar courses) and the 40 ECTS at the 2000 and 3000 level. A minimum of 20 ECTS must be at the 3000 level within physics/material science/astrophysics/informatics/mathematics/mechanics. 
+
+
+!split
+===== Admission criteria: Bioinformatics  =====
+
+The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. Of these, 80 ECTS have to be within Informatics/Mathematics/Statistics (courses labeled as INF/IN, INF-MAT, MAT-INF, MAT and STK) where of 50 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and the corresponding computing and programming courses INF1000/INF1110 and INF1010/IN2900. A total of at least 40 ECTC out of the 120 ECTC have to be advanced undergraduate courses at the 2000 and 3000 level.
+An average mark C (European grading scale) is required for the above-specified 80 ECTS in Informatics/Mathematics/Statistics.
+
+!split
+===== Admission criteria: Bioscience  =====
+
+The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. Of these 120 ECTS, 40 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
+    The remaining 80 ECTS have to be within at most two of the fields of astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 40 of these 80 ECTS have to be advanced undergraduate courses at the 2000 and 3000 level and a minimum of 20 ECTS must be at the 3000 level within bioscience. An average mark C (European grading scale) is required for the 40 ECTS in mathematics and programming (corresponding  to the University of Oslo courses  MAT1100, MAT1110, MAT1120  and the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx or similar courses) and the 40 ECTS at the 2000 and 3000 level. A minimum of 20 ECTS must be at the 3000 level within bioscience.
+
+
+
+!split
+===== Admission criteria: Chemistry  =====
+
+The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. Of these 120 ECTS, 40 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120, MAT1050 and MAT1060 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
+The remaining 80 ECTS have to be within at most two of the fields of astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 40 of these 80 ECTS have to be advanced undergraduate courses at the 2000 and 3000 level. For this study direction these 40 ECTS have to include KJM2600  or  FYS2140 and at least two KJM3xxx or MENA3xxx courses or equivalent courses.   
+An average mark C (European grading scale) is required for the 40 ECTS in mathematics and programming (corresponding to the University of Oslo courses  MAT1100, MAT1110, MAT1120, MAT1050 and MAT1060   and the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx or similar courses) and the 40 ECTS at the 2000 and 3000 level. These 40 ECTS have to include KJM2600 or FYS2140 and at least two KJM3xxx or MENA3xxx courses or equivalent courses. 
+
+
+
+!split
+===== Admission criteria: Geoscience  =====
+
+The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. Of these 120 ECTS, 40 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120  and at lest one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/GEO1040/GEO-KJM1040. 
+The remaining 80 ECTS have to be within at most two of the fields of astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 40 of these 80 ECTS have to be advanced undergraduate courses at the 2000 and 3000 level in the fields of astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics.
+An average mark C (European grading scale) is required for the 40 ECTS in mathematics and programming (corresponding  to the University of Oslo courses  MAT1100, MAT1110, MAT1120  and the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100 or similar courses) and the 40 ECTS at the 2000 and 3000 level within the fields of astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics.
+
+
+
+!split
+===== Admission criteria: Imaging and Biomedical Computing  =====
+
+The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. Of these, 80 ECTS have to be within Informatics/Mathematics/Statistics (courses labeled as INF/IN, INF-MAT, MAT-INF, MAT and STK) where of 50 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and the corresponding computing and programming courses INF1000/INF1110 and INF1010/IN2900. A total of at least 40 ECTC out of the 120 ECTC have to be advanced undergraduate courses at the 2000 and 3000 level.
+An average mark C (European grading scale) is required for the above-specified 80 ECTS in Informatics/Mathematics/Statistics.
+
+
+
+!split
+===== Admission criteria: Materials Science  =====
+
+The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. Of these 120 ECTS, 40 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
+    The remaining 80 ECTS have to be within at most two of the fields of astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 40 of these 80 ECTS have to be advanced undergraduate courses at the 2000 and 3000 level and a minimum of 20 ECTS must be at the 3000 level within physics/material science/astrophysics/informatics/mathematics/bioscience/chemistry/mechanics/geoscience.
+An average mark C (European grading scale) is required for the 40 ECTS in mathematics and programming (corresponding  to the University of Oslo courses  MAT1100, MAT1110, MAT1120  and the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx or similar courses) and the 40 ECTS at the 2000 and 3000 level. A minimum of 20 ECTS must be at the 3000 level within physics/material science/astrophysics/mathematics/mechanics/informatics/bioscience/chemistry/geoscience.
+
+
+
+
+!split 
+===== Admission Criteria: Mechanics =====
+
+The program requires 80 ECTS within the  basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120, MEK1100, MEK2200, INF1000/INF1100, MAT-INF3360 and one of the following courses INF3331, MAT-INF3100, MAT-INF3xxx (Numerical analysis, new code) and/or MAT-INF3yyy (Dynamical systems, new code). An average mark C (European grading scale) is required for these courses.
+
+
+!split 
+===== Admission Criteria: Physics =====
+The program has a minimum course requirement of 120 ECTS (European Credit Transfer System) at the undergraduate level (bachelor degree or equivalent) in Astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. Of these 120 ECTS, 40 ECTS have to include basic mathematics and programming courses, equivalent to the University of Oslo mathematics courses MAT1100, MAT1110, MAT1120 and at least one of the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx. 
+    The remaining 80 ECTS have to be within at most two of the fields of astrophysics, bioscience, chemistry, computer science and informatics, geoscience, mathematics, materials science, mechanics and physics. 40 of these 80 ECTS have to be advanced undergraduate courses at the 2000 and 3000 level and a minimum of 20 ECTS must be at the 3000 level within physics/material science/mechanics/astrophysics/informatics/mathematics/bioscience/chemistry/geoscience.
+An average mark C (European grading scale) is required for the 40 ECTS in mathematics and programming (corresponding  to the University of Oslo courses  MAT1100, MAT1110, MAT1120  and the corresponding computing and programming courses INF1000/INF1110 or MAT-INF1100/MAT-INF1100L/BIOS1100/KJM-INF1xxx or similar courses) and the 40 ECTS at the 2000 and 3000 level. A minimum of 20 ECTS must be at the 3000 level within physics/material science/astrophysics/mechanics/mathematics/informatics/bioscience/chemistry/geoscience.
+
 
 !split
 ===== Description of learning outcomes =====
@@ -389,198 +610,6 @@ By completing a Master of Science thesis, the candidate will have developed a cr
 
 
 !split
-===== Admission critera =====
-!bblock
-The following higher education entrance qualifications are needed
-
-* A completed bachelor's degree (undergraduate) comparable to a Norwegian bachelor's degree in one of the following disciplines
-  o Biology, molecular biology, biochemistry  or any life science degree
-  o Physics, astrophysics, astronomy, geophysics and meteorology
-  o Mathematics, mechanics, statistics and computational mathematics
-  o Computer science and electronics
-  o Chemistry
-  o Materials Science and nanotechnology
-  o Any undergraduate degree in engineering
-  o Mathematical finance and economy
-  o Economy
-* For international students, an internationally recognised English language proficiency test is required.
-
-The above undergraduate degrees have some minimal requirements on
-specializations which need to be fulfilled.  In addition to the above
-required undergraduate degrees, students need to have 40 ECTS in basic
-undergraduate mathematics and programming courses (calculus, linear
-algebra and/or mathematical modeling and programming). A course in
-programming is compulsory and should correspond at least to 10 ECTS
-of work load.  The average mark for the mathematics and programming
-courses, as well as 40 ECTS in senior undergraduate courses (2000 and
-3000 level in Norway) for the specific specialization has at least to
-be C (letter marks).  As an example, an undergraduate degree in
-Chemistry has a minimal requirement on chemistry courses, typically
-amounting to at least 60 ECTS out of 180 ECTS for a bachelor's
-degree. The average mark on the 40 ECTS of selected senior
-undergraduate credits in chemistry and the 40 ECTS in mathematics and
-programming should at least be C. The various study directions may have additional requirements on content concerning the 40 ECTS at the 2000 and 3000 level. _A letter of motivation and two
-letters of recommendation are required when applying_.
-
-!eblock
-
-
-!split
-===== Thesis directions =====
-!bblock
-The program aims at offering thesis projects in a variety of fields. The scientists involved in this program can offer thesis
-topics that cover several disciplines. These are
-
-* Computational Science: Astrophysics
-* Computational Science: Biology and Bioinformatics
-* Computational Science: Chemistry
-* Computational Science: Finance and Risk Analysis
-* Computational Science: Geoscience
-* Computational Science: Imaging and Biomedical Computing
-* Computational Science: Materials science
-* Computational Science: Mathematics
-* Computational Science: Mechanics
-* Computational Science: Physics
-
-The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
-!eblock
-
-
-
-
-
-!split
-===== Structure and courses =====
-!bblock
-The table here is an example of a suggested path for a Master of Science project,
-with course work the first year and thesis work the last year.
-
-|--------l------------------l----------------------l---------------l-------------|
-|                   |  10 ECTS           |  10 ECTS     |       10 ECTS          |
-|--------l------------------l----------------------l----------------l------------|
-| 4th semester      | Master thesis      |   Master Thesis  | Master Thesis      |
-|--------------------------------------------------------------------------------|
-| 3rd semester      | Master thesis      |   Master Thesis  | Master Thesis      |
-|--------------------------------------------------------------------------------|
-| 2nd semester      | Master courses      |   Master courses  | Master courses   |
-|--------------------------------------------------------------------------------|
-| 1st semester      | Master courses      |   Master courses  | Master courses   |
-|--------------------------------------------------------------------------------|
-
-The program is very flexible in its structure and students may opt for starting with their thesis
-work from the first semester and scatter the respective course load across all four semesters.
-Depending on interests and specializations, there are many courses on computational science which can make
-up the required curriculum of course work. Furthermore, courses may be broken up in smaller modules,
-avoding thereby the limitation of 10 ECTS per course only. Some of these courses are listed below.
-!eblock
-
-!split
-===== Required courses  =====
-!bblock
-In order to build a common study program and identity as a Computational Science student, there will be two compulsory courses that aim at providing topics of common and broad interest.
-Both courses have a workload of 10 ECTS each. The courses are
-
-* _CS-MATH1_: *Data analysis and machine learning*, 10 ECTS
-  o Monte Carlo methods and statistical data analysis
-  o Optimization of data and handling of large data sets
-  o Machine learning and neural networks
-* _CS-INF1_: *High-Performance Computing and Numerical projects*, 10 ECTS
-  o This course teaches you to develop and structure large numerical projects, from code writing to  finalizing a report
-  o Topics which are included are parallelization and vectorization (based on INF3380)
-  o Machine architecture and GPU-CPU programming
-  o Optimization of code and benchmarking
-  o Numerical methods from linear algebra will be discussed as well as examples from life science.
-!eblock
-
-
-!split
-===== Presently available courses at UiO and NMBU =====
-!bblock
-The program aims at reorganizing many of the existing courses. 
-Here follows a list of suggested courses that students may include in their required course load.
-
-* "FYS4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS4150/index-eng.html"
-* "FYS4411 Computational Physics II":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/"
-* "FYS4460 Computational Physics III":"http://www.uio.no/studier/emner/matnat/fys/FYS4460/"
-* "INF5620 Numerical Methods for Partial Differential Equations":"http://www.uio.no/studier/emner/matnat/ifi/INF5620/index-eng.html"
-* "INF5631 Project on Numerical Methods for Partial Differential Equations": "http://www.uio.no/studier/emner/matnat/ifi/INF5631/index-eng.html"
-* "FYS388 Computational Neuroscience":"http://www.nmbu.no/course/FYS388"
-* "STK4520 Laboratory for Finance and Insurance Mathematics":"http://www.uio.no/studier/emner/matnat/math/STK4520/index-eng.html"
-* "STK4021 Applied Bayesian Analysis and Numerical Methods":"http://www.uio.no/studier/emner/matnat/math/STK4021/index-eng.html"
-* "MAT-INF4130  Numerical Linear Algebra":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4130/index-eng.html"
-* "MAT-INF4110 Mathematical Optimization":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4110/index.html"
-* "ECON4240 Equilibrium, welfare and information":"http://www.uio.no/studier/emner/sv/oekonomi/ECON4240/index.html"
-* "MEK4470  Computational Fluid Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4470/index-eng.html"
-* "MEK4250 Finite Element Methods in Computational Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4250/index-eng.html"
-* "AST5210 Stellar Atmospheres I":"http://www.uio.no/studier/emner/matnat/astro/AST5210/index-eng.html"
-* "AST9110 Numerical Modeling":"http://www.uio.no/studier/emner/matnat/astro/AST9110/index-eng.html"
-
-
-The program plans to develop other courses in computational science and its applications, ranging from life science to materials science.
-Courses on project planning and project administration are also possible to include.
-!eblock
-
-
-!split
-===== Possible new courses =====
-Some of these courses could incorporate (or base themselves upon) existing ones. The courses here are organized according to their corresponding disciplines.
-* Mathematics
- o _CS-MATH1_: Data analysis and machine learning (new)
- o _CS-MATH2_: Basic methods in computational modeling   (new? do we need it?)
- o _CS-MATH3_: Mathematical Foundations of data science (based on MAT-INF4110 and STK4021)
- o _CS-MATH4_: Computational Linear Algebra (based on MAT-INF4130)
- o _CS-MATH5_: Computational differential equations (Based on INF5620)
- o _CS-MATH6_: Computational finance (based on STK4520)
- o _CS-MATH7_: Advanced data science (new)
-* Physical sciences (Astrophysics, geoscience, physics, chemistry and materials science)
- o _CS-PHYS1_: Computational Physics (based on FYS3150/4150)
- o _CS-PHYS2_: Molecular dynamics in life science and materials science (new)
- o _CS-PHYS3_: Computational Astrophysics (based on AST9110)
- o _CS-PHYS4_: Computational quantum mechanics (based on fys4411 and FYS-MENA4110)
- o _CS-PHYS5_: Computational statistical mechanics (based on fys4460)
- o _CS-PHYS6_: Computational Materials Science (based on FYS-MENA4111)
-* Bioscience
- o _CS-BIO1_: Computational Bioinformatics (Based on INF5380)
- o _CS-BIO2_: Advanced bioinformatics (new)
- o _CS-PHYS2_: Molecular dynamics in life science and materials science (new)
-* Computer science
- o _CS-INF1_: High-Performance Computing and Numerical projects (parts of inf3380, else new)
- o _CS-INF2_: Advanced optimization of numerical code (new)
-* Mechanics
- o _CS-MECH1_: Computational Mechanics (based on MEK4470 and MEK4250?)
- o _CS-MECH2_: Advanced Computational Mechanics (new?)
-
-
-
-
-
-!split
-===== Graduate Certificates  =====
-The program plans to offer graduate certificates in
-* Three of the courses with label CS-MATH  gives a certificate in Computational Mathematics
-* Three of the courses with label CS-PHYS gives a certificate in Computational Physics, Astrophysics, Chemistry, Materials Science  and Geoscience
-* Three of the courses with label CS-BIO gives a certificate in Computational life science. 
-* Three of the courses with label CS-INF gives a certificate in High-performance computing. 
-
-
-
-
-
-
-
-!split
-===== The program opens up for flexible backgrounds  =====
-
-!bblock
-While discipline-based master's programs tend to introduce very strict
-requirements to courses, we believe in adapting a computational thesis
-topic to the student's background, thereby opening up for
-students with a wide range of bachelor's degrees.
-A very heterogeneous student community is thought to be a strength and
-unique feature of this program.
-!eblock
-
-!split
 ===== Study abroad and international collaborators =====
 
 !bblock
@@ -620,13 +649,6 @@ gain important experience from international collaborations in
 science, with the opportunity to spend parts of the time spent on
 thesis work at research institutions abroad.
 !eblock
-
-
-
-!split
-===== Dual master degrees =====
-More material to come. "Several places offer this path.":"https://cmse.msu.edu/academics/graduate-program/dual-phd-in-computational-mathematics-science-and-engineering/".
-
 
 
 

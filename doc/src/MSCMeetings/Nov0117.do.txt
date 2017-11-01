@@ -1,0 +1,67 @@
+TITLE: Master program in Computational Science
+AUTHOR: University of Oslo
+DATE: November 1, 2017
+
+
+
+!split
+===== Agenda November 1, 2017, 2-4pm =====
+!bblock
+
+ o _Welcome, coffee and light refreshments_
+ o Composition of board
+ o Website and Preliminary discussion of compulsory courses
+ o AOB
+!eblock
+
+!split
+===== Composition of Board =====
+!bblock
+ o Alternative 1: Every study option is represented in the board, this means 10 members, plus 1-2 administrative members and 2-3 students, roughly 15 members
+ o Alternative 2: Each department has only one member (not all study directions will be represented then). This limits the board to seven members,   1-2   administrative members and 2 student members, in total approximately 10 members
+
+I would also like to propose that we keep the working group as an additional forum for the program board. We can let the working group members have the right to meet and come with proposals but perhaps limit voting rights to board members only. 
+!eblock
+
+
+!split
+===== External board members =====
+!bblock
+Present proposal (please feel free to come with additional names):
+
+ o "Ola Skavhaug":"http://expertanalytics.no/about-us/" 
+ o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen"
+
+
+!eblock
+
+
+!split
+===== Preliminary status of compulsory courses =====
+!bblock
+
+ o "MAT-IN3110":"http://www.uio.no/studier/emner/matnat/math/MAT-IN3110/index-eng.html", Knut gives a short resume
+ o "Data analysis and Machine learning FYS-MAT3155/4155":"https://github.com/CompPhysics/MachineLearning", Morten gives a short summary. Teaching team as of now, MHJ, Geir Storvik and John Burkhardt
+ o IN3XXX/4XXX  High-performance computing, Xing gives an update
+
+!eblock
+
+
+!split
+===== Website =====
+!bblock
+
+ o "Present webiste in English":"http://www.uio.no/english/studies/programmes/computational-science-master/"
+ o Corrections of Norwegian texts and workflow
+
+!eblock
+
+
+!split
+===== Any other business  =====
+!bblock
+o Posters+other material
+o Inputs for the future
+!eblock
+
+

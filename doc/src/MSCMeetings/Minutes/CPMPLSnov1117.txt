@@ -1,0 +1,77 @@
+===== Minutes from CS working group meeting, November 1 2017 =====
+
+=== Present : ===
+Andreas Austeng, Karsten Trulsen, Martin Reimers, Xing Cai, Joe Lacasce, Thomas Schuler, Morten HJ, Espen Murtnes, , Grete Stavik-Døvle, Knut Mørken, Tom Andersen, Kent-Andre Mardal, Torbjørn Rognes
+
+=== Excused ===
+Mats Carlsson, Michele Cascella, Lex Nederbragt, Joakim Sundnes, Simon Funke, Anders Malthe-Sørenssen, John Burkhart, Marianne Fyhn
+
+=== Agenda November 1, 2017, 2-4pm ===
+
+ o _Welcome, coffee and light refreshments_
+ o Composition of board
+ o Website and Preliminary discussion of compulsory courses
+ o AOB
+
+
+===== Composition of Board and action plan  =====
+
+Two alternatives were proposed
+
+ o Alternative 1: Every study option is represented in the board, this means 10 members, plus 1-2 administrative members and 2-3 students, roughly 15 members
+
+ o Alternative 2: Each department has only one member (not all study directions will be represented then). This limits the board to seven members,   1-2   administrative members and 2 student members, in total approximately 10 members
+
+Andreas Austeng proposed also that we keep the working group as an additional forum for the program board. We can let the working group members have the right to meet and come with proposals but perhaps limit voting rights to board members only. 
+
+
+The working group opted for alternative two and that the we keep the working group as a consulting unit with rights to attend the board meetings and submit proposals. 
+
+=== Actions to be taken ===
+
+Every department that is involved with the program selects a board member by November 30.
+The departments are (with members of the working groups):
+
+Astrophysics: Mats Carlsson
+Bioscience: Tom Andersen, Marianne Fyhn and Lex Nederbragt
+Chemistry: Michele Cascella
+Geoscience: John Burkhart, Joe Lacasce and Thomas V. Schuler
+Informatics: Andreas Austeng, Xing Cai, Joakim Sundness, Torbjørn Rognes and Simon Funke
+Mathematics: Karsten Trulsen, Kent-Andre Mardal, Martin Reimers and Knut Mørken
+Physics: Morten HJ and Anders Malthe-Sørenssen
+
+We agreed that each department elects its representative to the board. Please consider, if possible, an adequate gender balance. 
+
+Else, three possible external board members where suggested
+
+ o "Ola Skavhaug":"http://expertanalytics.no/about-us/" 
+ o "Gustav Jansen":"https://www.ornl.gov/staff-profile/gustav-r-jansen"
+ o "Alfred Hanssen":"http://www.arcex.no/"
+
+We agreed to invite Ola Skavhaug and Alfred Hanssen. Alfred has already accepted. 
+
+
+===== Preliminary status of compulsory courses =====
+
+Xing Cai, Morten and Knut gave a brief orientation about the three compulsory (of which two have to be selected) courses
+
+ o "MAT-IN3110":"http://www.uio.no/studier/emner/matnat/math/MAT-IN3110/index-eng.html", Knut gave a short resume
+ o "Data analysis and Machine learning FYS-MAT3155/4155":"https://github.com/CompPhysics/MachineLearning", Morten gave a short status summary. Teaching team as of now, MHJ, Geir Storvik and John Burkhardt
+ o IN3XXX/4XXX  High-performance computing, Xing gave an update
+
+We agreed that our first board meeting will, in addition to establish the board, discuss in depth the various courses we offer. A separate doodle poll for this has been sent to you. The most likely dates are either week 49 and 50 or the first week of January. 
+
+
+
+===== Website and actions =====
+
+
+ o "Present webiste in English":"http://www.uio.no/english/studies/programmes/computational-science-master/"
+ o Corrections of Norwegian texts and workflow
+
+Please come with your comments and feedback to the English website not later than December 1 2017.
+The Norwegian texts have been send to the people involved with the various study options. Again, deadline December 1 for corrections.
+
+
+
+

@@ -1,0 +1,213 @@
+Working group meeting of Master program in Computational Science
+Minutes from Meeting December 4, 2017
+
+Present: Andreas Austeng, Karsten Trulsen, Martin Reimers, Xing Cai, John Burkhart, Thomas Vikhamar Schuler, Morten HJ, Espen Murtnes, Tom Andersen,
+Mats Carlsson, Michele Cascella, Lex Nederbragt, Simon Funke, Øyvind Sigmundson Schøyen
+
+
+===== Agenda December 4, 2017, 12-2pm =====
+
+ o _Welcome and minutes from last meeting.  Coffee and light refreshments_
+ o Approval of board members and external board members. 
+    * We may need  to select stand-ins (vara-medlem in Norwegian) and one more student representative. 
+    * Board related practicalities and other guidelines
+ o Discussion of courses
+ o AOB, larger initiative on Computational Science
+
+
+
+===== Present board members =====
+The members of the working group agreed upon the following composition of the board
+
+o Astrophysics: Mats Carlsson with Viggo Hansteen as deputy member
+o Bioscience: Tom Andersen with Lex Nederbragt as deputy member
+o Chemistry: Michele Cascella with Thomas Bondo Pedersen as deputy member
+o Geoscience: John Burkhart with Thomas Vikhamar Schuler as deputy member
+o IFI: Andreas Austeng with Simon Funke as deputy member
+o Math: Karsten Trulsen with Martin Reimers as deputy member
+o Physics and head of program: Morten Hjorth-Jensen with Anders Malthe-Sørenssen as deputy member
+o Admin representative: Espen Murtnes, Physics
+o Student representative: Oyvind Sigmundson Schoyen
+o External representatives approved: Alfred Hansen (UiT)  and Ola Skavhaug (Expertanalytics)
+
+There was a unanimous agreement that the members of the working group for this program should be invited to future board meetings.
+We wish to preserve the fruitful and consensus driven approach which led to the establishment of this program.
+The next meeting will be our first official board meeting. Our external representatives will be invited (they can attend remotely if hindered from attending IRL).
+The meeting will most likely take place during the first half of the spring semester. 
+
+===== Practicalities to finalize before December 15 ===== 
+
+We need to (by the end of this week)
+o Elect a deputy leader (please feel free to suggest names). Don't be shy.
+o Find one more student representative and their deputy members. Please propose candidates, and preferentially not from Physics since Øyvind is a Master of Science
+student in Computational Physics. The new student representatives should be first years students in order to allow for continuity. 
+
+John Burkhart raised the point that our gender balance does not read well. Please keep that in mind when proposing student representatives.
+
+o The Norwegian texts are almost done. The mn-fak admin will review our texts this week. As soon as they are done, we should carefully review them again. 
+o The English texts are at http://www.uio.no/english/studies/programmes/computational-science-master/index.html
+Feel free to review again the content of this website. In particular, the various members of the working group were asked to review the recommended courses
+under each study option. 
+
+===== Topics for the first board meeting =====
+
+It was agreed that a central topic for the first board meeting will be to discuss common rules for
+o internal and external examiners
+o extensions and deadlines for finalization of MSc theses
+o Other issues related to intake etc 
+
+The board members and the members of the working group are invited to propose texts etc for the discussions. Morten HJ will, well in advance, prepare a draft for discussion
+for the first board meeting, based on your suggestions and proposals. 
+
+
+
+===== Discussion of courses ===== 
+
+An important aspect of this program is to be  able to build a true inter-disciplinary program. The easiest topics to
+start with are our present courses and whether they can live up to  our scientific and educational  needs. The rest of the meeting was spent on a discussion of our courses.
+
+All three compulsory courses have now UiO codes and two of them will appear online for the first time during the first half of the spring semester 2018.
+
+The compulsory courses are (with teaching semesters) 
+  o FYS-MAT3155/4155 Data analysis ad Machine learning with numerical projects,  Fall semester
+  o MAT-IN3110 Introduction to numerical analysis, Fall semester
+  o IN3210/4210 High-performance computing with numerical projects, Spring semester.
+
+The meeting agreed that IN4210 is taught during the spring semester. This opens up for other courses and possibly start with research projects the first semester. 
+
+The students have to choose two of the above courses. It was proposed that we add for the possibility to waive these courses in case the students have similar competences or have already taken
+the 3000 variant. This is not stated in the present websites and will be added asap.   
+
+Also, we need to change the UiO code of MAT-IN3110 since it is meant to be offered as a 4000 course as well. It was also agreed that we should carefulyl monitor the content and the student feedback
+this semester (it was taught for the first time this semester).
+
+
+What follows therafter is a list of various courses we have suggested under the vary study options. Some of these courses are of more general interest and could be highlighted as additional courses
+under the various study options.  Morten HJ has added some of these to the various study options. You are hereby invited to carefully review these suggestions under the program structure
+link of each study option. 
+
+
+
+===== Discussion of courses: Courses of broad interest for several study directions ===== 
+
+
+* Computational methods
+  o INF3331/4331 Problem solving with high-level languages (Python), fall semester
+  o INF3380 Parallel computing for problems in the Natural Sciences (mostly PDEs), spring semester, phased out from 2019 and replaced
+    by IN3210/4210. The latter is offered for the first time spring 2019. 
+
+* Linear Algebra, Spline, Optimization and Partial Differential equations
+  o  MAT4170 Spline methods
+  o  MAT-INF4110 Mathematical Optimization
+  o  INF-MAT4130 Numerical linear algebra
+  o  MAT-INF4300 PDEs and Sobolev spaces I     This course and the next one require  a course on Real analysis and may thus not be relevant for all CS students. 
+  o  MAT-INF4310 PDEs and Sobolev spaces II    
+  o  MAT-INF3360 Introduction to Partial Differential Equations
+  o  INF5620 Numerical methods for PDEs, finite element method
+
+
+
+
+===== Discussion of courses: Machine learning  ===== 
+
+  o FYS-MAT3155/4155 Data analysis ad Machine learning with numerical projects, Fall semester, start fall 2018
+  o  STK4030  Statistical Learning: Advanced Regression and Classification. Now replaced by STK2100 (not possible due to 2000 code)
+  o  INF3490/4490 Biologically inspired computing
+  o  INF5860 Machine Learning for Image Analysis
+
+
+
+===== Bioinformatics and Bioscience  ===== 
+
+
+ o  INF3490/4490 Biologically inspired computing, fall
+ o  INF4350 Introductory Course in Bioinformatics, spring
+ o  INF-BIO5121 High Throughput Sequencing technologies and bioinformatics analysis
+ o  INF5380 High-performance computing in bioinformatics
+ o  INF5560 Computational Physiology, fall
+ o  MBV-INF4410 Bioinformatics for Molecular Biology, fall
+!eblock
+
+
+
+
+===== Astrophysics, Chemistry and Physics  ===== 
+
+
+  o  AST5210 Stellar Atmospheres I, spring semester
+  o  FYS4150 Computational physics I, fall semester
+  o FYS4411 Computational physics II (Parallelization (MPI), object orientation, quantum mechanical systems with many interacting particles), spring semester
+  o FYS4460 Computational physics III (Parallelization (MPI), object orientation, classical statistical physics, simulation of phase transitions, spring semester
+  o KJM4XXX  Computational Molecular dynamics in life science and materials science
+  o KJM4XXX Advanced course in Electronic structure
+  o FYS-KJM4480 Quantum mechanics for many-particle systems
+  o FYS4170 Quantum field theory
+  o FYS4130 Statistical Mechanics
+
+===== Geoscience  ===== 
+
+o GEO4310 - Stochastic methods in hydrology
+  o GEO4450 - Geophysical Fluid Dynamics
+  o GEO5440 Cryosphere modeling
+  o GEF4530 - The General Circulation of the Atmosphere
+  o GEF4600 - Methods in physical oceanography
+  o GEO4131 - Geomechanics 
+  o GEO4620 - Seismic waves and seismology 
+  o GEO4630 - Geodynamics
+  o GEO4520 - Advanced remote sensing and topographic analysis 
+  o GEO4320 - Hydrological modelling 
+
+
+===== Imaging and Biomedical computing  ===== 
+
+  o INF4300 - Digital image analysis
+  o INF4470 - Digital signal processing
+  o INF4480 - Digital signal processing II
+  o IN4010 - Acoustic Imaging
+  o IN5450 - Array signal processing
+
+===== Mechanics  ===== 
+
+
+  o MEK4300 - Viscous Flow and Turbulence 
+  o MEK4350 - Stochastic and Nonlinear Ocean Waves
+  o MEK4100 - Mathematical Methods in Mechanics
+  o MEK4450 - Offshore Technology
+  o MEK4570 - Computational Solid Mechanics
+  o INF4331 - Problem solving with high level languages
+  o MEK4250 - Finite Element Methods in Computational Mechanics
+  o MEK4320 - Hydrodynamic Wave Theory
+  o MEK4420 - Marine Hydrodynamics
+  o MEK4470 - Computational Fluid Mechanics
+  o MEK4600 - Experimental Methods in Fluid Mechanics
+  o UNIK4660 - Visualization of scientific data
+  o UNIK4900 - Advanced Turbulence Modeling and Simulations
+
+
+
+===== AOB: Discussion of larger initiative on Computational Science at UiO  ===== 
+
+Morten HJ gave a brief input to a more general discusion on possible new paths, amongst these the establishment of a
+center for Computational Science (or Computing across disciplines) meant to foster and strengthen computational science research at the UiO.
+There are more and more departments in Northern America and selected European countries (Germany, Sweden, Finland and Denmark) that have
+Master of Science programs in Computational Science. You may find the following link from SIAM very useful, see https://www.siam.org/students/resources/cse_programs.php
+
+In Norway, UiO is the only university which offers such a program, putting us in a pretty unique position.  In the brief discussion that followed,
+the members of the working group expressed a strong interest in exploring such an avenue (viz. the establishment of such a center). More material will be presented later.
+
+
+
+If there are topics missing from the meeting, please let me know asap.
+
+Thanks for coming and best wishes to you all.
+
+Morten HJ
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,115 @@
+TITLE: What should a mentoring plan contain and why should we have one?
+AUTHOR: CS Board meeting March 7, 2018
+DATE: today
+
+
+!split
+===== Why a mentoring plan? =====
+How can we in the best possible way implement our learning outcomes and how do we
+create an excellent educational environment? 
+
+And how do we create a computational science community when our students will be scattered all
+over the Blindern campus? 
+
+
+
+
+!split
+===== Overarching description of the CS program I =====
+!bblock
+Students of this program learn to use the computer as a laboratory for
+solving problems in science and engineering. The program offers
+exciting thesis projects from many disciplines: biology and life
+science, chemistry, mathematics, informatics, physics, geophysics,
+mechanics, geology, computational finance, computational informatics, big data analysis, digital signal processing
+and image analysis – the candidates select research field according to
+their interests.
+!eblock
+
+!split
+===== Overarching description of the CS program II =====
+!bblock
+A Master’s degree from this program gives the candidate a methodical
+training in planning, conducting, and reporting large research
+projects, often together with other students and university teachers.
+THe projects emphasize finding practical solutions, developing an
+intuitive understanding of the science and the scientific methods
+needed to solve complicated problems, use of many tools, and not least
+developing own creativity and independent thinking. The thesis
+work is a scientific project where the candidates learn to tackle a
+scientific problem in a professional manner.   The program aims also at
+developing a deep understanding of the role of computing in solving modern scientific
+problems. A candidate from this program gains  deep insights in the fundamnetal role
+computations play  in our advancement of science and technology, as well as the role computations play  in society.
+!eblock
+
+
+!split
+===== Learning outcomes =====
+Computing competence represents a central element in scientific problem solving, from basic education and research to essentially almost all advanced problems in modern societies. Computing competence is simply central to further progress. It enlarges the body of tools available to students and scientists beyond classical tools and allows for a more generic handling of problems. Focusing on algorithmic aspects results in deeper insights about scientific problems.
+
+After completing a master's degree in computational science you will have achieved:
+
+=== Knowledge ===
+You have gained a deep knowledge of the scientific method and computational science at an advanced level, meaning that you:
+* have theoretical and practical knowledge of a wide range of computational methods and mathematical algorithms, including principles for developing and generalizing such methods and algorithms
+* understand how to apply computational methods to extract information from experimental data and solve scientific problems
+* understand the limitations of numerical methods, including approximation errors, round-off errors and the constraints on the applicability of specific algorithms
+* You understand the possibilities and limits of computational modeling, meaning that you: can transform scientific problems into generic computational models and understand how various error sources influence the accuracy and reliability of the models and the computed results
+* have an overview of advanced algorithms for solving a wide range of problems and how they can be accessed in available software
+
+=== Skills  ===
+You have developed a practical mastery of computing, including the interplay between scientific problems and data, mathematical models, generic algorithms and reusable software, meaning that you:
+* are able to analyze and visualize computed results and evaluate their relevance with respect to the underlying problems and/or hypotheses
+* have a working understanding of high-performance computing elements including memory usage, vectorization and parallel algorithms, and related software tools like debuggers, test frameworks, scripts, and version control systems
+* can program in high-level and compiled languages and make efficient use of a computer algebra system
+* understand how to increase the efficiency of numerical algorithms and pertinent software
+and you are familiar with techniques for collaborative software development
+
+=== General competence ===
+You have developed a fundamental understanding and knowledge of scientific work and the scientific method, including ethical and societal limitations and possibilities. This means among other things that you:
+* can develop hypotheses and suggest ways to test these using relevant analytical, experimental and numerical tools
+* can reflect on and develop strategies and tools to make science reproducible and have a sound ethical approach to scientific problems
+* you can communicate in a professional way scientific problems, results and uncertainties, orally and in written form
+* you have developed a sound, scientific intuition and can reflect over and develop efficient and personal learning strategies
+* you can work independently but also in close collaboration with others to complete a research project on time
+
+By completing a Master's degree in Computational Science, you will have developed a critical understanding of the scientific methods which have been studied, have a better understanding of the scientific process per se as well as having developed perspectives for future work and how to verify and validate scientific results.
+
+
+!split
+===== Mentoring plan =====
+How can we achieve these learning outcomes in the best possible way? And how do we create a computational science disciplinary environment? 
+What follows here is a list of topics to discuss. The aim is to try to sort out activities which can aid in creating an excellent educational environment in spite of the fact that our students are scattered across various disciplines.
+
+* Should every student have two supervisors, possibly one from the domain specific department and one from another department? 
+  o We need to set up a list of potential supervisors
+
+* Possible training activity (modular approach, additional courses/modules that can be offered as intensive few days to 1-2 week long courses/modules)
+  o Compulsory courses and development of additional intensive modules
+  o Multidisciplinary seminars with hands-on sessions
+  o Transferable Skills Courses
+
+* Localities for common activities
+
+* Semester start and scientific and social programs
+  o Kick-off training modules, are there specific topics we can offer as intensive sessions? 
+  o What kind of social activities? 
+
+* Research environment and available infrastructure
+  o How do we ensure access to available infrastucture and research environments? Do we offer the same infrastucture across disciplines?
+
+* Equal opportunity
+  o Education and research in our fields are still affected by a significant gender imbalance. Factors that contribute to underrepresentation of women are cultural conditions, institutional setting and personal situation. Which measures do we take in order to ensure a proper gender balance?
+
+* Scientific training, outcomes and impact
+  o How do we evaluate that we have achieved the various learning outcomes and how do these impact the educational program?
+
+* Internal examiners
+  o We need to develop a pool of internal examinars across the disciplines that can aid in the final thesis evaluation. What kind of criteria should be used?
+
+* More topics?
+
+
+
+

@@ -37,8 +37,8 @@ The meeting will most likely take place during the first half of the spring seme
 
 ===== Practicalities to finalize before December 15 ===== 
 
-We need to (by the end of this week)
-o Elect a deputy leader (please feel free to suggest names). Don't be shy.
+We need to 
+o Elect a deputy leader (please feel free to suggest names). 
 o Find one more student representative and their deputy members. Please propose candidates, and preferentially not from Physics since Øyvind is a Master of Science
 student in Computational Physics. The new student representatives should be first years students in order to allow for continuity. 
 
@@ -51,13 +51,13 @@ under each study option.
 
 ===== Topics for the first board meeting =====
 
-It was agreed that a central topic for the first board meeting will be to discuss common rules for
+It was agreed that a central topic for the first board meeting will be to discuss common guidelines for
 o internal and external examiners
 o extensions and deadlines for finalization of MSc theses
-o Other issues related to intake etc 
+o Other issues related to intake etc etc
 
-The board members and the members of the working group are invited to propose texts etc for the discussions. Morten HJ will, well in advance, prepare a draft for discussion
-for the first board meeting, based on your suggestions and proposals. 
+The board members and the members of the working group are invited to propose texts etc for the discussions. Morten HJ will, well in advance, prepare a draft for our discussions
+at the first board meeting, based on your suggestions and proposals. 
 
 
 
@@ -211,3 +211,4 @@ Morten HJ
 
 
 
+B

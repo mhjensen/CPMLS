@@ -11,52 +11,81 @@ function system {
 }
 
 if [ $# -eq 0 ]; then
-name=Masterprogram
-else
-name=$1
+echo 'bash make.sh slides1|slides2'
+exit 1
 fi
+
+name=$1
 rm -f *.tar.gz
 
 opt="--encoding=utf-8"
-opt=
+# Note: Makefile examples contain constructions like ${PROG} which
+# looks like Mako constructions, but they are not. Use --no_mako
+# to turn off Mako processing.
+opt="--no_mako"
 
 rm -f *.aux
-
-
 
 
 html=${name}-reveal
 system doconce format html $name --pygments_html_style=perldoc --keep_pygments_html_bg --html_links_in_new_window --html_output=$html $opt
 system doconce slides_html $html reveal --html_slide_theme=beige
 
-# Plain HTML documentsls
+# Plain HTML documents
 
 html=${name}-solarized
-system doconce format html $name --html_style=solarized3
+system doconce format html $name --pygments_html_style=perldoc --html_style=solarized3 --html_links_in_new_window --html_output=$html $opt
+system doconce split_html $html.html --method=space10
 
-html=${name}-plain
+html=${name}
 system doconce format html $name --pygments_html_style=default --html_style=bloodish --html_links_in_new_window --html_output=$html $opt
-system doconce split_html $html.html
-# Remove top navigation in all parts
-doconce subst -s '<!-- begin top navigation.+?end top navigation -->' '' ${name}-plain.html ._${name}*.html
+system doconce split_html $html.html --method=space10
 
-# One big HTML file with space between the slides
-html=${name}-1
-system doconce format html $name --html_style=bloodish --html_links_in_new_window --html_output=$html $opt
-# Add space between splits
-system doconce split_html $html.html --method=space8
+# Bootstrap style
+html=${name}-bs
+system doconce format html $name --html_style=bootstrap --pygments_html_style=default --html_admon=bootstrap_panel --html_output=$html $opt
+system doconce split_html $html.html --method=split --pagination --nav_button=bottom
 
+# IPython notebook
+#system doconce format ipynb $name $opt
+
+# LaTeX Beamer slides
+beamertheme=red_plain
+system doconce format pdflatex $name --latex_title_layout=beamer --latex_table_format=footnotesize $opt
+system doconce ptex2tex $name envir=minted
+# Add special packages
+doconce subst "% Add user's preamble" "\g<1>\n\\usepackage{simplewick}" $name.tex
+system doconce slides_beamer $name --beamer_slide_theme=$beamertheme
+system pdflatex -shell-escape ${name}
+system pdflatex -shell-escape ${name}
+cp $name.pdf ${name}-beamer.pdf
+cp $name.tex ${name}-beamer.tex
+
+# Handouts
+system doconce format pdflatex $name --latex_title_layout=beamer --latex_table_format=footnotesize $opt
+system doconce ptex2tex $name envir=minted
+# Add special packages
+doconce subst "% Add user's preamble" "\g<1>\n\\usepackage{simplewick}" $name.tex
+system doconce slides_beamer $name --beamer_slide_theme=red_shadow --handout
+system pdflatex -shell-escape $name
+pdflatex -shell-escape $name
+pdflatex -shell-escape $name
+pdfnup --nup 2x3 --frame true --delta "1cm 1cm" --scale 0.9 --outfile ${name}-beamer-handouts2x3.pdf ${name}.pdf
+rm -f ${name}.pdf
 
 # Ordinary plain LaTeX document
 rm -f *.aux  # important after beamer
-system doconce format pdflatex $name --minted_latex_style=trac --latex_admon=paragraph --latex_code_style=pyg $opt
+system doconce format pdflatex $name --minted_latex_style=trac --latex_admon=paragraph $opt
+system doconce ptex2tex $name envir=minted
+# Add special packages
+doconce subst "% Add user's preamble" "\g<1>\n\\usepackage{simplewick}" $name.tex
 doconce replace 'section{' 'section*{' $name.tex
+pdflatex -shell-escape $name
 pdflatex -shell-escape $name
 mv -f $name.pdf ${name}-minted.pdf
 cp $name.tex ${name}-plain-minted.tex
 
-# IPython notebook
-#system doconce format ipynb $name $opt
+
 
 # Publish
 dest=../../pub
@@ -87,4 +116,3 @@ EOF
 tar czf ${ipynb_tarfile} README.txt
 fi
 cp ${ipynb_tarfile} $dest/$name/ipynb
-

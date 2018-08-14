@@ -8,7 +8,7 @@ DATE: August 14, 2018
 ===== Where do I find these slides? =====
 
 !bblock
-Go to URL:" "
+Go to URL:"http://mhjensen.github.io/CPMLS/doc/pub/Welcome/html/Welcome-bs.html"
 
 As soon as we have a complete mailing list, we will send the links electronically to you, with weekly updates about the program as well.
 !eblock
@@ -339,7 +339,8 @@ thesis work at research institutions abroad.
 
 !split
 =====  The fall and spring semesters 2018-2019 =====
-!bblock  Get to know each other and plan your studies
+Get to know each other and plan your studies
+!bblock  
  * From week 36 and on (September 3) we will have  weekly seminars with both local (you also) and invited speakers. Topics will range from thesis projects, research topics in computational and data science applied to different fields, inputs from people in companies etc etc.  Wednesday afternoon as a possibility (depending on your schedules)
  * Individual discussions with each of you in order to plan your studies and thesis projects from week 36 and throughout the fall semester
  * Discussions with scientists and teachers of the various study directions
@@ -348,10 +349,16 @@ thesis work at research institutions abroad.
 
 !eblock
 
-!bblock  "The Center for Computing in Science Education":"https://www.mn.uio.no/ccse/english/"
+
+!split
+===== "The Center for Computing in Science Education":"https://www.mn.uio.no/ccse/english/" =====
+
+!bblock  
 The goal of CCSE is to integrate computing as a natural tool in basic educations, to make the education research near and to prepare students for an interdisciplinary workplace.
 
-The center will function as our coordintaing unit for common scientific and soicla activities and the new office spaces and study areas are planned finalized in January 2019. Stay tuned!! You'll love it. 
+The center will function as our coordintaing unit for common scientific and soicla activities and the new office spaces and study areas are planned finalized in January 2019. Stay tuned and be patient!! You'll love it. 
+
+Location: fourth floor, eastern wing of the Physics building.
 !eblock 
 
 

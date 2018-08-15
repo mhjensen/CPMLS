@@ -1,0 +1,36 @@
+Aabø	Heine Olsson	CSPHYS		Norge	h.o.aabo@fys.uio.no	heine.aabo@gmail.com
+Aarsæther     Stine Hammer		CSBIOS				Norge	stinhaar@student.matnat.uio.no	stineaarsaether@gmail.com
+Asprusten     Markus Leira		CSPHYS					Norge				m.l.asprusten@astro.uio.no markus@asprusten.com
+Baar	      Jon Audun			CSAMRA									Norge			   jonabaa@student.matnat.uio.no jonaudunbaar@gmail.com
+Barkost	      Per Harald		CSPHYS												   Norge			 p.h.barkost@fys.uio.no ph.barkost@gmail.com
+Bilek	      Stian Dysthe		CSPHYS												   				 Norge			stiandb@student.matnat.uio.no stianbilek@gmail.com
+Costa Conrado Ana   CSMECH																		 Portugal		anacos@student.matnat.uio.no  ana.conrado@protonmail.com
+Dobrovolskaia Polina																			 CSBINF						      Uoppgitt / Ukjent polinad@student.matnat.uio.no polinadh@gmail.com
+Gimse	      Martin Funderud																		 CSMECH						      	       Norge	martgi@student.matnat.uio.no  martingimse@gmail.com
+Gjestang      Henrik Løland																		 CSIMBC							       		Norge			      h.l.gjestang@sv.uio.no henrik.logj@gmail.com
+Gravir	      Aksel Kristofer																		 CSAMRA												      Norge		     akselkg@student.matnat.uio.no aksel.gravir@gmail.com
+Grønntun      Bjørn CSIMBC																		 												      Norge		     bjorn.gronntun@mn.uio.no	   bjorngronntun@gmail.com
+Haugsten Hansen	    Henry																														      CSGEOS		     				   Norge h.h.hansen@fys.uio.no henryhansen23@gmail.com
+Heggen	 Mona	    CSIMBC																														      							   Norge monahe@student.matnat.uio.no mona.heggen@gmail.com
+Hemmingsen	    Morten																																					   CSMECH			       Norge mortehem@math.uio.no m.hemmingsen@hotmail.com
+Holm		    Marius																																					   CSPHYS			       	     Norge		  marius.holm@fys.uio.no marius.holm96@gmail.com
+Hovden		    Martin Krokan																																				   CSPHYS				     			  Norge			 martikh@student.matnat.uio.no marthvdn@online.no
+Husa		    Aleksander Lunevski																																				   CSBINF							  			 Norge			       a.l.husa@fys.uio.no aleksander.l.husa@gmail.com
+Isachsen	    Stian Mortenssønn																																				   CSPHYS										 			       Norge		   stianmi@student.sv.uio.no stian.m.isachsen@gmail.com
+Kismul		    Jan Fredrik																																					   CSPHYS													       			   Norge		     j.f.kismul@fys.uio.no jkismul@gmail.com
+Li		    Lingyuan																																					   CSBINF																   			     Kina		   lingyul@extern.uio.no li.lingyuan@gmail.com
+Liahjell	    Gunnar Thorsen																																				   CSPHYS																			     			   Norge		 gunnartl@student.matnat.uio.no gunnar_1234@hotmail.com
+Mohmmed		    Soran Hussein																																				   CSMECH																						   			 Norge				soranhm@student.matnat.uio.no soran1994@hotmail.no
+Olesen		    Tobias Berdiin																																				   CSPHYS																									 				Norge			      tobiao@student.matnat.uio.no tobias@olesen.no
+Ravndal		    Mikael CSAMRA																																				   																														Norge			      mikaelra@student.matnat.uio.no mikaelravndal@gmail.com
+Reitan		    Audun Tahina																																																																		CSPHYS			      				     Norge auduntre@student.matnat.uio.no audun3105@gmail.com
+Silverberg	    Fred Marcus John																																																																		CSGEOS							     	   Sverige			  f.m.j.silverberg@fys.uio.no marcus.silverberg@gmail.com
+Sjåstad		    Thomas	CSPHYS																																																																										   Norge			  thomsja@student.matnat.uio.no thomas.sjaastad@gmail.com
+Sutterud	    Halvard	CSPHYS																																																																										   				  Norge				halvard.sutterud@fys.uio.no halvard.sutterud@gmail.com
+Sveen		    Christian Alexander Holm																																																																													  CSAMRA						    Norge casveen@student.matnat.uio.no christiansveen@hotmail.com
+Svennevik	    Hanna     CSGEOS																																																																														  Norge							    hanna.svennevik@fys.uio.no		svennevikh@gmail.com
+Tangen		    Mina      CSGEOS																																																																														  							    Norge				mina.tangen@fys.uio.no mina.tangen@gmail.com
+Thorsrud	    Eirik     CSPHYS																																																																																					    					Norge		       eirik.thorsrud@fys.uio.no eiri-tho@online.no
+Ulvik		    Geir Tore CSPHYS																																																																																												       Norge			 g.t.ulvik@usit.uio.no gt.ulvik@gmail.com
+Utseth		    Ingrid    CSIMBC																																																																																												       				 Norge		       ingrid.utseth@fys.uio.no iutseth@hotmail.com
+Wester		    Betina Høyer																																																																																																 CSIMBC		       				Norge betinahw@student.matnat.uio.no betina.wester@hotmail.com

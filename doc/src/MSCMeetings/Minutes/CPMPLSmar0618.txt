@@ -1,0 +1,55 @@
+===== Minutes from CS board meeting, March 6 2018 =====
+
+=== Present : ===
+Karsten Trulsen, Martin Reimers, John Burkhart, Thomas Schuler, Morten HJ, Grete Stavik-Døvle, Tom Andersen, Mats Carlsson, Ola Skavhaug, Øyvind S. Schøyen, Kristine B. Hein, Kristian. G. Hustad, Alfred Hanssen, Espen Murtnes 
+
+=== Excused ===
+Andreas Austeng, Michele Cascella
+
+=== Agenda March 6, 2018, 10am-12pm ===
+
+ o _Welcome, coffee and light refreshments_
+ o Update on website and courses
+ o Admission criteria and application process
+ o Development of mentoring plan and criteria for advisors and examiners 
+ o Role of external members
+ o AOB
+
+===  Update on website and courses ===
+
+MHJ gave a brief review on the status of the website and courses. IN3200/4200 was still lacking a proper weblink. 
+
+===  Admission criteria and application process ===
+
+The admission criteria were revisited and discussed. Grete gave an
+overview of the application process. The first wave of applicants
+(deadline February) is composed of non-EU and non-nordic
+applicants. The second wave of applicants (deadline in march) is
+composed of EU citizens from outside the nordic countries and finally the third round has deadline April 15 and is 
+composed of Nordic citizens or residents in nordic countries. 
+
+The general impression from the first round of applicants, was that
+the main bulk of these applicants (the majority from Asian countries)
+were poorly qualified and presently none of the applicants could be
+admitted. Average grades  were generally poor and most of them did not fulfill the admission criteria. 
+
+=== Mentoring plan and criteria ===
+
+We had a long discussion on setting up both a mentoring plan, criteria
+for internal and external advisors as well as internal examiners.  The
+aim was to arise the awareness about these topics, in particular in
+light of the fact that the program is a multi-disciplinary one and
+this may pose specific challenges to the selection of advisers and
+examiners. Our learning outcomes have also a focus on computational
+science aspects which may not be relevant for a more disciplinary
+oriented field.  It was decided that this is adressed in more depth at
+the next meeting, scheduled for the fall semester 2018, in particular
+since MN-Fak is discussing common rules for all master of science
+programs.
+
+=== AOB ===
+
+Plans for semester start were discussed.
+
+
+

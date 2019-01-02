@@ -1,0 +1,150 @@
+===== Minutes from CS board meeting, December 13 2018 =====
+
+=== Present : ===
+Karsten Trulsen, Michele Cascella, Joe Lacasce (deputy for Thomas V. Schuler) Andreas Austeng, Morten HJ, Grete Stavik-Døvle, Tom Andersen, Mats Carlsson, Øyvind S. Schøyen, Kristine B. Hein, Espen Murtnes, 
+
+=== Excused ===
+All present
+
+=== Agenda December 13, 2018, 10am-12pm ===
+
+ o Welcome and approval of "minutes from previous meeting":"https://github.com/mhjensen/CPMLS/tree/gh-pages/doc/src/MSCMeetings/Minutes"
+ o Present status, students enlisted and review, summary and experiences from the fall semester
+ o Routines for the program, administrative issues, regulations, selection of internal and external examiners etc. 
+ o Development of a mentoring plan for each student. 
+ o AOB
+
+===== Present status, students enlisted and review, summary & experiences from the fall semester =====
+
+What has been done:
+o Biweekly seminars for all CS students (six in total), gaming evenings and social gatherings with food and refreshments. Last event November 23, Anne Solberg talked about Machine Learning at UiO
+o Meeting all students  with program chair once per semester in order to get input on status, procedures etc. 
+o Individual mentoring if wanted/needed (10 students used this option) with program chair
+o Close contact via compulsory courses (most students, 29,  follow FYS-STK4155) 
+o 36 students enlisted, two new after semester start and two who have left (one maternity leave). Thus we have 36 active students with three whose status is unknown to program chair
+o First week not optimal at all departments
+
+For students who struggle, "ForVei":"https://www.mn.uio.no/studier/forvei/" is an excellent counseling unit at MN-Fak. 
+
+
+===== Present status, students enlisted and review, summary & experiences from the fall semester =====
+Students AMRA
+o Jon Audun Baar
+o Mikael Ravndal (Machine Learning at Radium hospitalet)
+o Christian Sveen 
+o Aksel Gravir
+
+
+Students MECH
+o Ana Costa
+o Morten Hemmingsen
+o Soran Mohmmmed
+o Martin Gimse  
+
+Students IMBC
+o Henrik Gjestang
+o Espen Næss
+o Mona Heggen
+o Ingrid Utseth  (ML)
+o Betina Wester
+o Lucas Charpentier (ML)
+o Bjørn Grønntun 
+
+
+
+
+===== Present status, students enlisted and review, summary & experiences from the fall semester =====
+Students BIOINF
+o Polina Dobrowskaya (ML at skatteetaten) 
+o Aleksander Lunevski Husa (ML probably)
+o Li Lingyuan (wants to shift to part time student)
+
+Students GEOSCIENCE
+o Marcus Silverberg
+o Henry Haugsten Hansen
+o Hanna Svennevik (thesis at Met Inst, machine learning)
+o Mina Tangen
+
+Students PHYSICS
+o Jan Fredrik Kismuhl (ML and neuroscience)
+o Halvard Sutterud (Lattice QCD)
+o Heine Aabø (quantum computing)
+o Stian Dysthe (quantum computing)
+o Marius Holm (ML and mechanics)
+o Gunnar Lahjell (ML and poltical science)
+o Per Harald Barkost (ML on education, CCSE)
+o Stian Isachsen (ML and data analysis)
+o Thomas Sjåstad (ML and molecular dynamics)
+o Tobias Olesen (ML)
+o Markus Asprusten (ML and neuroscience)
+o Eirik Thorsrud (ML and molecular dynamics)
+o Geir Tore Ulvik (ML on subatomic experiments)
+o Audun T Reitan (ML and neuroscience) 
+
+===== Routines for the program, administrative issues, regulations, selection of internal and external examiners etc =====
+
+o See the attached documents from MN-fak, we will go through these first.
+o We all agreed to preserve  a local autonomy, students from each study option are enlisted at the department where the study option belongs. 
+
+Our program is however a multidisciplinary one, with learning outcomes
+and thesis topics which may not be familiar to faculty at a given
+department.  Furthermore, since this is a cross-department program, we
+need to make sure that students in this program feel they are treated
+equally, or as far as this is possible. This applies to
+
+
+
+
+===== Routines for the program, administrative issues, regulations, selection of internal and external examiners etc =====
+We need thus to strike a balance between the _autonomy_ of the given
+department and study option and the needs and learning outcomes of our
+program.  And the wishes of our students. 
+
+Furthermore, we will encounter (five this year) situations
+where students may opt for external advisors and thesis topics which
+do not fall into the thematics of a given study option. We need to
+discuss these issues as well and make sure that our rules are flexible
+enough to allow for such cases.
+
+
+===== Internal examiners and advisors =====
+
+Proposal to be added to MN-fak rules
+o Internal examiners do not need to come from the same department where the study option resides and where the student is enlisted. Internal examiners come from a pool of CS competent scientists with knowledge of the central fields covered by the program
+o Strive as far as possible to allow for thesis topics which may not match (partly or fully) the scientific profile of a given study option. 
+
+
+
+
+===== Internal examiners, criteria for discussion  =====
+
+Internal examiners are chosen by the program board to follow the following disciplinary topics (in addition to the specific study options)
+as well as having competences in software development. An internal examiner 
+o Machine learning and possibly AI (all study options)
+o Statistics and data analysis (all study options)
+o Differential equations (partial and ordinary, applies to all study options)
+o Software development (all study options)
+o Computational quantum mechanics (physics, chemistry, and materials science)
+o Computational statistical mechanics (physics, chemistry and material science)
+o Computational Life Science (most study options)
+o Computational Geoscience
+o Bioinformatics
+o Stochastic simulations (most study options)
+
+Too many? Missing topics? too generic or too specific? 
+
+
+===== A minimalistic Mentoring program =====
+
+o Program chair discusses with all students from a given study options at least once per semester the first year.  This is done groupwise with the possibility to have one-to-one meetings. If possible, representatives from the pertinent study options could participate. 
+o In addition to the contact person for every study option, the student gets a mentor for the first year of study. The mentor can be a faculty member, a post-doc or a PhD student.  
+
+When the student has embarked on her/his Master thesis topic, MSc thesis supervisor becomes the mentor. 
+
+Role of mentor
+o Organize at least once per semester (first year of study) a meeting with the student
+
+Students should be able to choose from a list of possible mentors according to scientific interests. We should develop a training program for mentors in collaboration with MN-fak.
+
+
+

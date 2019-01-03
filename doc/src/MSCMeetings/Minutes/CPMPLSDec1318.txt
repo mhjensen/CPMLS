@@ -30,6 +30,9 @@ For students who struggle, "ForVei":"https://www.mn.uio.no/studier/forvei/" is a
 
 
 ===== Present status, students enlisted and review, summary & experiences from the fall semester =====
+
+ML = Machine Learning
+
 Students AMRA
 o Jon Audun Baar
 o Mikael Ravndal (Machine Learning at Radium hospitalet, external)
@@ -41,7 +44,7 @@ Students MECH
 o Ana Costa
 o Morten Hemmingsen
 o Soran Mohmmmed
-o Martin Gimse  (Status unknown)
+o Martin Funderud Gimse  (ML and mechanics)
 
 Students IMBC
 o Henrik Gjestang
@@ -50,14 +53,14 @@ o Mona Heggen
 o Ingrid Utseth  (ML)
 o Betina Wester
 o Lucas Charpentier (ML)
-o Bjørn Grønntun  (Not responded to emails)
+o Bjørn Grønntun 
 
 
 
 
 ===== Present status, students enlisted and review, summary & experiences from the fall semester =====
 Students BIOINF
-o Polina Dobrowskaya (ML at skatteetaten, external) 
+o Polina Dobrowskaya (ML, external) 
 o Aleksander Lunevski Husa (ML probably)
 o Li Lingyuan (wants to shift to part time student)
 
@@ -73,7 +76,7 @@ o Halvard Sutterud (many-body theory)
 o Heine Aabø (quantum computing)
 o Stian D Bilek (quantum computing)
 o Marius Holm (ML and mechanics)
-o Gunnar Lahjell (ML and poltical science)
+o Gunnar Lahjell (ML and political science)
 o Per Harald Barkost (ML on education, CCSE)
 o Stian Isachsen (ML and data analysis)
 o Thomas Sjåstad (ML and DNVA, external)
@@ -88,16 +91,23 @@ o Audun T Reitan (ML and neuroscience)
 o The work of the MN-fak committee (attached documents from MN-fak) was discussed and most points were agreed upon
 o We all agreed to preserve  a local autonomy, students from each study option are enlisted at the department where the study option belongs. 
 
+
+
+
+
 Our program is however a multidisciplinary one, with learning outcomes
 and thesis topics which may not be familiar to faculty at a given
 department.  Furthermore, since this is a cross-department program, we
 need to make sure that students in this program feel they are treated
 equally, or as far as this is possible. It was agreed that this should apply to all study options. 
 
-
+Andreas A promised to look into the topic and draft a small note on this, including rules for extension, part time etc.
+In particular, we need to figure out if students are aware of the rules for extension and that these are applied equally at all involved departments. As an example, we need to figure whether TAing courses is treated equally across MN-fak.  
 
 
 ===== Routines for the program, administrative issues, regulations, selection of internal and external examiners etc =====
+
+
 We need thus to strike a balance between the _autonomy_ of the given
 department and study option and the needs and learning outcomes of our
 program.  And the wishes of our students. 
@@ -110,7 +120,9 @@ do not fall into the thematics of a given study option. We need to
 discuss these issues as well and make sure that our rules are flexible
 enough to allow for such cases.
 
-The program board discussed extensively how to choose internal examiners. The board decided to continue this discussion at the next meeting. 
+The program board discussed extensively how to choose internal
+examiners. The board decided to continue this discussion at the next
+meeting.
 
 ===== Internal examiners and advisors =====
 
@@ -140,15 +152,23 @@ This discussion will be taken up at the next meeting.
 
 ===== Thesis topics that do not align well with study options =====
 
-We have now four students who have chosen thesis topics (see list above) that do not match fully their respective study options. Since the program aims at being an interdisciplinary one, we may encounter several such cases. Andreas A mentioned that at IFI situations like these have been discussed several times, in particular since students may opt for thesis topics under study options where the admission criteria (in particular due to ranking based on marks) have been more difficult. The board agreed that we should minimize such possibilities. 
-On the other hand we need also as a program to open up for a certain flexibility. 
+We have now four students who have chosen thesis topics (see list
+above) that do not match fully their respective study options. Since
+the program aims at being an interdisciplinary one, we may encounter
+several such cases. Andreas A mentioned that at IFI situations like
+these have been discussed several times, in particular since students
+may opt for thesis topics under study options where the admission
+criteria (in particular due to ranking based on marks) have been more
+difficult. The board agreed that we should minimize such
+possibilities.  On the other hand we need also as a program to be open 
+for a certain flexibility.
 
 The board did not conclude on this, but several of its members pointed
 out that one should limit the possibility of choosing thesis topics
 that are not aligned with the specific study option. One possibility
 is to express this clearly on the websites of each study option.
 
-After the meeting, new inputs from MN-fak was sent about this
+After the meeting, new inputs from MN-fak was sent to the program chair about this
 topic. This will be sent out to the board members asap. 
 
 The board has however not concluded yet. This topic will be
@@ -164,7 +184,9 @@ When the student has embarked on her/his Master thesis topic, MSc thesis supervi
 Role of mentor
 o Organize at least once per semester (first year of study) a meeting with the student
 
-Students should be able to choose from a list of possible mentors according to scientific interests. We should develop a training program for mentors in collaboration with MN-fak.
+Students should be able to choose from a list of possible mentors
+according to scientific interests. We should develop a training
+program for mentors in collaboration with MN-fak.
 
 
 It was agreed that the next meeting (February 2019) should address

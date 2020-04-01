@@ -337,18 +337,6 @@ thesis work at research institutions abroad.
 !eblock
 
 
-!split
-=====  The fall and spring semesters 2019-2020 =====
-Get to know each other and plan your studies
-!bblock  
- * "Program this week":"https://www.uio.no/english/studies/programmes/computational-science-master/start-of-studies/mandatory-welcome-meeting-computational-science.html"
- * From week 36 and on (September 2) we will have every two weeks seminars with both local (you also) and invited speakers. Topics will range from thesis projects, research topics in computational and data science applied to different fields, inputs from people in companies etc etc.  Most likely time: Friday afternoons
- * Individual discussions with each of you in order to plan your studies and thesis projects from week 36 and throughout the fall semester
- * Discussions with scientists and teachers of the various study directions
- * Meet your study direction (see schedule) today or tomorrow
- * _And feel free to suggest activities that can make this a successful program, scientifically, socially and more_.
-
-!eblock
 
 
 !split

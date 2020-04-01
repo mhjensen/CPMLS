@@ -8,7 +8,7 @@ DATE: Today
 ===== Where do I find these slides? =====
 
 !bblock
-Go to URL:"http://mhjensen.github.io/CPMLS/doc/pub/Welcome2019/html/Welcome2019-bs.html"
+Go to URL:"http://mhjensen.github.io/CPMLS/doc/pub/Welcome2020/html/Welcome2020-bs.html"
 
 You will receive an email later with the link together with weekly updates with weekly updates about the program as well.
 !eblock

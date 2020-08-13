@@ -39,7 +39,6 @@ intelligent consumers of the products of these tools, will be a critical and hig
 * Computation is an essential and cross-cutting element of all S(cience)T(echnology)E(ngineering)M(mathematics) disciplines
 * Computational science has developed into a discipline of its own right
 * Computations and the understanding of large data sets will play an even larger role in basically all disciplines of STEM fields, Medicine, the Social Sciences, the Humanities and  education
-* Students at both undergraduate and graduate level are unprepared to use computational modeling, data science, and high performance computing – skills valued by a very broad range of employers.
 * The 3rd Industrial Revolution will alter significantly the demands on the workforce. To adapt a highly-qualified workforce to coming challenges  requires strong fundamental bases in STEM fields. Computational Science can provide such a background at all stages.
 
 !eblock
@@ -410,6 +409,7 @@ You need to select two of these three courses:
 
 
 !split
-===== Master of Science Topics CS:Physics and CS:Materials Science =====
+===== Master of Science Topics CS:Physics and CS:Materials Science: Quantum Mechanics =====
 
-* 
+There are several possible master of science projects, see URL:"https://github.com/CompPhysics/ThesisProjects/tree/master/doc/pub" for possible topics. The topics span from Quantum Computing to Machine Learning and there are several PhD and Master of Science students working on these topics. 
+

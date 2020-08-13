@@ -8,19 +8,14 @@ DATE: Today
 ===== Where do I find these slides? =====
 
 !bblock
-Go to URL:"https://github.com/ComputationalScienceUiO/ComputationalScience"
+Go to URL:"http://mhjensen.github.io/CPMLS/doc/pub/Welcome2020/html/Welcome2020-bs.html"
 
 You will receive an email later with the link together with weekly updates with weekly updates about the program as well.
-The various sessions during the start-up week will all be recorded and available from the above website.
-
-The schedule for the first week can be found at (example for CS:Physics and CS:Materials Science) URL:"https://www.mn.uio.no/fysikk/studier/master/studiestart/index.html"
-
 !eblock
 
 !split
 ===== The coming job market needs people with your background! =====
 !bblock
-
 The "consulting company McKinsey recently released a report":"https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-age-of-analytics-competing-in-a-data-driven-world" arguing that the need for computational and data scientists – that is,
 workers who can successfully analyze, model, and interpret data, and use it to inform critical business
 decisions - is going to grow rapidly. A wide range of industries now use computational
@@ -29,7 +24,6 @@ a range of activities that include product design, optimizing manufacturing proc
 and choosing advertising targets. The trend is clear, as are the implications for new employees
 – being fluent in the tools used to work with data and computational models, as well as to be
 intelligent consumers of the products of these tools, will be a critical and highly  demanded skillset.
-
 !eblock
 
 !split
@@ -60,14 +54,7 @@ The program is a collaboration between seven departments and classical disciplin
  * Department of Physics
 
 
-!eblock
-
-
-!split
-===== Master program in Computational Science, a multi-disciplinary program =====
-!bblock
-
-The program is multi-disciplinary and everbody who  has completed
+The program is multidisciplinary and everbody who  has completed
 undergraduate studies in science and engineering, with a sufficient
 quantitative background, is eligible.  The language of instruction is
 Norwegian or English.
@@ -75,8 +62,6 @@ Norwegian or English.
 
 
 !eblock
-
-
 
 
 
@@ -88,11 +73,6 @@ science students with the knowledge, skills, and values needed to pose
 and solve current and new scientific, technological and societal
 challenges. The program will lay the foundation for cross-disciplinary
 educational, research and innovation activities.
-
-
-!split
-===== More on Strategic importance =====
-
 
 It is the first educational program to
 comprehensively treat computation as the *triple junction* of
@@ -106,22 +86,11 @@ advanced tools and techniques, which will ignite new
 transformational connections in research and education.
 
 
-
-
-!split
-===== Junction of many fields =====
-
 FIGURE: [figslides/cs.jpg, width=500 frac=0.6] 
 
 
-
 !split
-===== And in more detail =====
-
-FIGURE: [figslides/topics.png, width=800 frac=1.0]
-
-!split
-===== Vision for the future: Scientific Computing and Data Science 1: =====
+===== Vision for the future: Scientific Computing and Data Science =====
 
 Scientific computing focuses on the development of predictive computer
 models of the world around us. As study of physical phenomena through
@@ -133,11 +102,6 @@ is the development of new methods that make challenging problems
 tractable on modern computing platforms, providing scientists and
 engineers with key windows into the world around us.
 
-
-!split
-===== Vision for the future: Scientific Computing and Data Science 2: =====
-
-
 Data science focuses on the development of tools designed to find
 trends within datasets that help scientists who are challenged with
 massive amounts of data to assess key relations within those
@@ -147,8 +111,6 @@ in complex systems. For example, a key data science goal on the
 biological side would be better care for patients (e.g., personalized
 medicine). Given a patient’s genetic makeup, the proper data-driven
 model would identify the most effective treatment for that patient.
-
-
 
 
 !split
@@ -199,6 +161,29 @@ topics for coming thesis projects as well as research directions.
 !eblock
 
 
+!split
+===== Multiscale modeling is a big open research question =====
+
+
+!bblock
+Today's problems, unlike traditional
+science and engineering, involve complex systems with many distinct
+physical processes. The wide open research topic of this century, both
+in industry and at universities, is how to effectively couple
+processes across different length and energy scales. Progress will
+rely on a multi-disciplinary approach and therefore a need for
+a multi-disciplinary educational program.
+!eblock
+
+!bblock
+The CS program aims at giving you  the right
+multi-disciplinary background and computational thinking for
+understanding today's simulation technology and its challenges.
+!eblock
+
+
+
+
 
 !split
 ===== Computing competence =====
@@ -209,15 +194,10 @@ developing an understanding of the scientific process by enhancing
 algorithmic thinking when solving problems.  Computing competence has
 always been a central part of the science and engineering
 education.
-!eblock
 
-!split
-===== Computing competence today =====
-
-!bblock
 Modern computing competence is about
 
-* derivation, validation verification, and implementation of algorithms
+* derivation, verification, and implementation of algorithms
 * understanding what can go wrong with algorithms
 * overview of important, known algorithms
 * understanding how algorithms are used to solve mathematical problems
@@ -238,11 +218,7 @@ numerical computing by ready-made and/or self-written software). This
 generic view on problems and methods is particularly important for
 understanding how to apply available, generic software to solve a
 particular problem.
-!eblock
 
-!split
-===== More on Key elements in computing competence =====
-!bblock
 
 Computing competence represents a central element
 in scientific problem solving, from basic education and research to
@@ -267,12 +243,7 @@ mechanics, geology, computational finance, computational informatics, b
 ig data analysis, digital signal processing
 and image analysis – you select research field according to
 your interests.
-!eblock
 
-!split
-===== More on Overarching description of the CS program  =====
-
-!bblock
 A Master’s degree from this program gives you a methodical
 training in planning, conducting, and reporting large research
 projects, often together with other students and university teachers.
@@ -334,7 +305,7 @@ In order to build a common study program and identity as a Computational Science
 
 * _MAT4100_: "Introduction to numerical analysis":"https://www.uio.no/studier/emner/matnat/math/MAT4110/index-eng.html", 10 ECTS, Fall semester
 
-* _IN3200/4200_: "High-Performance Computing with Numerical projects":"https://www.uio.no/studier/emner/matnat/ifi/IN3200/index-eng.html", 10 ECTS, spring semester
+* _IN3200/4200_: "High-Performance Computing with Numerical projects":"https://www.uio.no/studier/emner/matnat/ifi/IN3200/index-eng.html", 10 ECTS, spring semester (Code number still not correct on program website)
 
 !eblock
 
@@ -352,12 +323,7 @@ they will use in later stages of their careers.  To handle large
 numerical projects demands structured thinking and good analytical
 skills and a thorough understanding of the problems to be solved. This
 knowledge makes the students unique on the labor market.
-!eblock
 
-!split
-===== More Career prospects =====
-
-!bblock
 Career opportunities are many, from research institutes, universities
 and university colleges and a multitude of companies. Examples
 include IBM, Hydro, Statoil, and Telenor.  The program gives an
@@ -385,31 +351,3 @@ Location: fourth floor, eastern wing of the Physics building.
 !eblock 
 
 
-
-!split
-===== Coming: the new center for Computational Science and Data Science =====
-
-The University of Oslo is now establishing a new center in Computational Science and Data Science and our Master of Science program is an important element of this center. See
-URL:"https://www.uio.no/english/for-employees/unitpages/mn/current-matters/news/establishing-center-for-data-science-and-computing.html". Stay tuned.
-
-
-
-!split
-===== Choice of courses and Master of Science Topics, this is for CS:Physics and CS:Materials Science =====
-
-Although many of the discussions here pertain to specific master of science topics for CS:Physics and CS:Materials Science, the various courses we list here are also of interest for many of the other study directions.
-
-
-You need to select two of these three courses:
-
-* _FYS-STK4155_: "Applied Data analysis and machine learning":"https://www.uio.no/studier/emner/matnat/fys/FYS-STK4155/index-eng.html", 10 ECTS, Fall semester
-
-* _MAT4100_: "Introduction to numerical analysis":"https://www.uio.no/studier/emner/matnat/math/MAT4110/index-eng.html", 10 ECTS, Fall semester
-
-* _IN4200_: "High-Performance Computing with Numerical projects":"https://www.uio.no/studier/emner/matnat/ifi/IN3200/index-eng.html", 10 ECTS, spring semester
-
-
-!split
-===== Master of Science Topics CS:Physics and CS:Materials Science =====
-
-* 

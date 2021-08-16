@@ -351,3 +351,11 @@ Location: fourth floor, eastern wing of the Physics building.
 !eblock 
 
 
+!split
+===== "The Center for Computational and Data Science (dScience)":"https://www.uio.no/dscience/" =====
+
+!bblock  
+This newly establised center is taylored to innovative research on Computational Science and Data Science and coordinates research and educational activities in the these fields. Look up the above weblink for more information.
+!eblock 
+
+

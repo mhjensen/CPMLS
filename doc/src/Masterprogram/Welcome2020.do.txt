@@ -20,7 +20,10 @@ The schedule for the first week can be found at (example for CS:Physics and CS:M
 !split
 ===== The coming job market needs people with your background! =====
 !bblock
+<<<<<<< HEAD
+=======
 
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 The "consulting company McKinsey recently released a report":"https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-age-of-analytics-competing-in-a-data-driven-world" arguing that the need for computational and data scientists – that is,
 workers who can successfully analyze, model, and interpret data, and use it to inform critical business
 decisions - is going to grow rapidly. A wide range of industries now use computational
@@ -29,7 +32,10 @@ a range of activities that include product design, optimizing manufacturing proc
 and choosing advertising targets. The trend is clear, as are the implications for new employees
 – being fluent in the tools used to work with data and computational models, as well as to be
 intelligent consumers of the products of these tools, will be a critical and highly  demanded skillset.
+<<<<<<< HEAD
+=======
 
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 !eblock
 
 !split
@@ -39,7 +45,10 @@ intelligent consumers of the products of these tools, will be a critical and hig
 * Computation is an essential and cross-cutting element of all S(cience)T(echnology)E(ngineering)M(mathematics) disciplines
 * Computational science has developed into a discipline of its own right
 * Computations and the understanding of large data sets will play an even larger role in basically all disciplines of STEM fields, Medicine, the Social Sciences, the Humanities and  education
+<<<<<<< HEAD
 * Students at both undergraduate and graduate level are unprepared to use computational modeling, data science, and high performance computing – skills valued by a very broad range of employers.
+=======
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 * The 3rd Industrial Revolution will alter significantly the demands on the workforce. To adapt a highly-qualified workforce to coming challenges  requires strong fundamental bases in STEM fields. Computational Science can provide such a background at all stages.
 
 !eblock
@@ -60,6 +69,9 @@ The program is a collaboration between seven departments and classical disciplin
  * Department of Physics
 
 
+<<<<<<< HEAD
+The program is multidisciplinary and everbody who  has completed
+=======
 !eblock
 
 
@@ -68,6 +80,7 @@ The program is a collaboration between seven departments and classical disciplin
 !bblock
 
 The program is multi-disciplinary and everbody who  has completed
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 undergraduate studies in science and engineering, with a sufficient
 quantitative background, is eligible.  The language of instruction is
 Norwegian or English.
@@ -78,8 +91,11 @@ Norwegian or English.
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 !split
 ===== Strategic importance =====
 
@@ -89,11 +105,14 @@ and solve current and new scientific, technological and societal
 challenges. The program will lay the foundation for cross-disciplinary
 educational, research and innovation activities.
 
+<<<<<<< HEAD
+=======
 
 !split
 ===== More on Strategic importance =====
 
 
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 It is the first educational program to
 comprehensively treat computation as the *triple junction* of
 algorithm development and analysis, high performance computing, and
@@ -106,6 +125,13 @@ advanced tools and techniques, which will ignite new
 transformational connections in research and education.
 
 
+<<<<<<< HEAD
+FIGURE: [figslides/cs.jpg, width=500 frac=0.6] 
+
+
+!split
+===== Vision for the future: Scientific Computing and Data Science =====
+=======
 
 
 !split
@@ -122,6 +148,7 @@ FIGURE: [figslides/topics.png, width=800 frac=1.0]
 
 !split
 ===== Vision for the future: Scientific Computing and Data Science 1: =====
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 
 Scientific computing focuses on the development of predictive computer
 models of the world around us. As study of physical phenomena through
@@ -133,11 +160,14 @@ is the development of new methods that make challenging problems
 tractable on modern computing platforms, providing scientists and
 engineers with key windows into the world around us.
 
+<<<<<<< HEAD
+=======
 
 !split
 ===== Vision for the future: Scientific Computing and Data Science 2: =====
 
 
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 Data science focuses on the development of tools designed to find
 trends within datasets that help scientists who are challenged with
 massive amounts of data to assess key relations within those
@@ -149,8 +179,11 @@ medicine). Given a patient’s genetic makeup, the proper data-driven
 model would identify the most effective treatment for that patient.
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 !split
 ===== Aims of the program =====
 
@@ -209,12 +242,16 @@ developing an understanding of the scientific process by enhancing
 algorithmic thinking when solving problems.  Computing competence has
 always been a central part of the science and engineering
 education.
+<<<<<<< HEAD
+
+=======
 !eblock
 
 !split
 ===== Computing competence today =====
 
 !bblock
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 Modern computing competence is about
 
 * derivation, validation verification, and implementation of algorithms
@@ -238,11 +275,15 @@ numerical computing by ready-made and/or self-written software). This
 generic view on problems and methods is particularly important for
 understanding how to apply available, generic software to solve a
 particular problem.
+<<<<<<< HEAD
+
+=======
 !eblock
 
 !split
 ===== More on Key elements in computing competence =====
 !bblock
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 
 Computing competence represents a central element
 in scientific problem solving, from basic education and research to
@@ -267,12 +308,16 @@ mechanics, geology, computational finance, computational informatics, b
 ig data analysis, digital signal processing
 and image analysis – you select research field according to
 your interests.
+<<<<<<< HEAD
+
+=======
 !eblock
 
 !split
 ===== More on Overarching description of the CS program  =====
 
 !bblock
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 A Master’s degree from this program gives you a methodical
 training in planning, conducting, and reporting large research
 projects, often together with other students and university teachers.
@@ -334,7 +379,11 @@ In order to build a common study program and identity as a Computational Science
 
 * _MAT4100_: "Introduction to numerical analysis":"https://www.uio.no/studier/emner/matnat/math/MAT4110/index-eng.html", 10 ECTS, Fall semester
 
+<<<<<<< HEAD
+* _IN3200/4200_: "High-Performance Computing with Numerical projects":"https://www.uio.no/studier/emner/matnat/ifi/IN3200/index-eng.html", 10 ECTS, spring semester (Code number still not correct on program website)
+=======
 * _IN3200/4200_: "High-Performance Computing with Numerical projects":"https://www.uio.no/studier/emner/matnat/ifi/IN3200/index-eng.html", 10 ECTS, spring semester
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 
 !eblock
 
@@ -352,12 +401,16 @@ they will use in later stages of their careers.  To handle large
 numerical projects demands structured thinking and good analytical
 skills and a thorough understanding of the problems to be solved. This
 knowledge makes the students unique on the labor market.
+<<<<<<< HEAD
+
+=======
 !eblock
 
 !split
 ===== More Career prospects =====
 
 !bblock
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba
 Career opportunities are many, from research institutes, universities
 and university colleges and a multitude of companies. Examples
 include IBM, Hydro, Statoil, and Telenor.  The program gives an
@@ -392,6 +445,8 @@ Location: fourth floor, eastern wing of the Physics building.
 The University of Oslo is now establishing a new center in Computational Science and Data Science and our Master of Science program is an important element of this center. See
 URL:"https://www.uio.no/english/for-employees/unitpages/mn/current-matters/news/establishing-center-for-data-science-and-computing.html". Stay tuned.
 
+<<<<<<< HEAD
+=======
 
 
 !split
@@ -410,6 +465,8 @@ You need to select two of these three courses:
 
 
 !split
-===== Master of Science Topics CS:Physics and CS:Materials Science =====
+===== Master of Science Topics CS:Physics and CS:Materials Science: Quantum Mechanics =====
 
-* 
+There are several possible master of science projects, see URL:"https://github.com/CompPhysics/ThesisProjects/tree/master/doc/pub" for possible topics. The topics span from Quantum Computing to Machine Learning and there are several PhD and Master of Science students working on these topics. 
+
+>>>>>>> 9107e3bc774ffc45594a765d3245d053d0315cba

@@ -1,16 +1,16 @@
 TITLE: Master program in Computational Science  at the University of Oslo
-AUTHOR: Welcome to all of you
+AUTHOR: Information about the CS program
 
-DATE: August 14, 2018
+DATE: Today
 
 
 !split
 ===== Where do I find these slides? =====
 
 !bblock
-Go to URL:"http://mhjensen.github.io/CPMLS/doc/pub/Welcome/html/Welcome-bs.html"
+Go to URL:"http://mhjensen.github.io/CPMLS/doc/pub/Welcome2020/html/Welcome2020-bs.html"
 
-As soon as we have a complete mailing list, we will send the links electronically to you, with weekly updates about the program as well.
+You will receive an email later with the link together with weekly updates with weekly updates about the program as well.
 !eblock
 
 !split
@@ -23,13 +23,13 @@ modeling and data analytics to inform many aspects of their day-to-day practices
 a range of activities that include product design, optimizing manufacturing processes, hiring decisions,
 and choosing advertising targets. The trend is clear, as are the implications for new employees
 – being fluent in the tools used to work with data and computational models, as well as to be
-intelligent consumers of the products of these tools, will be a critical and high-demand skillset.
+intelligent consumers of the products of these tools, will be a critical and highly  demanded skillset.
 !eblock
 
 !split
 ===== Why should we focus on Computational Science and Data Science? =====
 !bblock
-* "By 2020, it is expected that one of every two jobs in the STEM fields will be in computing":"http://pathways.acm.org/executive-summary.html" (Association for Computing Machinery, 2013)
+* "By 2020, it is expected that one of every two jobs in the STEM fields will be in computing":"http://pathways.acm.org/executive-summary.html" (Association for Computing Machinery, 2013). Note the year of 2013. Today we can safely say almost all jobs!
 * Computation is an essential and cross-cutting element of all S(cience)T(echnology)E(ngineering)M(mathematics) disciplines
 * Computational science has developed into a discipline of its own right
 * Computations and the understanding of large data sets will play an even larger role in basically all disciplines of STEM fields, Medicine, the Social Sciences, the Humanities and  education
@@ -266,7 +266,7 @@ computations play  in our advancement of science and technology, as well as the 
 
 !bblock
 While discipline-based master's programs tend to introduce very strict
-requirements to courses, we believe in adapting a computational thesis
+requirements for specific courses, we believe in adapting a computational thesis
 topic to the student's background, thereby opening up for
 students with a wide range of bachelor's degrees.
 A very heterogeneous student community is thought to be a strength and
@@ -290,7 +290,7 @@ unique feature of this program.
 * Computational Science: Mechanics
 * Computational Science: Physics
 
-The thesis projects will be tailored to the student's needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
+The thesis projects will be tailored to your needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
 !eblock
 
 
@@ -337,17 +337,6 @@ thesis work at research institutions abroad.
 !eblock
 
 
-!split
-=====  The fall and spring semesters 2018-2019 =====
-Get to know each other and plan your studies
-!bblock  
- * From week 36 and on (September 3) we will have  weekly seminars with both local (you also) and invited speakers. Topics will range from thesis projects, research topics in computational and data science applied to different fields, inputs from people in companies etc etc.  Wednesday afternoon as a possibility (depending on your schedules)
- * Individual discussions with each of you in order to plan your studies and thesis projects from week 36 and throughout the fall semester
- * Discussions with scientists and teachers of the various study directions
- * Meet your study direction Wednesday 15 (tomorrow)
- * _And feel free to suggest activities that can make this a successful program, scientifically, socially and more_.
-
-!eblock
 
 
 !split
@@ -356,7 +345,7 @@ Get to know each other and plan your studies
 !bblock  
 The goal of CCSE is to integrate computing as a natural tool in basic educations, to make the education research near and to prepare students for an interdisciplinary workplace.
 
-The center will function as our coordintaing unit for common scientific and social activities. The new office and common spaces and study areas are planned finalized in January 2019. Stay tuned and be patient!! You'll love it. 
+The center will function as our coordintaing unit for common scientific and social activities. 
 
 Location: fourth floor, eastern wing of the Physics building.
 !eblock 

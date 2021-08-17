@@ -351,3 +351,10 @@ Location: fourth floor, eastern wing of the Physics building.
 !eblock 
 
 
+!split
+===== "The Center for Computational and Data Sciences (dScience)":"https://www.uio.no/dscience/english/" =====
+
+!bblock
+dScience is a center for developing and supporting new and important interdisciplinary research within computational science and data science across UiO and together with partners, e.g. understand data, find suitable representations of knowledge, ensure high quality development of artificial intelligence application, handle uncertainty in machine/deep learning, understand phenomena and complex systems through computing and data analysis, etc.
+
+!eblock 

@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Grete Stavik-Døvle:MAILTO:grete.stavik-dovle@fys.uio.no
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Christine 
+ Sundtveten:MAILTO:christine.sundtveten@fys.uio.no
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Helge Balk
+ :MAILTO:helge.balk@fys.uio.no
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Anders Mal
+ the-Sørenssen:MAILTO:anders.malthe-sorenssen@fys.uio.no
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sverre Hol
+ m:MAILTO:sverre.holm@fys.uio.no
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Morten Hjo
+ rth-Jensen:MAILTO:morten.hjorth-jensen@fys.uio.no
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Joakim Ber
+ gli:MAILTO:joakim.bergli@fys.uio.no
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Johannes S
+ kaar:MAILTO:johannes.skaar@fys.uio.no
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Andreas G
+ örgen:MAILTO:andreas.gorgen@fys.uio.no
+ATTACH:CID:7B5137AD1B907C6F10DD436BA3F8B9929C250402@mail.uio.no
+ATTACH:CID:D2C0CA6E7A9CE535E0AA51D68BCA107B6007BBC7@mail.uio.no
+ATTACH:CID:D9C449098A23288C0A98D8C9ECA8E32D8DEEE5E5@mail.uio.no
+ATTACH:CID:8ABC0B178A6CCF0C513F1385CEC6BA9CC1B9F282@mail.uio.no
+ATTACH:CID:417ACCA8A99CAACFE3B6719CADD89B4F400E173D@mail.uio.no
+ATTACH:CID:67CD4251D485BBED899A41B08176AD66C644F07F@mail.uio.no
+ATTACH:CID:71379DD5AC78AB10D0DD666BE4EEF2D7E23E3936@mail.uio.no
+ATTACH:CID:85B2BAF1F25F6C8DD2DB8DB60F4E54F93BDF8356@mail.uio.no
+ATTACH:CID:FC183C6A6898DED502589FD8EBABA3EF8BEA4FDE@mail.uio.no
+ATTACH:CID:3983D17B49E9A8A9285D3B8AE0C83175FFB46559@mail.uio.no
+ATTACH:CID:ACC238F0C9F5B0B18C1072DA64F4EFA366F6A929@mail.uio.no
+ATTACH:CID:DF2CD4E9AB4ECEA643CAF99346CFD90DC713EE60@mail.uio.no
+ATTACH:CID:CE500690A8BE87F9A5047E7E6141994021AA2A9A@mail.uio.no
+DESCRIPTION;LANGUAGE=nb-NO:Hei\,\n\nI forbindelse med dialogmøte for FI 11
+ . mai ønsker vi å arrangere et lite formøte for å samsnakke. Jeg har s
+ neket litt i kalenderne deres og deretter spurt utdanningsleder hvilke tid
+ spunkt som passer best for han siden han er den som samkjører presentasjo
+ nen. Vi har falt ned på digitalt møte onsdag 4. mai kl. 15-16.\n\nUtdann
+ ingsleder har fått statistikken som fakultetet ønsker å få presentert\
+ , altså søkertall\, gjennomføring og frafall. Jeg har lagt dem med her 
+ også slik at dere kan se på eget program før møtet. Merk at bachelorpr
+ ogrammene EIT og FA startet i 2017\, masterprogrammene i 2018 og HONS i 20
+ 19. Dersom tiden for formøte eller dialogmøte ikke passer for dere er de
+ t viktig at dere melder inn eventuelle kommentarer til Helge før formøte
+ t slik at han kan ta høyde for det.\n\nJeg har også lagt ved agenda for 
+ dialogmøtet slik at dere ser hvilke temaer vi skal innom i møtet og hvor
+  lang tid som forventes. Noen av dere vil få egne bestillinger direkte fr
+ a Helge.\n\nMvh Grete\n\nGrete Stavik-Døvle is inviting you to a schedule
+ d Zoom meeting.\n\nJoin Zoom Meeting\nhttps://uio.zoom.us/j/68741237620?pw
+ d=b0lmSkJMaU5yNURtMyt3aG1DTUxRZz09\n\nMeeting ID: 687 4123 7620\nPasscode:
+  148750\n\nDocumentation on how to use Zoom can be found here:\nhttps://ww
+ w.uio.no/english/services/it/phone-chat-videoconf/zoom/\n\nOne tap mobile\
+ n+46844682488\,\,68741237620# Sweden\n+46850500828\,\,68741237620# Sweden\
+ n\nDial by your location\n        +46 8 4468 2488 Sweden\n        +46 8 50
+ 50 0828 Sweden\n        +45 32 70 12 06 Denmark\n        +45 32 71 31 57 D
+ enmark\nMeeting ID: 687 4123 7620\nPassword: 148750\nFind your local numbe
+ r: https://uio.zoom.us/u/cdE3Y1TnP2\n\nJoin by SIP\n68741237620@109.105.11
+ 2.236\n68741237620@109.105.112.235\n\nJoin by H.323\n109.105.112.236\n109.
+ 105.112.235\nMeeting ID: 687 4123 7620\nPassword: 148750\n\n
+UID:040000008200E00074C5B7101A82E0080000000070072702165BD801000000000000000
+ 01000000051EF45FCFB8AFD4A9959D4F941AD19CF
+SUMMARY;LANGUAGE=nb-NO:Formøte dialogmøte
+DTSTART;TZID=Romance Standard Time:20220504T150000
+DTEND;TZID=Romance Standard Time:20220504T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20220428T135044Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=nb-NO:https://uio.zoom.us/j/68741237620?pwd=b0lmSkJMaU5yN
+ URtMyt3aG1DTUxRZz09
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:651970534
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

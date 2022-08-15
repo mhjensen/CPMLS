@@ -5,12 +5,39 @@ DATE: Today
 
 
 !split
-===== Where do I find these slides? =====
+===== Where do I find these slides? And more info =====
 
 !bblock
-Go to URL:"http://mhjensen.github.io/CPMLS/doc/pub/Welcome2021/html/Welcome2021-bs.html"
+* Go to URL:"http://mhjensen.github.io/CPMLS/doc/pub/Welcome2022/html/Welcome2022-bs.html"
 
-You will receive an email later with the link together with weekly updates with weekly updates about the program as well.
+* You will receive an email later with the link together with weekly updates with weekly updates about the program as well.
+
+* You can also reach me at mhjensen@uio.no (Morten Hjorth-Jensen) or +47-48257387
+
+* Program coordinator: Espen Murtnes espen.murtnes@fys.uio.no
+
+!eblock
+
+
+
+
+!split
+===== Things to keep in mind this week =====
+!bblock
+o Meet your "study direction":"https://www.mn.uio.no/fysikk/english/studies/master/welcomeweek/index.html" Tuesday (may be study direction dependent) plus library course
+o Wednesday help with registration
+o Thursday: brush up your programming skills and more, 9-4pm with lunch, room FØ434 (Department of Physics)
+o Friday: program specific plans
+
+!eblock
+
+!split
+===== Other things of interest =====
+
+!bblock
+o Seminars for the whole program every two weeks, meet speakers from public and private sector, potential employers and master project supervisors, former CS students and more. Time: Fridays at 4pm, snakcs, pizza and more after the seminar.
+o Other seminars can be arranged, for example on how to get started with the master thesis project and more
+o Deadline for first draft of master thesis project is December 1
 !eblock
 
 !split
@@ -34,7 +61,7 @@ intelligent consumers of the products of these tools, will be a critical and hig
 * Computational science has developed into a discipline of its own right
 * Computations and the understanding of large data sets will play an even larger role in basically all disciplines of STEM fields, Medicine, the Social Sciences, the Humanities and  education
 * Students at both undergraduate and graduate level are unprepared to use computational modeling, data science, and high performance computing – skills valued by a very broad range of employers.
-* The 3rd Industrial Revolution will alter significantly the demands on the workforce. To adapt a highly-qualified workforce to coming challenges  requires strong fundamental bases in STEM fields. Computational Science can provide such a background at all stages.
+* The 3rd Industrial Revolution will alter significantly the demands on the workforce. To adapt a highly-qualified workforce to coming challenges  requires strong fundamental bases in STEM fields. Computational Science and Data Science can provide such a background at all stages.
 
 !eblock
 
@@ -290,7 +317,7 @@ unique feature of this program.
 * Computational Science: Mechanics
 * Computational Science: Physics
 
-The thesis projects will be tailored to your needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
+The thesis projects will be tailored to your needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline. Many of the master thesis projects have advisors from more than one department.
 !eblock
 
 

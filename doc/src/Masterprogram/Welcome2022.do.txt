@@ -1,0 +1,361 @@
+TITLE: Master program in Computational Science  at the University of Oslo
+AUTHOR: Information about the CS program
+
+DATE: Today
+
+
+!split
+===== Where do I find these slides? =====
+
+!bblock
+Go to URL:"http://mhjensen.github.io/CPMLS/doc/pub/Welcome2021/html/Welcome2021-bs.html"
+
+You will receive an email later with the link together with weekly updates with weekly updates about the program as well.
+!eblock
+
+!split
+===== The coming job market needs people with your background! =====
+!bblock
+The "consulting company McKinsey recently released a report":"https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-age-of-analytics-competing-in-a-data-driven-world" arguing that the need for computational and data scientists – that is,
+workers who can successfully analyze, model, and interpret data, and use it to inform critical business
+decisions - is going to grow rapidly. A wide range of industries now use computational
+modeling and data analytics to inform many aspects of their day-to-day practices, encompassing
+a range of activities that include product design, optimizing manufacturing processes, hiring decisions,
+and choosing advertising targets. The trend is clear, as are the implications for new employees
+– being fluent in the tools used to work with data and computational models, as well as to be
+intelligent consumers of the products of these tools, will be a critical and highly  demanded skillset.
+!eblock
+
+!split
+===== Why should we focus on Computational Science and Data Science? =====
+!bblock
+* "By 2020, it is expected that one of every two jobs in the STEM fields will be in computing":"http://pathways.acm.org/executive-summary.html" (Association for Computing Machinery, 2013). Note the year of 2013. Today we can safely say almost all jobs!
+* Computation is an essential and cross-cutting element of all S(cience)T(echnology)E(ngineering)M(mathematics) disciplines
+* Computational science has developed into a discipline of its own right
+* Computations and the understanding of large data sets will play an even larger role in basically all disciplines of STEM fields, Medicine, the Social Sciences, the Humanities and  education
+* Students at both undergraduate and graduate level are unprepared to use computational modeling, data science, and high performance computing – skills valued by a very broad range of employers.
+* The 3rd Industrial Revolution will alter significantly the demands on the workforce. To adapt a highly-qualified workforce to coming challenges  requires strong fundamental bases in STEM fields. Computational Science can provide such a background at all stages.
+
+!eblock
+
+
+!split
+===== Master program in Computational Science =====
+!bblock
+
+The program is a collaboration between seven departments and classical disciplines:
+ 
+ * Institute of Theoretical Astrophysics
+ * Department of Biosciences
+ * Department of Chemistry
+ * Department of Geoscience
+ * Department of Informatics
+ * Department of Mathematics
+ * Department of Physics
+
+
+The program is multidisciplinary and everbody who  has completed
+undergraduate studies in science and engineering, with a sufficient
+quantitative background, is eligible.  The language of instruction is
+Norwegian or English.
+
+
+
+!eblock
+
+
+
+!split
+===== Strategic importance =====
+
+The program will educate the next generation of cross-disciplinary
+science students with the knowledge, skills, and values needed to pose
+and solve current and new scientific, technological and societal
+challenges. The program will lay the foundation for cross-disciplinary
+educational, research and innovation activities.
+
+It is the first educational program to
+comprehensively treat computation as the *triple junction* of
+algorithm development and analysis, high performance computing, and
+applications to scientific and engineering modeling and data
+science. This approach recognizes computation as a new discipline
+rather than being decentralized into isolated sub-disciplines. The CS program
+will  will enable application-driven computational modeling
+while also exposing disciplinary computational scientists to
+advanced tools and techniques, which will ignite new
+transformational connections in research and education.
+
+
+FIGURE: [figslides/cs.jpg, width=500 frac=0.6] 
+
+
+!split
+===== Vision for the future: Scientific Computing and Data Science =====
+
+Scientific computing focuses on the development of predictive computer
+models of the world around us. As study of physical phenomena through
+experimentation has become impossible, impractical and/or expensive,
+computational modeling has become the primary tool for
+understanding—equal in stature to analysis and experiment. 
+The discipline of scientific computing
+is the development of new methods that make challenging problems
+tractable on modern computing platforms, providing scientists and
+engineers with key windows into the world around us.
+
+Data science focuses on the development of tools designed to find
+trends within datasets that help scientists who are challenged with
+massive amounts of data to assess key relations within those
+datasets. These key relations provide hooks that allow scientists to
+identify models which, in turn, facilitate making accurate predictions
+in complex systems. For example, a key data science goal on the
+biological side would be better care for patients (e.g., personalized
+medicine). Given a patient’s genetic makeup, the proper data-driven
+model would identify the most effective treatment for that patient.
+
+
+!split
+===== Aims of the program =====
+
+
+A specific aim of this program is to develop your ability to pose and
+solve problems that combine  insights from a specific discipline with mathematical tools
+and computational skills. This provides a unique combination
+of applied and theoretical knowledge and skills. These features are invaluable
+for the development of multi-disciplinary educational and research programs.
+The main focus is not to educate computer
+specialists, but to educate students with a solid understanding in basic science
+as well as an integrated knowledge on how  to use
+essential methods from computational science. This requires an
+education that covers both the specific disciplines like physics, biology,
+geoscience, mathematics etc with a strong background in computational science.
+
+
+A significant aspect of this program is the ability to offer new educational
+opportunities that are aligned with the needs of a 21st century
+workforce. Many companies are seeking
+individuals who have knowledge of both a specific discipline and
+computational modeling.
+
+
+!split
+===== Scientific and educational motivation =====
+
+!bblock Applications of simulation
+Numerical simulations of various systems in science are central to our
+basic understanding of nature and technlogy.
+The increase in computational power,
+improved algorithms for solving problems in science as well as access
+to high-performance facilities, allow researchers nowadays to study
+complicated systems across many length and energy scales. Applications
+span from studying quantum physical systems in nanotechnology and the
+characteristics of new materials or subamotic physics at its smallest
+length scale, to simulating galaxies and the evolution of the universe.
+In between, simulations are key to understanding
+cancer treatment and how the brain works,
+predicting climate changes and this week's weather,
+simulating natural disasters, semi-conductor devices,
+quantum computers, as well as assessing risk in the insurance and
+financial industry. These are just a few topics
+already well covered at the University of Oslo and that can be
+topics for coming thesis projects as well as research directions.
+!eblock
+
+
+!split
+===== Multiscale modeling is a big open research question =====
+
+
+!bblock
+Today's problems, unlike traditional
+science and engineering, involve complex systems with many distinct
+physical processes. The wide open research topic of this century, both
+in industry and at universities, is how to effectively couple
+processes across different length and energy scales. Progress will
+rely on a multi-disciplinary approach and therefore a need for
+a multi-disciplinary educational program.
+!eblock
+
+!bblock
+The CS program aims at giving you  the right
+multi-disciplinary background and computational thinking for
+understanding today's simulation technology and its challenges.
+!eblock
+
+
+
+
+
+!split
+===== Computing competence =====
+!bblock
+Computing means solving scientific problems using computers. It covers
+numerical as well as symbolic computing. Computing is also about
+developing an understanding of the scientific process by enhancing
+algorithmic thinking when solving problems.  Computing competence has
+always been a central part of the science and engineering
+education.
+
+Modern computing competence is about
+
+* derivation, verification, and implementation of algorithms
+* understanding what can go wrong with algorithms
+* overview of important, known algorithms
+* understanding how algorithms are used to solve mathematical problems
+* reproducible science and ethics
+* algorithmic thinking for gaining deeper insights about scientific problems
+!eblock
+
+
+!split
+===== Key elements in computing competence =====
+!bblock
+The power of the scientific method lies in identifying a given problem
+as a special case of an abstract class of problems, identifying
+general solution methods for this class of problems, and applying a
+general method to the specific problem (applying means, in the case of
+computing, calculations by pen and paper, symbolic computing, or
+numerical computing by ready-made and/or self-written software). This
+generic view on problems and methods is particularly important for
+understanding how to apply available, generic software to solve a
+particular problem.
+
+
+Computing competence represents a central element
+in scientific problem solving, from basic education and research to
+essentially almost all advanced problems in modern
+societies. Computing competence is simply central to further
+progress. It enlarges the body of tools available to students and
+scientists beyond classical tools and allows for a more generic
+handling of problems. Focusing on algorithmic aspects results in
+deeper insights about scientific problems.
+
+
+!eblock
+
+!split
+===== Overarching description of the CS program  =====
+!bblock
+In this program you learn to use the computer as a laboratory for
+solving problems in science and engineering. The program offers
+exciting thesis projects from many disciplines: biology and life
+science, chemistry, mathematics, informatics, physics, geophysics,
+mechanics, geology, computational finance, computational informatics, b
+ig data analysis, digital signal processing
+and image analysis – you select research field according to
+your interests.
+
+A Master’s degree from this program gives you a methodical
+training in planning, conducting, and reporting large research
+projects, often together with other students and university teachers.
+The projects emphasize finding practical solutions, developing an
+intuitive understanding of the science and the scientific methods
+needed to solve complicated problems, use of many tools, and not least
+developing own creativity and independent thinking. The thesis
+work is a scientific project where you learn to tackle a
+scientific problem in a professional manner.   The program aims also at
+developing a deep understanding of the role of computing in solving modern scientific
+problems. 
+
+From this program you gain  deep insights in the fundamnetal role
+computations play  in our advancement of science and technology, as well as the role computations play  in society.
+
+!eblock
+
+!split
+===== The program opens up for flexible backgrounds  =====
+
+!bblock
+While discipline-based master's programs tend to introduce very strict
+requirements for specific courses, we believe in adapting a computational thesis
+topic to the student's background, thereby opening up for
+students with a wide range of bachelor's degrees.
+A very heterogeneous student community is thought to be a strength and
+unique feature of this program.
+!eblock
+
+
+
+!split
+===== Thesis directions =====
+!bblock
+
+* Computational Science: Applied Mathematics and Risk Analysis
+* Computational Science: Astrophysics
+* Computational Science: Bioinformatics
+* Computational Science: Biology
+* Computational Science: Chemistry
+* Computational Science: Geoscience
+* Computational Science: Imaging and Biomedical Computing
+* Computational Science: Materials science
+* Computational Science: Mechanics
+* Computational Science: Physics
+
+The thesis projects will be tailored to your needs, wishes and scientific background. The projects can easily incorporate topics from more than one discipline.
+!eblock
+
+
+
+!split
+===== Selected two out of three proposed compulsory courses  =====
+!bblock
+In order to build a common study program and identity as a Computational Science student, there will be two compulsory courses that aim at providing topics of common and broad interest.
+
+
+* _FYS-STK3155/4155_: "Applied Data analysis and machine learning":"https://www.uio.no/studier/emner/matnat/fys/FYS-STK4155/index-eng.html", 10 ECTS, Fall semester
+
+* _MAT4100_: "Introduction to numerical analysis":"https://www.uio.no/studier/emner/matnat/math/MAT4110/index-eng.html", 10 ECTS, Fall semester
+
+* _IN3200/4200_: "High-Performance Computing with Numerical projects":"https://www.uio.no/studier/emner/matnat/ifi/IN3200/index-eng.html", 10 ECTS, spring semester (Code number still not correct on program website)
+
+!eblock
+
+
+
+!split
+===== Career prospects =====
+
+!bblock
+Candidates who are capable of modeling and understanding complicated
+systems in natural science, are in short supply in society.  The
+computational methods and approaches to scientific problems students learn
+when working on their thesis projects are very similar to the methods
+they will use in later stages of their careers.  To handle large
+numerical projects demands structured thinking and good analytical
+skills and a thorough understanding of the problems to be solved. This
+knowledge makes the students unique on the labor market.
+
+Career opportunities are many, from research institutes, universities
+and university colleges and a multitude of companies. Examples
+include IBM, Hydro, Statoil, and Telenor.  The program gives an
+excellent background for further studies, with a PhD as one possible
+goal.
+
+The program has also a strong international element which allows students to
+gain important experience from international collaborations in
+science, with the opportunity to spend parts of the time spent on
+thesis work at research institutions abroad.
+!eblock
+
+
+
+
+!split
+===== "The Center for Computing in Science Education (CCSE)":"https://www.mn.uio.no/ccse/english/" =====
+
+!bblock  
+The goal of CCSE is to integrate computing as a natural tool in basic educations, to make the education research near and to prepare students for an interdisciplinary workplace.
+
+The center will function as our coordintaing unit for common scientific and social activities. 
+
+Location: fourth floor, eastern wing of the Physics building.
+!eblock 
+
+
+!split
+===== "The Center for Computational and Data Science (dScience)":"https://www.uio.no/dscience/" =====
+
+!bblock  
+This newly establised center is taylored to innovative research on Computational Science and Data Science and coordinates research and educational activities in the these fields. Look up the above weblink for more information.
+!eblock 
+
+

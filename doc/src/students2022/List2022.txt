@@ -1,0 +1,461 @@
+Dette er alle de som er tatt opp i høst (men OBS dette omfatter alle studieretningene):
+ 
+180297
+616503
+Aasen
+Anna Pauline Hjertvik
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+47246322
+apaasen@student.sv.uio.no
+170298
+606019
+Aasrud
+Knut Magnus
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+48061108
+k.m.aasrud@fys.uio.no
+300997
+603293
+Atifi
+Achraf
+MNM2-CS
+Computational Science
+CSGEOS
+2022
+HØST
+2022
+HØST
+97505759
+achraf.atifi@fys.uio.no
+230700
+628862
+Bjørn
+Simon Andreas
+MNM2-CS
+Computational Science
+CSIMBC
+2022
+HØST
+2022
+HØST
+92668263
+s.a.bjorn@fys.uio.no
+100798
+605971
+Borger
+Camilla Dalby
+MNM2-CS
+Computational Science
+CSBINF
+2022
+HØST
+2022
+HØST
+91330256
+c.d.borger@fys.uio.no
+270100
+631135
+Breitenstein
+Henrik Modahl
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+41395010
+h.m.breitenstein@fys.uio.no
+21299
+631144
+Bryne
+Nanna
+MNM2-CS
+Computational Science
+CSAST
+2022
+HØST
+2022
+HØST
+94434149
+nanna.bryne@fys.uio.no
+190700
+628826
+Bøe
+Vilde Schulerud
+MNM2-CS
+Computational Science
+CSIMBC
+2022
+HØST
+2022
+HØST
+46799580
+vildesbo@ifi.uio.no
+31196
+590884
+Dadvar
+Fuad
+MNM2-CS
+Computational Science
+CSMASC
+2022
+HØST
+2022
+HØST
+98463241
+fuad.dadvar@kjemi.uio.no
+210300
+631129
+Dørum
+Emilie
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+99570722
+emilie.dorum@fys.uio.no
+50198
+657184
+Folåsen
+Henriette
+MNM2-CS
+Computational Science
+CSIMBC
+2022
+HØST
+2022
+HØST
+97760551
+henriette.folasen@fys.uio.no
+20199
+615396
+Gregusson
+Martin Dragseth
+MNM2-CS
+Computational Science
+CSAMRA
+2022
+HØST
+2022
+HØST
+45434779
+m.d.gregusson@fys.uio.no
+200294
+567727
+Gursli
+Aleksander Berge
+MNM2-CS
+Computational Science
+CSBINF
+2022
+HØST
+2022
+HØST
+46656585
+aleksbg@student.ibv.uio.no
+155499
+668432
+Haas Becattini Lima
+Daniel
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+46565651
+d.h.b.lima@fys.uio.no
+270190
+559968
+Jakobsen
+Adam
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+92478397
+96852332
+adam.jakobsen@fys.uio.no
+220191
+528273
+Johnsen
+Øyvind Are Rysstad
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+47381613
+oajohnse@student.matnat.uio.no
+20392
+559829
+Kløvstad
+Idun
+MNM2-CS
+Computational Science
+CSIMBC
+2022
+HØST
+2022
+HØST
+47614656
+47614656
+idun.klovstad@fys.uio.no
+120200
+628829
+Kristensen
+Erlend
+MNM2-CS
+Computational Science
+CSIMBC
+2022
+HØST
+2022
+HØST
+41765891
+erlend.kristensen@fys.uio.no
+170699
+617812
+Kroken
+Johan Mylius
+MNM2-CS
+Computational Science
+CSAST
+2022
+HØST
+2022
+HØST
+45429569
+j.m.kroken@fys.uio.no
+71098
+617870
+Kvernmoen
+Håkon
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+97438444
+hakon.kvernmoen@fys.uio.no
+250599
+617877
+Lippe
+Filip Severin von der
+MNM2-CS
+Computational Science
+CSGEOS
+2022
+HØST
+2022
+HØST
+45427020
+fslippe@student.geo.uio.no
+110398
+605828
+Løken
+Simen
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+90288158
+simen.loken@fys.uio.no
+141093
+568419
+Lønning
+Ivar
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+98449205
+98449205
+ivarlon@math.uio.no
+130199
+663344
+Mellemstuen
+Mathias
+MNM2-CS
+Computational Science
+CSIMBC
+2022
+HØST
+2022
+HØST
+90659071
+mathime@student.matnat.uio.no
+100899
+668892
+Myhre
+Simon
+MNM2-CS
+Computational Science
+CSIMBC
+2022
+HØST
+2022
+HØST
+94829214
+simon.myhre@fys.uio.no
+51276
+392712
+Patey
+Stig Emil Ottersen
+MNM2-CS
+Computational Science
+CSAMRA
+2022
+HØST
+2022
+HØST
+32133076
+91388769
+s.e.o.patey@fys.uio.no
+10298
+631143
+Pedersen
+Fredrik Junker
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+48098462
+f.j.pedersen@fys.uio.no
+61095
+570308
+Pinjusic
+Daniel
+MNM2-CS
+Computational Science
+CSIMBC
+2022
+HØST
+2022
+HØST
+99305977
+daniel.pinjusic@fys.uio.no
+31096
+596562
+Sandstrøm
+Synnøve Isabel Wallentin
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+93227788
+s.i.w.sandstrom@fys.uio.no
+61099
+615569
+Selmer-Anderssen
+Magnus Kråkenes
+MNM2-CS
+Computational Science
+CSBINF
+2022
+HØST
+2022
+HØST
+91128250
+m.k.selmer-anderssen@fys.uio.no
+220600
+631151
+Stenersen
+Johannes Løseth
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+48203782
+j.l.stenersen@fys.uio.no
+20497
+631141
+Tønnessen
+Semya Amouche
+MNM2-CS
+Computational Science
+CSAST
+2022
+HØST
+2022
+HØST
+94134379
+s.a.tonnessen@fys.uio.no
+300696
+608833
+Ung
+Vilde Hansteen
+MNM2-CS
+Computational Science
+CSPHYS
+2022
+HØST
+2022
+HØST
+95493868
+vildehun@student.ifikk.uio.no
+70490
+520963
+Wik
+Frieda Liv Victoria
+MNM2-CS
+Computational Science
+CSBIOS
+2022
+HØST
+2022
+HØST
+45880761
+f.l.v.wik@fys.uio.no
+260399
+636826
+Willassen
+Andreas Aarseth
+MNM2-CS
+Computational Science
+CSAMRA
+2022
+HØST
+2022
+HØST
+40398901
+a.a.willassen@fys.uio.no

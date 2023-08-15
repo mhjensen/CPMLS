@@ -406,11 +406,6 @@ o PhD and/or Master program
   o with directions in _Artificial Intelligence and Machine Learning_
 
 
-!split
-===== QuSTEAM Model =====
-
-FIGURE: [figures/qusteam.png, width=800 frac=1.0]
-
 
 !split
 ===== Courses, Prototype =====

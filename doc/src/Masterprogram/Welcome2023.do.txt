@@ -8,9 +8,8 @@ DATE: Today
 ===== Where do I find these slides? And more info =====
 
 !bblock
-* Go to URL:"http://mhjensen.github.io/CPMLS/doc/pub/Welcome2022/html/Welcome2023-bs.html"
+* Go to URL:"http://mhjensen.github.io/CPMLS/doc/pub/Welcome2023/html/Welcome2023-bs.html"
 
-* You will receive an email later with the link together with weekly updates with weekly updates about the program as well.
 
 * You can also reach me at mhjensen@uio.no (Morten Hjorth-Jensen) or +47-48257387
 
@@ -26,8 +25,8 @@ DATE: Today
 !bblock
 o Meet your "study direction":"https://www.mn.uio.no/fysikk/english/studies/master/welcomeweek/index.html" Tuesday (may be study direction dependent) plus library course
 o Wednesday help with registration
-o Thursday: brush up your programming skills and more, 2-4pm room FØ434 (Department of Physics)
-o Friday: program specific plans
+o Thursday: brush up your programming skills and more, 14.30-16.30 FØ434 (Department of Physics)
+o Friday: Info meeting for all CS students, 12.15-15, Store fysiske lesesal.
 
 !eblock
 

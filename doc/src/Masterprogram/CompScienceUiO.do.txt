@@ -368,9 +368,9 @@ We seek to minimize the function $\mathcal{C} (\mathbf{x}, f(\mathbf{\alpha}))$ 
 
 
 
-
 !split
 ===== Quantum Science and Technologies =====
+
 
 
 !bblock Quantum Computing requirements
@@ -389,19 +389,21 @@ o Superconducting Josephon junctions
 o Single photons
 o "Trapped ions and atoms":"https://www.insidequantumtechnology.com/news-archive/ionq-is-first-quantum-startup-to-go-public-will-it-be-first-to-deliver-profits/"
 o Nuclear Magnetic Resonance
-o Quantum dots
-o _Point Defects in semiconductors_, experiments at UiO
+o Quantum dots, expt at MSU
+o _Point Defects in semiconductors, experiments at UiO, center for Materials Science_
 o more
 
 
 !split
-=====  Education at undergraduate level and more =====
+=====  Education =====
 
-o Build up a series of courses in QIS, inspiration "QuSTEAM (Quantum Information Science, Technology, Engineering, Arts and Mathematics) initiative":"https://qusteam.org/"
-o Bachelor degree in Computational Physics and Quantum Science/Technologies?
-  o study direction/option in _quantum technologies/science_
+o Build up a series of courses in QIS, inspiration "QuSTEAM (Quantum Information Science, Technology, Engineering, Arts and Mathematics) initiative from USA":"https://qusteam.org/"
+o Bachelor program in Computational Physics and Quantum Technologies
+  o study direction/option in _quantum technologies_
   o study direction/option in _Artificial Intelligence and Machine Learning_
-o PhD and/or Master program
+o Master of Science program in Computational and Data Science
+  o UiO has already MSc programs in CS and DS
+o PhD program in CS and DS
   o with directions in _quantum technologies_
   o with directions in _Artificial Intelligence and Machine Learning_
 
@@ -420,5 +422,35 @@ o Quantum Software
 o Quantum Hardware
 o more
 !eblock
+
+!split
+===== Important Issues to think of =====
+o Lots of conceptual learning: superposition, entanglement, QIS applications, etc.
+o Coding is indispensable. That is why this should be a part of a CS/DS program
+o Teamwork, project management, and communication are important and highly valued
+o Engagement with industry: guest lectures, virtual tours, co-ops, and/or internships.
+o Diversity needs to be a priority
+o Mentorship should begin the moment students enroll.
+
+!split
+===== Observations =====
+
+o Students do not really know what QIS is. 
+o There is conflation of “Quantum Information Science” with “Quantum computing”.
+o Students perceive that a graduate degree is necessary to work in QIS. A BSc will help.
+
+!split
+===== Future Needs/Problems (US observations mostly but transfer most likely to Europe as well) =====
+
+o There are already (USA) great needs for specialized people (Ph. D. s, postdocs), but also needs of  people with a broad overview of what is possible in QIS.
+o There are not enough potential employees in QIS (USA). It is a supply gap, not a skills gap.
+o A BSc with specialization  is a good place to start
+o It is tremendously important to get everyone speaking the same language. Facility with the vernacular of quantum mechanics is a big plus.
+o There is a huge list of areas where technical expertise may be important. But employers are often more concerned with attributes like project management, working well in a team, interest in the field, and adaptability than in specific technical skills.
+
+
+
+
+
 
 

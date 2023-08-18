@@ -23,7 +23,7 @@ DATE: Today
 !split
 ===== Things to keep in mind this week =====
 !bblock
-o Meet your "study direction":"https://www.mn.uio.no/fysikk/english/studies/master/welcomeweek/index.html" Tuesday (may be study direction dependent) plus library course
+o Meet your "study direction":"https://www.mn.uio.no/fysikk/english/studies/master/welcomeweek/index.html" Tuesday and/or department specific meetings
 o Wednesday help with registration
 o Thursday: brush up your programming skills and more, 14.30-16.30 FØ434 (Department of Physics)
 o Friday: Info meeting for all CS students, 12.15-15, Store fysiske lesesal.
@@ -34,7 +34,7 @@ o Friday: Info meeting for all CS students, 12.15-15, Store fysiske lesesal.
 ===== Other things of interest =====
 
 !bblock
-o Seminars for the whole program every two weeks, meet speakers from public and private sector, potential employers and master project supervisors, former CS students and more. Time: Fridays at 4pm, snakcs, pizza and more after the seminar.
+o Seminars for the whole program roughly every two weeks, meet speakers from public and private sector, potential employers and master project supervisors, former CS students and more. Time: Fridays at 4pm, snakcs, pizza, gaming sessions and more after the seminar.
 o Other seminars can be arranged, for example on how to get started with the master thesis project and more
 o Deadline for first draft of master thesis project is December 1
 !eblock
@@ -383,5 +383,23 @@ Location: fourth floor, eastern wing of the Physics building.
 !bblock  
 This newly establised center is taylored to innovative research on Computational Science and Data Science and coordinates research and educational activities in the these fields. Look up the above weblink for more information.
 !eblock 
+
+
+!split
+===== Courses of interest =====
+
+* _FYS5429 Advanced Machine Learning for the Physical Sciences_ URL:"https://www.uio.no/studier/emner/matnat/fys/FYS5429/index-eng.html"
+* _FYS5419 Quantum Computing and Quantum Machine Learning_ URL:"https://www.uio.no/studier/emner/matnat/fys/FYS5419/index-eng.html"
+* _STK2100 Machine learning and statistical methods for prediction and classification_ URL:"http://www.uio.no/studier/emner/matnat/math/STK2100/index-eng.html".  
+* _IN3050/4050 Introduction to Artificial Intelligence and Machine Learning_ URL:"https://www.uio.no/studier/emner/matnat/ifi/IN3050/index-eng.html". Introductory course in machine learning and AI with an algorithmic approach. 
+* _IN4080 Natural Language Processing_ URL:"https://www.uio.no/studier/emner/matnat/ifi/IN4080/index.html". Probabilistic and machine learning techniques applied to natural language processing. 
+* _IN5550 – Neural Methods in Natural Language Processing_ URL:"URL:"https://www.uio.no/studier/emner/matnat/ifi/IN5550/index.html". This course studies a selection of advanced techniques in Natural Language Processing (NLP), with particular emphasis on recent and current research literature. The focus will be on machine learning and specifically deep neural network approaches to the automated analysis of natural language text.
+* _STK-IN4300 Statistical learning methods in Data Science_ URL:"https://www.uio.no/studier/emner/matnat/math/STK-IN4300/index-eng.html". An advanced introduction to statistical and machine learning. For students with a good mathematics and statistics background.
+* _IN-STK5000  Adaptive Methods for Data-Based Decision Making_ URL:"https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/index-eng.html". Methods for adaptive collection and processing of data based on machine learning techniques. 
+* _IN4310 Deep Learning for Image Analysis_ URL:"https://www.uio.no/studier/emner/matnat/ifi/IN4310/index.html". An introduction to deep learning with particular emphasis on applications within Image analysis, but useful for other application areas too.
+* _STK4051 Computational Statistics_ URL:"https://www.uio.no/studier/emner/matnat/math/STK4051/index-eng.html"
+* _STK4021 Applied Bayesian Analysis and Numerical Methods_ URL:"https://www.uio.no/studier/emner/matnat/math/STK4021/"
+
+
 
 

@@ -46,17 +46,19 @@ system doconce format html $name --html_style=bloodish --html_links_in_new_windo
 # Add space between splits
 system doconce split_html $html.html --method=space8
 
+# LaTeX Beamer slides
+beamertheme=red_plain
+system doconce format pdflatex $name --latex_title_layout=beamer --latex_table_format=footnotesize $opt
+system doconce ptex2tex $name envir=minted
+# Add special packages
+doconce subst "% Add user's preamble" "\g<1>\n\\usepackage{simplewick}" $name.tex
+system doconce slides_beamer $name --beamer_slide_theme=$beamertheme
+#system pdflatex -shell-escape ${name}
+#system pdflatex -shell-escape ${name}
+#cp $name.pdf ${name}-beamer.pdf
+#cp $name.tex ${name}-beamer.tex
 
-# Ordinary plain LaTeX document
-rm -f *.aux  # important after beamer
-system doconce format pdflatex $name --minted_latex_style=trac --latex_admon=paragraph --latex_code_style=pyg $opt
-doconce replace 'section{' 'section*{' $name.tex
-pdflatex -shell-escape $name
-mv -f $name.pdf ${name}-minted.pdf
-cp $name.tex ${name}-plain-minted.tex
 
-# IPython notebook
-#system doconce format ipynb $name $opt
 
 # Publish
 dest=../../pub
@@ -89,5 +91,6 @@ fi
 cp ${ipynb_tarfile} $dest/$name/ipynb
 
 
-doconce format html index --html_style=bootstrap --html_links_in_new_window --html_bootstrap_jumbotron=off
-cp index.html $dest
+
+
+

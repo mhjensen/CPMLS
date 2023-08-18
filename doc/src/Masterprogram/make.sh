@@ -53,10 +53,10 @@ system doconce ptex2tex $name envir=minted
 # Add special packages
 doconce subst "% Add user's preamble" "\g<1>\n\\usepackage{simplewick}" $name.tex
 system doconce slides_beamer $name --beamer_slide_theme=$beamertheme
-#system pdflatex -shell-escape ${name}
-#system pdflatex -shell-escape ${name}
-#cp $name.pdf ${name}-beamer.pdf
-#cp $name.tex ${name}-beamer.tex
+system pdflatex -shell-escape ${name}
+system pdflatex -shell-escape ${name}
+cp $name.pdf ${name}-beamer.pdf
+cp $name.tex ${name}-beamer.tex
 
 
 

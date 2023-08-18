@@ -394,12 +394,16 @@ This newly establised center is taylored to innovative research on Computational
 * _IN3050/4050 Introduction to Artificial Intelligence and Machine Learning_ URL:"https://www.uio.no/studier/emner/matnat/ifi/IN3050/index-eng.html". Introductory course in machine learning and AI with an algorithmic approach. 
 * _IN4080 Natural Language Processing_ URL:"https://www.uio.no/studier/emner/matnat/ifi/IN4080/index.html". Probabilistic and machine learning techniques applied to natural language processing. 
 * _IN5550 – Neural Methods in Natural Language Processing_ URL:"URL:"https://www.uio.no/studier/emner/matnat/ifi/IN5550/index.html". This course studies a selection of advanced techniques in Natural Language Processing (NLP), with particular emphasis on recent and current research literature. The focus will be on machine learning and specifically deep neural network approaches to the automated analysis of natural language text.
+
+!split
+===== Courses continues =====
+
 * _STK-IN4300 Statistical learning methods in Data Science_ URL:"https://www.uio.no/studier/emner/matnat/math/STK-IN4300/index-eng.html". An advanced introduction to statistical and machine learning. For students with a good mathematics and statistics background.
 * _IN-STK5000  Adaptive Methods for Data-Based Decision Making_ URL:"https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/index-eng.html". Methods for adaptive collection and processing of data based on machine learning techniques. 
 * _IN4310 Deep Learning for Image Analysis_ URL:"https://www.uio.no/studier/emner/matnat/ifi/IN4310/index.html". An introduction to deep learning with particular emphasis on applications within Image analysis, but useful for other application areas too.
 * _STK4051 Computational Statistics_ URL:"https://www.uio.no/studier/emner/matnat/math/STK4051/index-eng.html"
 * _STK4021 Applied Bayesian Analysis and Numerical Methods_ URL:"https://www.uio.no/studier/emner/matnat/math/STK4021/"
-
+* _MAT-MEK4270 Numerical methods for partial differential equations_ URL:"https://www.uio.no/studier/emner/matnat/math/MAT-MEK4270/index-eng.html"
 
 
 
